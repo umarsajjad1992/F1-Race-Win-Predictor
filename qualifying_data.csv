@@ -1,24 +1,4 @@
-Season,Race,DriverID,Q1Time,Q2Time,Q3Time,GridPos
-2021,Pre-Season Test,max_verstappen,94.352,93.464,92.91,1.0
-2021,Pre-Season Test,hamilton,94.579,93.797,93.119,2.0
-2021,Pre-Season Test,perez,94.369,94.178,93.134,3.0
-2021,Pre-Season Test,bottas,94.59,93.959,93.475,4.0
-2021,Pre-Season Test,leclerc,94.153,93.928,93.606,5.0
-2021,Pre-Season Test,sainz,94.558,94.126,93.792,6.0
-2021,Pre-Season Test,ricciardo,94.407,94.643,93.808,7.0
-2021,Pre-Season Test,norris,94.551,93.88,93.887,8.0
-2021,Pre-Season Test,gasly,94.567,94.583,94.118,9.0
-2021,Pre-Season Test,tsunoda,95.36,95.137,94.918,10.0
-2021,Pre-Season Test,ocon,95.747,95.377,,11.0
-2021,Pre-Season Test,vettel,95.281,95.5,,12.0
-2021,Pre-Season Test,giovinazzi,95.92,95.794,,13.0
-2021,Pre-Season Test,alonso,95.756,104.549,,14.0
-2021,Pre-Season Test,russell,95.746,,,15.0
-2021,Pre-Season Test,stroll,95.983,,,16.0
-2021,Pre-Season Test,latifi,95.995,,,17.0
-2021,Pre-Season Test,raikkonen,96.311,,,18.0
-2021,Pre-Season Test,mick_schumacher,96.499,,,19.0
-2021,Pre-Season Test,mazepin,96.796,,,20.0
+Season,Race,DriverID,Q1Time,Q2Time,Q3Time,QualiGridPos
 2021,Bahrain Grand Prix,max_verstappen,90.499,90.318,88.997,1.0
 2021,Bahrain Grand Prix,hamilton,90.617,90.085,89.385,2.0
 2021,Bahrain Grand Prix,bottas,91.2,90.186,89.586,3.0
@@ -479,26 +459,6 @@ Season,Race,DriverID,Q1Time,Q2Time,Q3Time,GridPos
 2022,Pre-Season Track Session,vettel,102.666,,,18.0
 2022,Pre-Season Track Session,mick_schumacher,102.708,,,19.0
 2022,Pre-Season Track Session,stroll,103.43,,,20.0
-2022,Pre-Season Test,sainz,95.297,95.59,94.356,1.0
-2022,Pre-Season Test,leclerc,95.795,95.246,94.421,2.0
-2022,Pre-Season Test,max_verstappen,95.864,95.294,94.448,3.0
-2022,Pre-Season Test,perez,96.163,95.864,94.645,4.0
-2022,Pre-Season Test,hamilton,96.148,95.732,94.947,5.0
-2022,Pre-Season Test,russell,96.195,95.692,94.988,6.0
-2022,Pre-Season Test,stroll,96.86,96.032,95.598,7.0
-2022,Pre-Season Test,norris,96.465,96.341,95.69,8.0
-2022,Pre-Season Test,alonso,96.446,95.988,95.876,9.0
-2022,Pre-Season Test,bottas,96.746,96.321,96.319,10.0
-2022,Pre-Season Test,albon,96.932,96.368,,11.0
-2022,Pre-Season Test,vettel,96.695,96.398,,12.0
-2022,Pre-Season Test,gasly,96.577,96.74,,13.0
-2022,Pre-Season Test,zhou,96.656,96.97,,14.0
-2022,Pre-Season Test,tsunoda,96.808,97.147,,15.0
-2022,Pre-Season Test,kevin_magnussen,96.949,,,16.0
-2022,Pre-Season Test,ricciardo,97.046,,,17.0
-2022,Pre-Season Test,ocon,97.068,,,18.0
-2022,Pre-Season Test,mick_schumacher,97.111,,,19.0
-2022,Pre-Season Test,latifi,97.244,,,20.0
 2022,Bahrain Grand Prix,leclerc,91.471,90.932,90.558,1.0
 2022,Bahrain Grand Prix,max_verstappen,91.785,90.757,90.681,2.0
 2022,Bahrain Grand Prix,sainz,91.567,90.787,90.687,3.0
