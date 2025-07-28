@@ -1,1860 +1,1860 @@
-Season,Race,DriverID,RacePosition
-2021,Bahrain Grand Prix,hamilton,1.0
-2021,Bahrain Grand Prix,max_verstappen,2.0
-2021,Bahrain Grand Prix,bottas,3.0
-2021,Bahrain Grand Prix,norris,4.0
-2021,Bahrain Grand Prix,perez,5.0
-2021,Bahrain Grand Prix,leclerc,6.0
-2021,Bahrain Grand Prix,ricciardo,7.0
-2021,Bahrain Grand Prix,sainz,8.0
-2021,Bahrain Grand Prix,tsunoda,9.0
-2021,Bahrain Grand Prix,stroll,10.0
-2021,Bahrain Grand Prix,raikkonen,11.0
-2021,Bahrain Grand Prix,giovinazzi,12.0
-2021,Bahrain Grand Prix,ocon,13.0
-2021,Bahrain Grand Prix,russell,14.0
-2021,Bahrain Grand Prix,vettel,15.0
-2021,Bahrain Grand Prix,mick_schumacher,16.0
-2021,Bahrain Grand Prix,gasly,17.0
-2021,Bahrain Grand Prix,latifi,18.0
-2021,Bahrain Grand Prix,alonso,19.0
-2021,Bahrain Grand Prix,mazepin,20.0
-2021,Emilia Romagna Grand Prix,max_verstappen,1.0
-2021,Emilia Romagna Grand Prix,hamilton,2.0
-2021,Emilia Romagna Grand Prix,norris,3.0
-2021,Emilia Romagna Grand Prix,leclerc,4.0
-2021,Emilia Romagna Grand Prix,sainz,5.0
-2021,Emilia Romagna Grand Prix,ricciardo,6.0
-2021,Emilia Romagna Grand Prix,gasly,7.0
-2021,Emilia Romagna Grand Prix,stroll,8.0
-2021,Emilia Romagna Grand Prix,ocon,9.0
-2021,Emilia Romagna Grand Prix,alonso,10.0
-2021,Emilia Romagna Grand Prix,perez,11.0
-2021,Emilia Romagna Grand Prix,tsunoda,12.0
-2021,Emilia Romagna Grand Prix,raikkonen,13.0
-2021,Emilia Romagna Grand Prix,giovinazzi,14.0
-2021,Emilia Romagna Grand Prix,vettel,15.0
-2021,Emilia Romagna Grand Prix,mick_schumacher,16.0
-2021,Emilia Romagna Grand Prix,mazepin,17.0
-2021,Emilia Romagna Grand Prix,bottas,18.0
-2021,Emilia Romagna Grand Prix,russell,19.0
-2021,Emilia Romagna Grand Prix,latifi,20.0
-2021,Portuguese Grand Prix,hamilton,1.0
-2021,Portuguese Grand Prix,max_verstappen,2.0
-2021,Portuguese Grand Prix,bottas,3.0
-2021,Portuguese Grand Prix,perez,4.0
-2021,Portuguese Grand Prix,norris,5.0
-2021,Portuguese Grand Prix,leclerc,6.0
-2021,Portuguese Grand Prix,ocon,7.0
-2021,Portuguese Grand Prix,alonso,8.0
-2021,Portuguese Grand Prix,ricciardo,9.0
-2021,Portuguese Grand Prix,gasly,10.0
-2021,Portuguese Grand Prix,sainz,11.0
-2021,Portuguese Grand Prix,giovinazzi,12.0
-2021,Portuguese Grand Prix,vettel,13.0
-2021,Portuguese Grand Prix,stroll,14.0
-2021,Portuguese Grand Prix,tsunoda,15.0
-2021,Portuguese Grand Prix,russell,16.0
-2021,Portuguese Grand Prix,mick_schumacher,17.0
-2021,Portuguese Grand Prix,latifi,18.0
-2021,Portuguese Grand Prix,mazepin,19.0
-2021,Portuguese Grand Prix,raikkonen,20.0
-2021,Spanish Grand Prix,hamilton,1.0
-2021,Spanish Grand Prix,max_verstappen,2.0
-2021,Spanish Grand Prix,bottas,3.0
-2021,Spanish Grand Prix,leclerc,4.0
-2021,Spanish Grand Prix,perez,5.0
-2021,Spanish Grand Prix,ricciardo,6.0
-2021,Spanish Grand Prix,sainz,7.0
-2021,Spanish Grand Prix,norris,8.0
-2021,Spanish Grand Prix,ocon,9.0
-2021,Spanish Grand Prix,gasly,10.0
-2021,Spanish Grand Prix,stroll,11.0
-2021,Spanish Grand Prix,raikkonen,12.0
-2021,Spanish Grand Prix,vettel,13.0
-2021,Spanish Grand Prix,russell,14.0
-2021,Spanish Grand Prix,giovinazzi,15.0
-2021,Spanish Grand Prix,latifi,16.0
-2021,Spanish Grand Prix,alonso,17.0
-2021,Spanish Grand Prix,mick_schumacher,18.0
-2021,Spanish Grand Prix,mazepin,19.0
-2021,Spanish Grand Prix,tsunoda,20.0
-2021,Monaco Grand Prix,max_verstappen,1.0
-2021,Monaco Grand Prix,sainz,2.0
-2021,Monaco Grand Prix,norris,3.0
-2021,Monaco Grand Prix,perez,4.0
-2021,Monaco Grand Prix,vettel,5.0
-2021,Monaco Grand Prix,gasly,6.0
-2021,Monaco Grand Prix,hamilton,7.0
-2021,Monaco Grand Prix,stroll,8.0
-2021,Monaco Grand Prix,ocon,9.0
-2021,Monaco Grand Prix,giovinazzi,10.0
-2021,Monaco Grand Prix,raikkonen,11.0
-2021,Monaco Grand Prix,ricciardo,12.0
-2021,Monaco Grand Prix,alonso,13.0
-2021,Monaco Grand Prix,russell,14.0
-2021,Monaco Grand Prix,latifi,15.0
-2021,Monaco Grand Prix,tsunoda,16.0
-2021,Monaco Grand Prix,mazepin,17.0
-2021,Monaco Grand Prix,mick_schumacher,18.0
-2021,Monaco Grand Prix,bottas,19.0
-2021,Monaco Grand Prix,leclerc,20.0
-2021,Azerbaijan Grand Prix,perez,1.0
-2021,Azerbaijan Grand Prix,vettel,2.0
-2021,Azerbaijan Grand Prix,gasly,3.0
-2021,Azerbaijan Grand Prix,leclerc,4.0
-2021,Azerbaijan Grand Prix,norris,5.0
-2021,Azerbaijan Grand Prix,alonso,6.0
-2021,Azerbaijan Grand Prix,tsunoda,7.0
-2021,Azerbaijan Grand Prix,sainz,8.0
-2021,Azerbaijan Grand Prix,ricciardo,9.0
-2021,Azerbaijan Grand Prix,raikkonen,10.0
-2021,Azerbaijan Grand Prix,giovinazzi,11.0
-2021,Azerbaijan Grand Prix,bottas,12.0
-2021,Azerbaijan Grand Prix,mick_schumacher,13.0
-2021,Azerbaijan Grand Prix,mazepin,14.0
-2021,Azerbaijan Grand Prix,hamilton,15.0
-2021,Azerbaijan Grand Prix,latifi,16.0
-2021,Azerbaijan Grand Prix,russell,17.0
-2021,Azerbaijan Grand Prix,max_verstappen,18.0
-2021,Azerbaijan Grand Prix,stroll,19.0
-2021,Azerbaijan Grand Prix,ocon,20.0
-2021,French Grand Prix,max_verstappen,1.0
-2021,French Grand Prix,hamilton,2.0
-2021,French Grand Prix,perez,3.0
-2021,French Grand Prix,bottas,4.0
-2021,French Grand Prix,norris,5.0
-2021,French Grand Prix,ricciardo,6.0
-2021,French Grand Prix,gasly,7.0
-2021,French Grand Prix,alonso,8.0
-2021,French Grand Prix,vettel,9.0
-2021,French Grand Prix,stroll,10.0
-2021,French Grand Prix,sainz,11.0
-2021,French Grand Prix,russell,12.0
-2021,French Grand Prix,tsunoda,13.0
-2021,French Grand Prix,ocon,14.0
-2021,French Grand Prix,giovinazzi,15.0
-2021,French Grand Prix,leclerc,16.0
-2021,French Grand Prix,raikkonen,17.0
-2021,French Grand Prix,latifi,18.0
-2021,French Grand Prix,mick_schumacher,19.0
-2021,French Grand Prix,mazepin,20.0
-2021,Styrian Grand Prix,max_verstappen,1.0
-2021,Styrian Grand Prix,hamilton,2.0
-2021,Styrian Grand Prix,bottas,3.0
-2021,Styrian Grand Prix,perez,4.0
-2021,Styrian Grand Prix,norris,5.0
-2021,Styrian Grand Prix,sainz,6.0
-2021,Styrian Grand Prix,leclerc,7.0
-2021,Styrian Grand Prix,stroll,8.0
-2021,Styrian Grand Prix,alonso,9.0
-2021,Styrian Grand Prix,tsunoda,10.0
-2021,Styrian Grand Prix,raikkonen,11.0
-2021,Styrian Grand Prix,vettel,12.0
-2021,Styrian Grand Prix,ricciardo,13.0
-2021,Styrian Grand Prix,ocon,14.0
-2021,Styrian Grand Prix,giovinazzi,15.0
-2021,Styrian Grand Prix,mick_schumacher,16.0
-2021,Styrian Grand Prix,latifi,17.0
-2021,Styrian Grand Prix,mazepin,18.0
-2021,Styrian Grand Prix,russell,19.0
-2021,Styrian Grand Prix,gasly,20.0
-2021,Austrian Grand Prix,max_verstappen,1.0
-2021,Austrian Grand Prix,bottas,2.0
-2021,Austrian Grand Prix,norris,3.0
-2021,Austrian Grand Prix,hamilton,4.0
-2021,Austrian Grand Prix,sainz,5.0
-2021,Austrian Grand Prix,perez,6.0
-2021,Austrian Grand Prix,ricciardo,7.0
-2021,Austrian Grand Prix,leclerc,8.0
-2021,Austrian Grand Prix,gasly,9.0
-2021,Austrian Grand Prix,alonso,10.0
-2021,Austrian Grand Prix,russell,11.0
-2021,Austrian Grand Prix,tsunoda,12.0
-2021,Austrian Grand Prix,stroll,13.0
-2021,Austrian Grand Prix,giovinazzi,14.0
-2021,Austrian Grand Prix,raikkonen,15.0
-2021,Austrian Grand Prix,latifi,16.0
-2021,Austrian Grand Prix,vettel,17.0
-2021,Austrian Grand Prix,mick_schumacher,18.0
-2021,Austrian Grand Prix,mazepin,19.0
-2021,Austrian Grand Prix,ocon,20.0
-2021,British Grand Prix,hamilton,1.0
-2021,British Grand Prix,leclerc,2.0
-2021,British Grand Prix,bottas,3.0
-2021,British Grand Prix,norris,4.0
-2021,British Grand Prix,ricciardo,5.0
-2021,British Grand Prix,sainz,6.0
-2021,British Grand Prix,alonso,7.0
-2021,British Grand Prix,stroll,8.0
-2021,British Grand Prix,ocon,9.0
-2021,British Grand Prix,tsunoda,10.0
-2021,British Grand Prix,gasly,11.0
-2021,British Grand Prix,russell,12.0
-2021,British Grand Prix,giovinazzi,13.0
-2021,British Grand Prix,latifi,14.0
-2021,British Grand Prix,raikkonen,15.0
-2021,British Grand Prix,perez,16.0
-2021,British Grand Prix,mazepin,17.0
-2021,British Grand Prix,mick_schumacher,18.0
-2021,British Grand Prix,vettel,19.0
-2021,British Grand Prix,max_verstappen,20.0
-2021,Hungarian Grand Prix,ocon,1.0
-2021,Hungarian Grand Prix,hamilton,2.0
-2021,Hungarian Grand Prix,sainz,3.0
-2021,Hungarian Grand Prix,alonso,4.0
-2021,Hungarian Grand Prix,gasly,5.0
-2021,Hungarian Grand Prix,tsunoda,6.0
-2021,Hungarian Grand Prix,latifi,7.0
-2021,Hungarian Grand Prix,russell,8.0
-2021,Hungarian Grand Prix,max_verstappen,9.0
-2021,Hungarian Grand Prix,raikkonen,10.0
-2021,Hungarian Grand Prix,ricciardo,11.0
-2021,Hungarian Grand Prix,mick_schumacher,12.0
-2021,Hungarian Grand Prix,giovinazzi,13.0
-2021,Hungarian Grand Prix,mazepin,14.0
-2021,Hungarian Grand Prix,norris,15.0
-2021,Hungarian Grand Prix,bottas,16.0
-2021,Hungarian Grand Prix,perez,17.0
-2021,Hungarian Grand Prix,leclerc,18.0
-2021,Hungarian Grand Prix,stroll,19.0
-2021,Hungarian Grand Prix,vettel,20.0
-2021,Belgian Grand Prix,max_verstappen,1.0
-2021,Belgian Grand Prix,russell,2.0
-2021,Belgian Grand Prix,hamilton,3.0
-2021,Belgian Grand Prix,ricciardo,4.0
-2021,Belgian Grand Prix,vettel,5.0
-2021,Belgian Grand Prix,gasly,6.0
-2021,Belgian Grand Prix,ocon,7.0
-2021,Belgian Grand Prix,leclerc,8.0
-2021,Belgian Grand Prix,latifi,9.0
-2021,Belgian Grand Prix,sainz,10.0
-2021,Belgian Grand Prix,alonso,11.0
-2021,Belgian Grand Prix,bottas,12.0
-2021,Belgian Grand Prix,giovinazzi,13.0
-2021,Belgian Grand Prix,norris,14.0
-2021,Belgian Grand Prix,tsunoda,15.0
-2021,Belgian Grand Prix,mick_schumacher,16.0
-2021,Belgian Grand Prix,mazepin,17.0
-2021,Belgian Grand Prix,raikkonen,18.0
-2021,Belgian Grand Prix,perez,19.0
-2021,Belgian Grand Prix,stroll,20.0
-2021,Dutch Grand Prix,max_verstappen,1.0
-2021,Dutch Grand Prix,hamilton,2.0
-2021,Dutch Grand Prix,bottas,3.0
-2021,Dutch Grand Prix,gasly,4.0
-2021,Dutch Grand Prix,leclerc,5.0
-2021,Dutch Grand Prix,alonso,6.0
-2021,Dutch Grand Prix,sainz,7.0
-2021,Dutch Grand Prix,perez,8.0
-2021,Dutch Grand Prix,ocon,9.0
-2021,Dutch Grand Prix,norris,10.0
-2021,Dutch Grand Prix,ricciardo,11.0
-2021,Dutch Grand Prix,stroll,12.0
-2021,Dutch Grand Prix,vettel,13.0
-2021,Dutch Grand Prix,giovinazzi,14.0
-2021,Dutch Grand Prix,kubica,15.0
-2021,Dutch Grand Prix,latifi,16.0
-2021,Dutch Grand Prix,russell,17.0
-2021,Dutch Grand Prix,mick_schumacher,18.0
-2021,Dutch Grand Prix,tsunoda,19.0
-2021,Dutch Grand Prix,mazepin,20.0
-2021,Italian Grand Prix,ricciardo,1.0
-2021,Italian Grand Prix,norris,2.0
-2021,Italian Grand Prix,bottas,3.0
-2021,Italian Grand Prix,leclerc,4.0
-2021,Italian Grand Prix,perez,5.0
-2021,Italian Grand Prix,sainz,6.0
-2021,Italian Grand Prix,stroll,7.0
-2021,Italian Grand Prix,alonso,8.0
-2021,Italian Grand Prix,russell,9.0
-2021,Italian Grand Prix,ocon,10.0
-2021,Italian Grand Prix,latifi,11.0
-2021,Italian Grand Prix,vettel,12.0
-2021,Italian Grand Prix,giovinazzi,13.0
-2021,Italian Grand Prix,kubica,14.0
-2021,Italian Grand Prix,mick_schumacher,15.0
-2021,Italian Grand Prix,mazepin,16.0
-2021,Italian Grand Prix,hamilton,17.0
-2021,Italian Grand Prix,max_verstappen,18.0
-2021,Italian Grand Prix,gasly,19.0
-2021,Italian Grand Prix,tsunoda,20.0
-2021,Russian Grand Prix,hamilton,1.0
-2021,Russian Grand Prix,max_verstappen,2.0
-2021,Russian Grand Prix,sainz,3.0
-2021,Russian Grand Prix,ricciardo,4.0
-2021,Russian Grand Prix,bottas,5.0
-2021,Russian Grand Prix,alonso,6.0
-2021,Russian Grand Prix,norris,7.0
-2021,Russian Grand Prix,raikkonen,8.0
-2021,Russian Grand Prix,perez,9.0
-2021,Russian Grand Prix,russell,10.0
-2021,Russian Grand Prix,stroll,11.0
-2021,Russian Grand Prix,vettel,12.0
-2021,Russian Grand Prix,gasly,13.0
-2021,Russian Grand Prix,ocon,14.0
-2021,Russian Grand Prix,leclerc,15.0
-2021,Russian Grand Prix,giovinazzi,16.0
-2021,Russian Grand Prix,tsunoda,17.0
-2021,Russian Grand Prix,mazepin,18.0
-2021,Russian Grand Prix,latifi,19.0
-2021,Russian Grand Prix,mick_schumacher,20.0
-2021,Turkish Grand Prix,bottas,1.0
-2021,Turkish Grand Prix,max_verstappen,2.0
-2021,Turkish Grand Prix,perez,3.0
-2021,Turkish Grand Prix,leclerc,4.0
-2021,Turkish Grand Prix,hamilton,5.0
-2021,Turkish Grand Prix,gasly,6.0
-2021,Turkish Grand Prix,norris,7.0
-2021,Turkish Grand Prix,sainz,8.0
-2021,Turkish Grand Prix,stroll,9.0
-2021,Turkish Grand Prix,ocon,10.0
-2021,Turkish Grand Prix,giovinazzi,11.0
-2021,Turkish Grand Prix,raikkonen,12.0
-2021,Turkish Grand Prix,ricciardo,13.0
-2021,Turkish Grand Prix,tsunoda,14.0
-2021,Turkish Grand Prix,russell,15.0
-2021,Turkish Grand Prix,alonso,16.0
-2021,Turkish Grand Prix,latifi,17.0
-2021,Turkish Grand Prix,vettel,18.0
-2021,Turkish Grand Prix,mick_schumacher,19.0
-2021,Turkish Grand Prix,mazepin,20.0
-2021,United States Grand Prix,max_verstappen,1.0
-2021,United States Grand Prix,hamilton,2.0
-2021,United States Grand Prix,perez,3.0
-2021,United States Grand Prix,leclerc,4.0
-2021,United States Grand Prix,ricciardo,5.0
-2021,United States Grand Prix,bottas,6.0
-2021,United States Grand Prix,sainz,7.0
-2021,United States Grand Prix,norris,8.0
-2021,United States Grand Prix,tsunoda,9.0
-2021,United States Grand Prix,vettel,10.0
-2021,United States Grand Prix,giovinazzi,11.0
-2021,United States Grand Prix,stroll,12.0
-2021,United States Grand Prix,raikkonen,13.0
-2021,United States Grand Prix,russell,14.0
-2021,United States Grand Prix,latifi,15.0
-2021,United States Grand Prix,mick_schumacher,16.0
-2021,United States Grand Prix,mazepin,17.0
-2021,United States Grand Prix,alonso,18.0
-2021,United States Grand Prix,ocon,19.0
-2021,United States Grand Prix,gasly,20.0
-2021,Mexico City Grand Prix,max_verstappen,1.0
-2021,Mexico City Grand Prix,hamilton,2.0
-2021,Mexico City Grand Prix,perez,3.0
-2021,Mexico City Grand Prix,gasly,4.0
-2021,Mexico City Grand Prix,leclerc,5.0
-2021,Mexico City Grand Prix,sainz,6.0
-2021,Mexico City Grand Prix,vettel,7.0
-2021,Mexico City Grand Prix,raikkonen,8.0
-2021,Mexico City Grand Prix,alonso,9.0
-2021,Mexico City Grand Prix,norris,10.0
-2021,Mexico City Grand Prix,giovinazzi,11.0
-2021,Mexico City Grand Prix,ricciardo,12.0
-2021,Mexico City Grand Prix,ocon,13.0
-2021,Mexico City Grand Prix,stroll,14.0
-2021,Mexico City Grand Prix,bottas,15.0
-2021,Mexico City Grand Prix,russell,16.0
-2021,Mexico City Grand Prix,latifi,17.0
-2021,Mexico City Grand Prix,mazepin,18.0
-2021,Mexico City Grand Prix,mick_schumacher,19.0
-2021,Mexico City Grand Prix,tsunoda,20.0
-2021,São Paulo Grand Prix,hamilton,1.0
-2021,São Paulo Grand Prix,max_verstappen,2.0
-2021,São Paulo Grand Prix,bottas,3.0
-2021,São Paulo Grand Prix,perez,4.0
-2021,São Paulo Grand Prix,leclerc,5.0
-2021,São Paulo Grand Prix,sainz,6.0
-2021,São Paulo Grand Prix,gasly,7.0
-2021,São Paulo Grand Prix,ocon,8.0
-2021,São Paulo Grand Prix,alonso,9.0
-2021,São Paulo Grand Prix,norris,10.0
-2021,São Paulo Grand Prix,vettel,11.0
-2021,São Paulo Grand Prix,raikkonen,12.0
-2021,São Paulo Grand Prix,russell,13.0
-2021,São Paulo Grand Prix,giovinazzi,14.0
-2021,São Paulo Grand Prix,tsunoda,15.0
-2021,São Paulo Grand Prix,latifi,16.0
-2021,São Paulo Grand Prix,mazepin,17.0
-2021,São Paulo Grand Prix,mick_schumacher,18.0
-2021,São Paulo Grand Prix,ricciardo,19.0
-2021,São Paulo Grand Prix,stroll,20.0
-2021,Qatar Grand Prix,hamilton,1.0
-2021,Qatar Grand Prix,max_verstappen,2.0
-2021,Qatar Grand Prix,alonso,3.0
-2021,Qatar Grand Prix,perez,4.0
-2021,Qatar Grand Prix,ocon,5.0
-2021,Qatar Grand Prix,stroll,6.0
-2021,Qatar Grand Prix,sainz,7.0
-2021,Qatar Grand Prix,leclerc,8.0
-2021,Qatar Grand Prix,norris,9.0
-2021,Qatar Grand Prix,vettel,10.0
-2021,Qatar Grand Prix,gasly,11.0
-2021,Qatar Grand Prix,ricciardo,12.0
-2021,Qatar Grand Prix,tsunoda,13.0
-2021,Qatar Grand Prix,raikkonen,14.0
-2021,Qatar Grand Prix,giovinazzi,15.0
-2021,Qatar Grand Prix,mick_schumacher,16.0
-2021,Qatar Grand Prix,russell,17.0
-2021,Qatar Grand Prix,mazepin,18.0
-2021,Qatar Grand Prix,latifi,19.0
-2021,Qatar Grand Prix,bottas,20.0
-2021,Saudi Arabian Grand Prix,hamilton,1.0
-2021,Saudi Arabian Grand Prix,max_verstappen,2.0
-2021,Saudi Arabian Grand Prix,bottas,3.0
-2021,Saudi Arabian Grand Prix,ocon,4.0
-2021,Saudi Arabian Grand Prix,ricciardo,5.0
-2021,Saudi Arabian Grand Prix,gasly,6.0
-2021,Saudi Arabian Grand Prix,leclerc,7.0
-2021,Saudi Arabian Grand Prix,sainz,8.0
-2021,Saudi Arabian Grand Prix,giovinazzi,9.0
-2021,Saudi Arabian Grand Prix,norris,10.0
-2021,Saudi Arabian Grand Prix,stroll,11.0
-2021,Saudi Arabian Grand Prix,latifi,12.0
-2021,Saudi Arabian Grand Prix,alonso,13.0
-2021,Saudi Arabian Grand Prix,tsunoda,14.0
-2021,Saudi Arabian Grand Prix,raikkonen,15.0
-2021,Saudi Arabian Grand Prix,vettel,16.0
-2021,Saudi Arabian Grand Prix,perez,17.0
-2021,Saudi Arabian Grand Prix,mazepin,18.0
-2021,Saudi Arabian Grand Prix,russell,19.0
-2021,Saudi Arabian Grand Prix,mick_schumacher,20.0
-2021,Abu Dhabi Grand Prix,max_verstappen,1.0
-2021,Abu Dhabi Grand Prix,hamilton,2.0
-2021,Abu Dhabi Grand Prix,sainz,3.0
-2021,Abu Dhabi Grand Prix,tsunoda,4.0
-2021,Abu Dhabi Grand Prix,gasly,5.0
-2021,Abu Dhabi Grand Prix,bottas,6.0
-2021,Abu Dhabi Grand Prix,norris,7.0
-2021,Abu Dhabi Grand Prix,alonso,8.0
-2021,Abu Dhabi Grand Prix,ocon,9.0
-2021,Abu Dhabi Grand Prix,leclerc,10.0
-2021,Abu Dhabi Grand Prix,vettel,11.0
-2021,Abu Dhabi Grand Prix,ricciardo,12.0
-2021,Abu Dhabi Grand Prix,stroll,13.0
-2021,Abu Dhabi Grand Prix,mick_schumacher,14.0
-2021,Abu Dhabi Grand Prix,perez,15.0
-2021,Abu Dhabi Grand Prix,latifi,16.0
-2021,Abu Dhabi Grand Prix,giovinazzi,17.0
-2021,Abu Dhabi Grand Prix,russell,18.0
-2021,Abu Dhabi Grand Prix,raikkonen,19.0
-2021,Abu Dhabi Grand Prix,mazepin,
-2022,Pre-Season Track Session,sainz,1.0
-2022,Pre-Season Track Session,perez,2.0
-2022,Pre-Season Track Session,hamilton,3.0
-2022,Pre-Season Track Session,leclerc,4.0
-2022,Pre-Season Track Session,alonso,5.0
-2022,Pre-Season Track Session,norris,6.0
-2022,Pre-Season Track Session,max_verstappen,7.0
-2022,Pre-Season Track Session,mick_schumacher,8.0
-2022,Pre-Season Track Session,vettel,9.0
-2022,Pre-Season Track Session,kevin_magnussen,10.0
-2022,Pre-Season Track Session,stroll,11.0
-2022,Pre-Season Track Session,latifi,12.0
-2022,Pre-Season Track Session,ricciardo,13.0
-2022,Pre-Season Track Session,tsunoda,14.0
-2022,Pre-Season Track Session,ocon,15.0
-2022,Pre-Season Track Session,gasly,16.0
-2022,Pre-Season Track Session,bottas,17.0
-2022,Pre-Season Track Session,russell,18.0
-2022,Pre-Season Track Session,zhou,19.0
-2022,Pre-Season Track Session,albon,20.0
-2022,Bahrain Grand Prix,leclerc,1.0
-2022,Bahrain Grand Prix,sainz,2.0
-2022,Bahrain Grand Prix,hamilton,3.0
-2022,Bahrain Grand Prix,russell,4.0
-2022,Bahrain Grand Prix,kevin_magnussen,5.0
-2022,Bahrain Grand Prix,bottas,6.0
-2022,Bahrain Grand Prix,ocon,7.0
-2022,Bahrain Grand Prix,tsunoda,8.0
-2022,Bahrain Grand Prix,alonso,9.0
-2022,Bahrain Grand Prix,zhou,10.0
-2022,Bahrain Grand Prix,mick_schumacher,11.0
-2022,Bahrain Grand Prix,stroll,12.0
-2022,Bahrain Grand Prix,albon,13.0
-2022,Bahrain Grand Prix,ricciardo,14.0
-2022,Bahrain Grand Prix,norris,15.0
-2022,Bahrain Grand Prix,latifi,16.0
-2022,Bahrain Grand Prix,hulkenberg,17.0
-2022,Bahrain Grand Prix,perez,18.0
-2022,Bahrain Grand Prix,max_verstappen,19.0
-2022,Bahrain Grand Prix,gasly,20.0
-2022,Saudi Arabian Grand Prix,max_verstappen,1.0
-2022,Saudi Arabian Grand Prix,leclerc,2.0
-2022,Saudi Arabian Grand Prix,sainz,3.0
-2022,Saudi Arabian Grand Prix,perez,4.0
-2022,Saudi Arabian Grand Prix,russell,5.0
-2022,Saudi Arabian Grand Prix,ocon,6.0
-2022,Saudi Arabian Grand Prix,norris,7.0
-2022,Saudi Arabian Grand Prix,gasly,8.0
-2022,Saudi Arabian Grand Prix,kevin_magnussen,9.0
-2022,Saudi Arabian Grand Prix,hamilton,10.0
-2022,Saudi Arabian Grand Prix,zhou,11.0
-2022,Saudi Arabian Grand Prix,hulkenberg,12.0
-2022,Saudi Arabian Grand Prix,stroll,13.0
-2022,Saudi Arabian Grand Prix,albon,14.0
-2022,Saudi Arabian Grand Prix,bottas,15.0
-2022,Saudi Arabian Grand Prix,alonso,16.0
-2022,Saudi Arabian Grand Prix,ricciardo,17.0
-2022,Saudi Arabian Grand Prix,latifi,18.0
-2022,Saudi Arabian Grand Prix,tsunoda,19.0
-2022,Saudi Arabian Grand Prix,mick_schumacher,
-2022,Australian Grand Prix,leclerc,1.0
-2022,Australian Grand Prix,perez,2.0
-2022,Australian Grand Prix,russell,3.0
-2022,Australian Grand Prix,hamilton,4.0
-2022,Australian Grand Prix,norris,5.0
-2022,Australian Grand Prix,ricciardo,6.0
-2022,Australian Grand Prix,ocon,7.0
-2022,Australian Grand Prix,bottas,8.0
-2022,Australian Grand Prix,gasly,9.0
-2022,Australian Grand Prix,albon,10.0
-2022,Australian Grand Prix,zhou,11.0
-2022,Australian Grand Prix,stroll,12.0
-2022,Australian Grand Prix,mick_schumacher,13.0
-2022,Australian Grand Prix,kevin_magnussen,14.0
-2022,Australian Grand Prix,tsunoda,15.0
-2022,Australian Grand Prix,latifi,16.0
-2022,Australian Grand Prix,alonso,17.0
-2022,Australian Grand Prix,max_verstappen,18.0
-2022,Australian Grand Prix,vettel,19.0
-2022,Australian Grand Prix,sainz,20.0
-2022,Emilia Romagna Grand Prix,max_verstappen,1.0
-2022,Emilia Romagna Grand Prix,perez,2.0
-2022,Emilia Romagna Grand Prix,norris,3.0
-2022,Emilia Romagna Grand Prix,russell,4.0
-2022,Emilia Romagna Grand Prix,bottas,5.0
-2022,Emilia Romagna Grand Prix,leclerc,6.0
-2022,Emilia Romagna Grand Prix,tsunoda,7.0
-2022,Emilia Romagna Grand Prix,vettel,8.0
-2022,Emilia Romagna Grand Prix,kevin_magnussen,9.0
-2022,Emilia Romagna Grand Prix,stroll,10.0
-2022,Emilia Romagna Grand Prix,albon,11.0
-2022,Emilia Romagna Grand Prix,gasly,12.0
-2022,Emilia Romagna Grand Prix,hamilton,13.0
-2022,Emilia Romagna Grand Prix,ocon,14.0
-2022,Emilia Romagna Grand Prix,zhou,15.0
-2022,Emilia Romagna Grand Prix,latifi,16.0
-2022,Emilia Romagna Grand Prix,mick_schumacher,17.0
-2022,Emilia Romagna Grand Prix,ricciardo,18.0
-2022,Emilia Romagna Grand Prix,alonso,19.0
-2022,Emilia Romagna Grand Prix,sainz,20.0
-2022,Miami Grand Prix,max_verstappen,1.0
-2022,Miami Grand Prix,leclerc,2.0
-2022,Miami Grand Prix,sainz,3.0
-2022,Miami Grand Prix,perez,4.0
-2022,Miami Grand Prix,russell,5.0
-2022,Miami Grand Prix,hamilton,6.0
-2022,Miami Grand Prix,bottas,7.0
-2022,Miami Grand Prix,ocon,8.0
-2022,Miami Grand Prix,albon,9.0
-2022,Miami Grand Prix,stroll,10.0
-2022,Miami Grand Prix,alonso,11.0
-2022,Miami Grand Prix,tsunoda,12.0
-2022,Miami Grand Prix,ricciardo,13.0
-2022,Miami Grand Prix,latifi,14.0
-2022,Miami Grand Prix,mick_schumacher,15.0
-2022,Miami Grand Prix,kevin_magnussen,16.0
-2022,Miami Grand Prix,vettel,17.0
-2022,Miami Grand Prix,gasly,18.0
-2022,Miami Grand Prix,norris,19.0
-2022,Miami Grand Prix,zhou,20.0
-2022,Spanish Grand Prix,max_verstappen,1.0
-2022,Spanish Grand Prix,perez,2.0
-2022,Spanish Grand Prix,russell,3.0
-2022,Spanish Grand Prix,sainz,4.0
-2022,Spanish Grand Prix,hamilton,5.0
-2022,Spanish Grand Prix,bottas,6.0
-2022,Spanish Grand Prix,ocon,7.0
-2022,Spanish Grand Prix,norris,8.0
-2022,Spanish Grand Prix,alonso,9.0
-2022,Spanish Grand Prix,tsunoda,10.0
-2022,Spanish Grand Prix,vettel,11.0
-2022,Spanish Grand Prix,ricciardo,12.0
-2022,Spanish Grand Prix,gasly,13.0
-2022,Spanish Grand Prix,mick_schumacher,14.0
-2022,Spanish Grand Prix,stroll,15.0
-2022,Spanish Grand Prix,latifi,16.0
-2022,Spanish Grand Prix,kevin_magnussen,17.0
-2022,Spanish Grand Prix,albon,18.0
-2022,Spanish Grand Prix,zhou,19.0
-2022,Spanish Grand Prix,leclerc,20.0
-2022,Monaco Grand Prix,perez,1.0
-2022,Monaco Grand Prix,sainz,2.0
-2022,Monaco Grand Prix,max_verstappen,3.0
-2022,Monaco Grand Prix,leclerc,4.0
-2022,Monaco Grand Prix,russell,5.0
-2022,Monaco Grand Prix,norris,6.0
-2022,Monaco Grand Prix,alonso,7.0
-2022,Monaco Grand Prix,hamilton,8.0
-2022,Monaco Grand Prix,bottas,9.0
-2022,Monaco Grand Prix,vettel,10.0
-2022,Monaco Grand Prix,gasly,11.0
-2022,Monaco Grand Prix,ocon,12.0
-2022,Monaco Grand Prix,ricciardo,13.0
-2022,Monaco Grand Prix,stroll,14.0
-2022,Monaco Grand Prix,latifi,15.0
-2022,Monaco Grand Prix,zhou,16.0
-2022,Monaco Grand Prix,tsunoda,17.0
-2022,Monaco Grand Prix,albon,18.0
-2022,Monaco Grand Prix,mick_schumacher,19.0
-2022,Monaco Grand Prix,kevin_magnussen,20.0
-2022,Azerbaijan Grand Prix,max_verstappen,1.0
-2022,Azerbaijan Grand Prix,perez,2.0
-2022,Azerbaijan Grand Prix,russell,3.0
-2022,Azerbaijan Grand Prix,hamilton,4.0
-2022,Azerbaijan Grand Prix,gasly,5.0
-2022,Azerbaijan Grand Prix,vettel,6.0
-2022,Azerbaijan Grand Prix,alonso,7.0
-2022,Azerbaijan Grand Prix,ricciardo,8.0
-2022,Azerbaijan Grand Prix,norris,9.0
-2022,Azerbaijan Grand Prix,ocon,10.0
-2022,Azerbaijan Grand Prix,bottas,11.0
-2022,Azerbaijan Grand Prix,albon,12.0
-2022,Azerbaijan Grand Prix,tsunoda,13.0
-2022,Azerbaijan Grand Prix,mick_schumacher,14.0
-2022,Azerbaijan Grand Prix,latifi,15.0
-2022,Azerbaijan Grand Prix,stroll,16.0
-2022,Azerbaijan Grand Prix,kevin_magnussen,17.0
-2022,Azerbaijan Grand Prix,zhou,18.0
-2022,Azerbaijan Grand Prix,leclerc,19.0
-2022,Azerbaijan Grand Prix,sainz,20.0
-2022,Canadian Grand Prix,max_verstappen,1.0
-2022,Canadian Grand Prix,sainz,2.0
-2022,Canadian Grand Prix,hamilton,3.0
-2022,Canadian Grand Prix,russell,4.0
-2022,Canadian Grand Prix,leclerc,5.0
-2022,Canadian Grand Prix,ocon,6.0
-2022,Canadian Grand Prix,bottas,7.0
-2022,Canadian Grand Prix,zhou,8.0
-2022,Canadian Grand Prix,alonso,9.0
-2022,Canadian Grand Prix,stroll,10.0
-2022,Canadian Grand Prix,ricciardo,11.0
-2022,Canadian Grand Prix,vettel,12.0
-2022,Canadian Grand Prix,albon,13.0
-2022,Canadian Grand Prix,gasly,14.0
-2022,Canadian Grand Prix,norris,15.0
-2022,Canadian Grand Prix,latifi,16.0
-2022,Canadian Grand Prix,kevin_magnussen,17.0
-2022,Canadian Grand Prix,tsunoda,18.0
-2022,Canadian Grand Prix,mick_schumacher,19.0
-2022,Canadian Grand Prix,perez,20.0
-2022,British Grand Prix,sainz,1.0
-2022,British Grand Prix,perez,2.0
-2022,British Grand Prix,hamilton,3.0
-2022,British Grand Prix,leclerc,4.0
-2022,British Grand Prix,alonso,5.0
-2022,British Grand Prix,norris,6.0
-2022,British Grand Prix,max_verstappen,7.0
-2022,British Grand Prix,mick_schumacher,8.0
-2022,British Grand Prix,vettel,9.0
-2022,British Grand Prix,kevin_magnussen,10.0
-2022,British Grand Prix,stroll,11.0
-2022,British Grand Prix,latifi,12.0
-2022,British Grand Prix,ricciardo,13.0
-2022,British Grand Prix,tsunoda,14.0
-2022,British Grand Prix,ocon,15.0
-2022,British Grand Prix,gasly,16.0
-2022,British Grand Prix,bottas,17.0
-2022,British Grand Prix,russell,18.0
-2022,British Grand Prix,zhou,19.0
-2022,British Grand Prix,albon,20.0
-2022,Austrian Grand Prix,leclerc,1.0
-2022,Austrian Grand Prix,max_verstappen,2.0
-2022,Austrian Grand Prix,hamilton,3.0
-2022,Austrian Grand Prix,russell,4.0
-2022,Austrian Grand Prix,ocon,5.0
-2022,Austrian Grand Prix,mick_schumacher,6.0
-2022,Austrian Grand Prix,norris,7.0
-2022,Austrian Grand Prix,kevin_magnussen,8.0
-2022,Austrian Grand Prix,ricciardo,9.0
-2022,Austrian Grand Prix,alonso,10.0
-2022,Austrian Grand Prix,bottas,11.0
-2022,Austrian Grand Prix,albon,12.0
-2022,Austrian Grand Prix,stroll,13.0
-2022,Austrian Grand Prix,zhou,14.0
-2022,Austrian Grand Prix,gasly,15.0
-2022,Austrian Grand Prix,tsunoda,16.0
-2022,Austrian Grand Prix,vettel,17.0
-2022,Austrian Grand Prix,sainz,18.0
-2022,Austrian Grand Prix,latifi,19.0
-2022,Austrian Grand Prix,perez,20.0
-2022,French Grand Prix,max_verstappen,1.0
-2022,French Grand Prix,hamilton,2.0
-2022,French Grand Prix,russell,3.0
-2022,French Grand Prix,perez,4.0
-2022,French Grand Prix,sainz,5.0
-2022,French Grand Prix,alonso,6.0
-2022,French Grand Prix,norris,7.0
-2022,French Grand Prix,ocon,8.0
-2022,French Grand Prix,ricciardo,9.0
-2022,French Grand Prix,stroll,10.0
-2022,French Grand Prix,vettel,11.0
-2022,French Grand Prix,gasly,12.0
-2022,French Grand Prix,albon,13.0
-2022,French Grand Prix,bottas,14.0
-2022,French Grand Prix,mick_schumacher,15.0
-2022,French Grand Prix,zhou,16.0
-2022,French Grand Prix,latifi,17.0
-2022,French Grand Prix,kevin_magnussen,18.0
-2022,French Grand Prix,leclerc,19.0
-2022,French Grand Prix,tsunoda,20.0
-2022,Hungarian Grand Prix,max_verstappen,1.0
-2022,Hungarian Grand Prix,hamilton,2.0
-2022,Hungarian Grand Prix,russell,3.0
-2022,Hungarian Grand Prix,sainz,4.0
-2022,Hungarian Grand Prix,perez,5.0
-2022,Hungarian Grand Prix,leclerc,6.0
-2022,Hungarian Grand Prix,norris,7.0
-2022,Hungarian Grand Prix,alonso,8.0
-2022,Hungarian Grand Prix,ocon,9.0
-2022,Hungarian Grand Prix,vettel,10.0
-2022,Hungarian Grand Prix,stroll,11.0
-2022,Hungarian Grand Prix,gasly,12.0
-2022,Hungarian Grand Prix,zhou,13.0
-2022,Hungarian Grand Prix,mick_schumacher,14.0
-2022,Hungarian Grand Prix,ricciardo,15.0
-2022,Hungarian Grand Prix,kevin_magnussen,16.0
-2022,Hungarian Grand Prix,albon,17.0
-2022,Hungarian Grand Prix,latifi,18.0
-2022,Hungarian Grand Prix,tsunoda,19.0
-2022,Hungarian Grand Prix,bottas,20.0
-2022,Belgian Grand Prix,max_verstappen,1.0
-2022,Belgian Grand Prix,perez,2.0
-2022,Belgian Grand Prix,sainz,3.0
-2022,Belgian Grand Prix,russell,4.0
-2022,Belgian Grand Prix,alonso,5.0
-2022,Belgian Grand Prix,leclerc,6.0
-2022,Belgian Grand Prix,ocon,7.0
-2022,Belgian Grand Prix,vettel,8.0
-2022,Belgian Grand Prix,gasly,9.0
-2022,Belgian Grand Prix,albon,10.0
-2022,Belgian Grand Prix,stroll,11.0
-2022,Belgian Grand Prix,norris,12.0
-2022,Belgian Grand Prix,tsunoda,13.0
-2022,Belgian Grand Prix,zhou,14.0
-2022,Belgian Grand Prix,ricciardo,15.0
-2022,Belgian Grand Prix,kevin_magnussen,16.0
-2022,Belgian Grand Prix,mick_schumacher,17.0
-2022,Belgian Grand Prix,latifi,18.0
-2022,Belgian Grand Prix,bottas,19.0
-2022,Belgian Grand Prix,hamilton,20.0
-2022,Dutch Grand Prix,max_verstappen,1.0
-2022,Dutch Grand Prix,russell,2.0
-2022,Dutch Grand Prix,leclerc,3.0
-2022,Dutch Grand Prix,hamilton,4.0
-2022,Dutch Grand Prix,perez,5.0
-2022,Dutch Grand Prix,alonso,6.0
-2022,Dutch Grand Prix,norris,7.0
-2022,Dutch Grand Prix,sainz,8.0
-2022,Dutch Grand Prix,ocon,9.0
-2022,Dutch Grand Prix,stroll,10.0
-2022,Dutch Grand Prix,gasly,11.0
-2022,Dutch Grand Prix,albon,12.0
-2022,Dutch Grand Prix,mick_schumacher,13.0
-2022,Dutch Grand Prix,vettel,14.0
-2022,Dutch Grand Prix,kevin_magnussen,15.0
-2022,Dutch Grand Prix,zhou,16.0
-2022,Dutch Grand Prix,ricciardo,17.0
-2022,Dutch Grand Prix,latifi,18.0
-2022,Dutch Grand Prix,bottas,19.0
-2022,Dutch Grand Prix,tsunoda,20.0
-2022,Italian Grand Prix,max_verstappen,1.0
-2022,Italian Grand Prix,leclerc,2.0
-2022,Italian Grand Prix,russell,3.0
-2022,Italian Grand Prix,sainz,4.0
-2022,Italian Grand Prix,hamilton,5.0
-2022,Italian Grand Prix,perez,6.0
-2022,Italian Grand Prix,norris,7.0
-2022,Italian Grand Prix,gasly,8.0
-2022,Italian Grand Prix,de_vries,9.0
-2022,Italian Grand Prix,zhou,10.0
-2022,Italian Grand Prix,ocon,11.0
-2022,Italian Grand Prix,mick_schumacher,12.0
-2022,Italian Grand Prix,bottas,13.0
-2022,Italian Grand Prix,tsunoda,14.0
-2022,Italian Grand Prix,latifi,15.0
-2022,Italian Grand Prix,kevin_magnussen,16.0
-2022,Italian Grand Prix,ricciardo,17.0
-2022,Italian Grand Prix,stroll,18.0
-2022,Italian Grand Prix,alonso,19.0
-2022,Italian Grand Prix,vettel,20.0
-2022,Singapore Grand Prix,perez,1.0
-2022,Singapore Grand Prix,leclerc,2.0
-2022,Singapore Grand Prix,sainz,3.0
-2022,Singapore Grand Prix,norris,4.0
-2022,Singapore Grand Prix,ricciardo,5.0
-2022,Singapore Grand Prix,stroll,6.0
-2022,Singapore Grand Prix,max_verstappen,7.0
-2022,Singapore Grand Prix,vettel,8.0
-2022,Singapore Grand Prix,hamilton,9.0
-2022,Singapore Grand Prix,gasly,10.0
-2022,Singapore Grand Prix,bottas,11.0
-2022,Singapore Grand Prix,kevin_magnussen,12.0
-2022,Singapore Grand Prix,mick_schumacher,13.0
-2022,Singapore Grand Prix,russell,14.0
-2022,Singapore Grand Prix,tsunoda,15.0
-2022,Singapore Grand Prix,ocon,16.0
-2022,Singapore Grand Prix,albon,17.0
-2022,Singapore Grand Prix,alonso,18.0
-2022,Singapore Grand Prix,latifi,19.0
-2022,Singapore Grand Prix,zhou,20.0
-2022,Japanese Grand Prix,max_verstappen,1.0
-2022,Japanese Grand Prix,perez,2.0
-2022,Japanese Grand Prix,leclerc,3.0
-2022,Japanese Grand Prix,ocon,4.0
-2022,Japanese Grand Prix,hamilton,5.0
-2022,Japanese Grand Prix,vettel,6.0
-2022,Japanese Grand Prix,alonso,7.0
-2022,Japanese Grand Prix,russell,8.0
-2022,Japanese Grand Prix,latifi,9.0
-2022,Japanese Grand Prix,norris,10.0
-2022,Japanese Grand Prix,ricciardo,11.0
-2022,Japanese Grand Prix,stroll,12.0
-2022,Japanese Grand Prix,tsunoda,13.0
-2022,Japanese Grand Prix,kevin_magnussen,14.0
-2022,Japanese Grand Prix,bottas,15.0
-2022,Japanese Grand Prix,zhou,16.0
-2022,Japanese Grand Prix,mick_schumacher,17.0
-2022,Japanese Grand Prix,gasly,18.0
-2022,Japanese Grand Prix,sainz,19.0
-2022,Japanese Grand Prix,albon,20.0
-2022,United States Grand Prix,max_verstappen,1.0
-2022,United States Grand Prix,hamilton,2.0
-2022,United States Grand Prix,leclerc,3.0
-2022,United States Grand Prix,perez,4.0
-2022,United States Grand Prix,russell,5.0
-2022,United States Grand Prix,norris,6.0
-2022,United States Grand Prix,alonso,7.0
-2022,United States Grand Prix,vettel,8.0
-2022,United States Grand Prix,kevin_magnussen,9.0
-2022,United States Grand Prix,tsunoda,10.0
-2022,United States Grand Prix,ocon,11.0
-2022,United States Grand Prix,zhou,12.0
-2022,United States Grand Prix,albon,13.0
-2022,United States Grand Prix,gasly,14.0
-2022,United States Grand Prix,mick_schumacher,15.0
-2022,United States Grand Prix,ricciardo,16.0
-2022,United States Grand Prix,latifi,17.0
-2022,United States Grand Prix,stroll,18.0
-2022,United States Grand Prix,bottas,19.0
-2022,United States Grand Prix,sainz,20.0
-2022,Mexico City Grand Prix,max_verstappen,1.0
-2022,Mexico City Grand Prix,hamilton,2.0
-2022,Mexico City Grand Prix,perez,3.0
-2022,Mexico City Grand Prix,russell,4.0
-2022,Mexico City Grand Prix,sainz,5.0
-2022,Mexico City Grand Prix,leclerc,6.0
-2022,Mexico City Grand Prix,ricciardo,7.0
-2022,Mexico City Grand Prix,ocon,8.0
-2022,Mexico City Grand Prix,norris,9.0
-2022,Mexico City Grand Prix,bottas,10.0
-2022,Mexico City Grand Prix,gasly,11.0
-2022,Mexico City Grand Prix,albon,12.0
-2022,Mexico City Grand Prix,zhou,13.0
-2022,Mexico City Grand Prix,vettel,14.0
-2022,Mexico City Grand Prix,stroll,15.0
-2022,Mexico City Grand Prix,mick_schumacher,16.0
-2022,Mexico City Grand Prix,kevin_magnussen,17.0
-2022,Mexico City Grand Prix,latifi,18.0
-2022,Mexico City Grand Prix,alonso,19.0
-2022,Mexico City Grand Prix,tsunoda,20.0
-2022,São Paulo Grand Prix,russell,1.0
-2022,São Paulo Grand Prix,hamilton,2.0
-2022,São Paulo Grand Prix,sainz,3.0
-2022,São Paulo Grand Prix,leclerc,4.0
-2022,São Paulo Grand Prix,alonso,5.0
-2022,São Paulo Grand Prix,max_verstappen,6.0
-2022,São Paulo Grand Prix,perez,7.0
-2022,São Paulo Grand Prix,ocon,8.0
-2022,São Paulo Grand Prix,bottas,9.0
-2022,São Paulo Grand Prix,stroll,10.0
-2022,São Paulo Grand Prix,vettel,11.0
-2022,São Paulo Grand Prix,zhou,12.0
-2022,São Paulo Grand Prix,mick_schumacher,13.0
-2022,São Paulo Grand Prix,gasly,14.0
-2022,São Paulo Grand Prix,albon,15.0
-2022,São Paulo Grand Prix,latifi,16.0
-2022,São Paulo Grand Prix,tsunoda,17.0
-2022,São Paulo Grand Prix,norris,18.0
-2022,São Paulo Grand Prix,kevin_magnussen,19.0
-2022,São Paulo Grand Prix,ricciardo,20.0
-2022,Abu Dhabi Grand Prix,max_verstappen,1.0
-2022,Abu Dhabi Grand Prix,leclerc,2.0
-2022,Abu Dhabi Grand Prix,perez,3.0
-2022,Abu Dhabi Grand Prix,sainz,4.0
-2022,Abu Dhabi Grand Prix,russell,5.0
-2022,Abu Dhabi Grand Prix,norris,6.0
-2022,Abu Dhabi Grand Prix,ocon,7.0
-2022,Abu Dhabi Grand Prix,stroll,8.0
-2022,Abu Dhabi Grand Prix,ricciardo,9.0
-2022,Abu Dhabi Grand Prix,vettel,10.0
-2022,Abu Dhabi Grand Prix,tsunoda,11.0
-2022,Abu Dhabi Grand Prix,zhou,12.0
-2022,Abu Dhabi Grand Prix,albon,13.0
-2022,Abu Dhabi Grand Prix,gasly,14.0
-2022,Abu Dhabi Grand Prix,bottas,15.0
-2022,Abu Dhabi Grand Prix,mick_schumacher,16.0
-2022,Abu Dhabi Grand Prix,kevin_magnussen,17.0
-2022,Abu Dhabi Grand Prix,hamilton,18.0
-2022,Abu Dhabi Grand Prix,latifi,19.0
-2022,Abu Dhabi Grand Prix,alonso,20.0
-2023,Pre-Season Testing,max_verstappen,1.0
-2023,Pre-Season Testing,norris,2.0
-2023,Pre-Season Testing,hamilton,3.0
-2023,Pre-Season Testing,piastri,4.0
-2023,Pre-Season Testing,russell,5.0
-2023,Pre-Season Testing,perez,6.0
-2023,Pre-Season Testing,alonso,7.0
-2023,Pre-Season Testing,albon,8.0
-2023,Pre-Season Testing,leclerc,9.0
-2023,Pre-Season Testing,sainz,10.0
-2023,Pre-Season Testing,sargeant,11.0
-2023,Pre-Season Testing,bottas,12.0
-2023,Pre-Season Testing,hulkenberg,13.0
-2023,Pre-Season Testing,stroll,14.0
-2023,Pre-Season Testing,zhou,15.0
-2023,Pre-Season Testing,tsunoda,16.0
-2023,Pre-Season Testing,de_vries,17.0
-2023,Pre-Season Testing,gasly,18.0
-2023,Pre-Season Testing,kevin_magnussen,19.0
-2023,Pre-Season Testing,ocon,20.0
-2023,Bahrain Grand Prix,max_verstappen,1.0
-2023,Bahrain Grand Prix,perez,2.0
-2023,Bahrain Grand Prix,alonso,3.0
-2023,Bahrain Grand Prix,sainz,4.0
-2023,Bahrain Grand Prix,hamilton,5.0
-2023,Bahrain Grand Prix,stroll,6.0
-2023,Bahrain Grand Prix,russell,7.0
-2023,Bahrain Grand Prix,bottas,8.0
-2023,Bahrain Grand Prix,gasly,9.0
-2023,Bahrain Grand Prix,albon,10.0
-2023,Bahrain Grand Prix,tsunoda,11.0
-2023,Bahrain Grand Prix,sargeant,12.0
-2023,Bahrain Grand Prix,kevin_magnussen,13.0
-2023,Bahrain Grand Prix,de_vries,14.0
-2023,Bahrain Grand Prix,hulkenberg,15.0
-2023,Bahrain Grand Prix,zhou,16.0
-2023,Bahrain Grand Prix,norris,17.0
-2023,Bahrain Grand Prix,ocon,18.0
-2023,Bahrain Grand Prix,leclerc,19.0
-2023,Bahrain Grand Prix,piastri,20.0
-2023,Saudi Arabian Grand Prix,perez,1.0
-2023,Saudi Arabian Grand Prix,max_verstappen,2.0
-2023,Saudi Arabian Grand Prix,alonso,3.0
-2023,Saudi Arabian Grand Prix,russell,4.0
-2023,Saudi Arabian Grand Prix,hamilton,5.0
-2023,Saudi Arabian Grand Prix,sainz,6.0
-2023,Saudi Arabian Grand Prix,leclerc,7.0
-2023,Saudi Arabian Grand Prix,ocon,8.0
-2023,Saudi Arabian Grand Prix,gasly,9.0
-2023,Saudi Arabian Grand Prix,kevin_magnussen,10.0
-2023,Saudi Arabian Grand Prix,tsunoda,11.0
-2023,Saudi Arabian Grand Prix,hulkenberg,12.0
-2023,Saudi Arabian Grand Prix,zhou,13.0
-2023,Saudi Arabian Grand Prix,de_vries,14.0
-2023,Saudi Arabian Grand Prix,piastri,15.0
-2023,Saudi Arabian Grand Prix,sargeant,16.0
-2023,Saudi Arabian Grand Prix,norris,17.0
-2023,Saudi Arabian Grand Prix,bottas,18.0
-2023,Saudi Arabian Grand Prix,albon,19.0
-2023,Saudi Arabian Grand Prix,stroll,20.0
-2023,Australian Grand Prix,max_verstappen,1.0
-2023,Australian Grand Prix,hamilton,2.0
-2023,Australian Grand Prix,alonso,3.0
-2023,Australian Grand Prix,stroll,4.0
-2023,Australian Grand Prix,perez,5.0
-2023,Australian Grand Prix,norris,6.0
-2023,Australian Grand Prix,hulkenberg,7.0
-2023,Australian Grand Prix,piastri,8.0
-2023,Australian Grand Prix,zhou,9.0
-2023,Australian Grand Prix,tsunoda,10.0
-2023,Australian Grand Prix,bottas,11.0
-2023,Australian Grand Prix,sainz,12.0
-2023,Australian Grand Prix,gasly,13.0
-2023,Australian Grand Prix,ocon,14.0
-2023,Australian Grand Prix,de_vries,15.0
-2023,Australian Grand Prix,sargeant,16.0
-2023,Australian Grand Prix,kevin_magnussen,17.0
-2023,Australian Grand Prix,russell,18.0
-2023,Australian Grand Prix,albon,19.0
-2023,Australian Grand Prix,leclerc,20.0
-2023,Azerbaijan Grand Prix,perez,1.0
-2023,Azerbaijan Grand Prix,max_verstappen,2.0
-2023,Azerbaijan Grand Prix,leclerc,3.0
-2023,Azerbaijan Grand Prix,alonso,4.0
-2023,Azerbaijan Grand Prix,sainz,5.0
-2023,Azerbaijan Grand Prix,hamilton,6.0
-2023,Azerbaijan Grand Prix,stroll,7.0
-2023,Azerbaijan Grand Prix,russell,8.0
-2023,Azerbaijan Grand Prix,norris,9.0
-2023,Azerbaijan Grand Prix,tsunoda,10.0
-2023,Azerbaijan Grand Prix,piastri,11.0
-2023,Azerbaijan Grand Prix,albon,12.0
-2023,Azerbaijan Grand Prix,kevin_magnussen,13.0
-2023,Azerbaijan Grand Prix,gasly,14.0
-2023,Azerbaijan Grand Prix,ocon,15.0
-2023,Azerbaijan Grand Prix,sargeant,16.0
-2023,Azerbaijan Grand Prix,hulkenberg,17.0
-2023,Azerbaijan Grand Prix,bottas,18.0
-2023,Azerbaijan Grand Prix,zhou,19.0
-2023,Azerbaijan Grand Prix,de_vries,20.0
-2023,Miami Grand Prix,max_verstappen,1.0
-2023,Miami Grand Prix,perez,2.0
-2023,Miami Grand Prix,alonso,3.0
-2023,Miami Grand Prix,russell,4.0
-2023,Miami Grand Prix,sainz,5.0
-2023,Miami Grand Prix,hamilton,6.0
-2023,Miami Grand Prix,leclerc,7.0
-2023,Miami Grand Prix,gasly,8.0
-2023,Miami Grand Prix,ocon,9.0
-2023,Miami Grand Prix,kevin_magnussen,10.0
-2023,Miami Grand Prix,tsunoda,11.0
-2023,Miami Grand Prix,stroll,12.0
-2023,Miami Grand Prix,bottas,13.0
-2023,Miami Grand Prix,albon,14.0
-2023,Miami Grand Prix,hulkenberg,15.0
-2023,Miami Grand Prix,zhou,16.0
-2023,Miami Grand Prix,norris,17.0
-2023,Miami Grand Prix,de_vries,18.0
-2023,Miami Grand Prix,piastri,19.0
-2023,Miami Grand Prix,sargeant,20.0
-2023,Monaco Grand Prix,max_verstappen,1.0
-2023,Monaco Grand Prix,alonso,2.0
-2023,Monaco Grand Prix,ocon,3.0
-2023,Monaco Grand Prix,hamilton,4.0
-2023,Monaco Grand Prix,russell,5.0
-2023,Monaco Grand Prix,leclerc,6.0
-2023,Monaco Grand Prix,gasly,7.0
-2023,Monaco Grand Prix,sainz,8.0
-2023,Monaco Grand Prix,norris,9.0
-2023,Monaco Grand Prix,piastri,10.0
-2023,Monaco Grand Prix,bottas,11.0
-2023,Monaco Grand Prix,de_vries,12.0
-2023,Monaco Grand Prix,zhou,13.0
-2023,Monaco Grand Prix,albon,14.0
-2023,Monaco Grand Prix,tsunoda,15.0
-2023,Monaco Grand Prix,perez,16.0
-2023,Monaco Grand Prix,hulkenberg,17.0
-2023,Monaco Grand Prix,sargeant,18.0
-2023,Monaco Grand Prix,kevin_magnussen,19.0
-2023,Monaco Grand Prix,stroll,20.0
-2023,Spanish Grand Prix,max_verstappen,1.0
-2023,Spanish Grand Prix,hamilton,2.0
-2023,Spanish Grand Prix,russell,3.0
-2023,Spanish Grand Prix,perez,4.0
-2023,Spanish Grand Prix,sainz,5.0
-2023,Spanish Grand Prix,stroll,6.0
-2023,Spanish Grand Prix,alonso,7.0
-2023,Spanish Grand Prix,ocon,8.0
-2023,Spanish Grand Prix,zhou,9.0
-2023,Spanish Grand Prix,gasly,10.0
-2023,Spanish Grand Prix,leclerc,11.0
-2023,Spanish Grand Prix,tsunoda,12.0
-2023,Spanish Grand Prix,piastri,13.0
-2023,Spanish Grand Prix,de_vries,14.0
-2023,Spanish Grand Prix,hulkenberg,15.0
-2023,Spanish Grand Prix,albon,16.0
-2023,Spanish Grand Prix,norris,17.0
-2023,Spanish Grand Prix,kevin_magnussen,18.0
-2023,Spanish Grand Prix,bottas,19.0
-2023,Spanish Grand Prix,sargeant,20.0
-2023,Canadian Grand Prix,max_verstappen,1.0
-2023,Canadian Grand Prix,alonso,2.0
-2023,Canadian Grand Prix,hamilton,3.0
-2023,Canadian Grand Prix,leclerc,4.0
-2023,Canadian Grand Prix,sainz,5.0
-2023,Canadian Grand Prix,perez,6.0
-2023,Canadian Grand Prix,albon,7.0
-2023,Canadian Grand Prix,ocon,8.0
-2023,Canadian Grand Prix,stroll,9.0
-2023,Canadian Grand Prix,bottas,10.0
-2023,Canadian Grand Prix,piastri,11.0
-2023,Canadian Grand Prix,gasly,12.0
-2023,Canadian Grand Prix,norris,13.0
-2023,Canadian Grand Prix,tsunoda,14.0
-2023,Canadian Grand Prix,hulkenberg,15.0
-2023,Canadian Grand Prix,zhou,16.0
-2023,Canadian Grand Prix,kevin_magnussen,17.0
-2023,Canadian Grand Prix,de_vries,18.0
-2023,Canadian Grand Prix,russell,19.0
-2023,Canadian Grand Prix,sargeant,20.0
-2023,Austrian Grand Prix,max_verstappen,1.0
-2023,Austrian Grand Prix,leclerc,2.0
-2023,Austrian Grand Prix,perez,3.0
-2023,Austrian Grand Prix,norris,4.0
-2023,Austrian Grand Prix,alonso,5.0
-2023,Austrian Grand Prix,sainz,6.0
-2023,Austrian Grand Prix,russell,7.0
-2023,Austrian Grand Prix,hamilton,8.0
-2023,Austrian Grand Prix,stroll,9.0
-2023,Austrian Grand Prix,gasly,10.0
-2023,Austrian Grand Prix,albon,11.0
-2023,Austrian Grand Prix,zhou,12.0
-2023,Austrian Grand Prix,sargeant,13.0
-2023,Austrian Grand Prix,ocon,14.0
-2023,Austrian Grand Prix,bottas,15.0
-2023,Austrian Grand Prix,piastri,16.0
-2023,Austrian Grand Prix,de_vries,17.0
-2023,Austrian Grand Prix,kevin_magnussen,18.0
-2023,Austrian Grand Prix,tsunoda,19.0
-2023,Austrian Grand Prix,hulkenberg,20.0
-2023,British Grand Prix,max_verstappen,1.0
-2023,British Grand Prix,norris,2.0
-2023,British Grand Prix,hamilton,3.0
-2023,British Grand Prix,piastri,4.0
-2023,British Grand Prix,russell,5.0
-2023,British Grand Prix,perez,6.0
-2023,British Grand Prix,alonso,7.0
-2023,British Grand Prix,albon,8.0
-2023,British Grand Prix,leclerc,9.0
-2023,British Grand Prix,sainz,10.0
-2023,British Grand Prix,sargeant,11.0
-2023,British Grand Prix,bottas,12.0
-2023,British Grand Prix,hulkenberg,13.0
-2023,British Grand Prix,stroll,14.0
-2023,British Grand Prix,zhou,15.0
-2023,British Grand Prix,tsunoda,16.0
-2023,British Grand Prix,de_vries,17.0
-2023,British Grand Prix,gasly,18.0
-2023,British Grand Prix,kevin_magnussen,19.0
-2023,British Grand Prix,ocon,20.0
-2023,Hungarian Grand Prix,max_verstappen,1.0
-2023,Hungarian Grand Prix,norris,2.0
-2023,Hungarian Grand Prix,perez,3.0
-2023,Hungarian Grand Prix,hamilton,4.0
-2023,Hungarian Grand Prix,piastri,5.0
-2023,Hungarian Grand Prix,russell,6.0
-2023,Hungarian Grand Prix,leclerc,7.0
-2023,Hungarian Grand Prix,sainz,8.0
-2023,Hungarian Grand Prix,alonso,9.0
-2023,Hungarian Grand Prix,stroll,10.0
-2023,Hungarian Grand Prix,albon,11.0
-2023,Hungarian Grand Prix,bottas,12.0
-2023,Hungarian Grand Prix,ricciardo,13.0
-2023,Hungarian Grand Prix,hulkenberg,14.0
-2023,Hungarian Grand Prix,tsunoda,15.0
-2023,Hungarian Grand Prix,zhou,16.0
-2023,Hungarian Grand Prix,kevin_magnussen,17.0
-2023,Hungarian Grand Prix,sargeant,18.0
-2023,Hungarian Grand Prix,ocon,19.0
-2023,Hungarian Grand Prix,gasly,20.0
-2023,Belgian Grand Prix,max_verstappen,1.0
-2023,Belgian Grand Prix,perez,2.0
-2023,Belgian Grand Prix,leclerc,3.0
-2023,Belgian Grand Prix,hamilton,4.0
-2023,Belgian Grand Prix,alonso,5.0
-2023,Belgian Grand Prix,russell,6.0
-2023,Belgian Grand Prix,norris,7.0
-2023,Belgian Grand Prix,ocon,8.0
-2023,Belgian Grand Prix,stroll,9.0
-2023,Belgian Grand Prix,tsunoda,10.0
-2023,Belgian Grand Prix,gasly,11.0
-2023,Belgian Grand Prix,bottas,12.0
-2023,Belgian Grand Prix,zhou,13.0
-2023,Belgian Grand Prix,albon,14.0
-2023,Belgian Grand Prix,kevin_magnussen,15.0
-2023,Belgian Grand Prix,ricciardo,16.0
-2023,Belgian Grand Prix,sargeant,17.0
-2023,Belgian Grand Prix,hulkenberg,18.0
-2023,Belgian Grand Prix,sainz,19.0
-2023,Belgian Grand Prix,piastri,20.0
-2023,Dutch Grand Prix,max_verstappen,1.0
-2023,Dutch Grand Prix,alonso,2.0
-2023,Dutch Grand Prix,gasly,3.0
-2023,Dutch Grand Prix,perez,4.0
-2023,Dutch Grand Prix,sainz,5.0
-2023,Dutch Grand Prix,hamilton,6.0
-2023,Dutch Grand Prix,norris,7.0
-2023,Dutch Grand Prix,albon,8.0
-2023,Dutch Grand Prix,piastri,9.0
-2023,Dutch Grand Prix,ocon,10.0
-2023,Dutch Grand Prix,stroll,11.0
-2023,Dutch Grand Prix,hulkenberg,12.0
-2023,Dutch Grand Prix,lawson,13.0
-2023,Dutch Grand Prix,bottas,14.0
-2023,Dutch Grand Prix,tsunoda,15.0
-2023,Dutch Grand Prix,kevin_magnussen,16.0
-2023,Dutch Grand Prix,russell,17.0
-2023,Dutch Grand Prix,zhou,18.0
-2023,Dutch Grand Prix,leclerc,19.0
-2023,Dutch Grand Prix,sargeant,20.0
-2023,Italian Grand Prix,max_verstappen,1.0
-2023,Italian Grand Prix,perez,2.0
-2023,Italian Grand Prix,sainz,3.0
-2023,Italian Grand Prix,leclerc,4.0
-2023,Italian Grand Prix,russell,5.0
-2023,Italian Grand Prix,hamilton,6.0
-2023,Italian Grand Prix,albon,7.0
-2023,Italian Grand Prix,norris,8.0
-2023,Italian Grand Prix,alonso,9.0
-2023,Italian Grand Prix,bottas,10.0
-2023,Italian Grand Prix,lawson,11.0
-2023,Italian Grand Prix,piastri,12.0
-2023,Italian Grand Prix,sargeant,13.0
-2023,Italian Grand Prix,zhou,14.0
-2023,Italian Grand Prix,gasly,15.0
-2023,Italian Grand Prix,stroll,16.0
-2023,Italian Grand Prix,hulkenberg,17.0
-2023,Italian Grand Prix,kevin_magnussen,18.0
-2023,Italian Grand Prix,ocon,19.0
-2023,Italian Grand Prix,tsunoda,20.0
-2023,Singapore Grand Prix,sainz,1.0
-2023,Singapore Grand Prix,norris,2.0
-2023,Singapore Grand Prix,hamilton,3.0
-2023,Singapore Grand Prix,leclerc,4.0
-2023,Singapore Grand Prix,max_verstappen,5.0
-2023,Singapore Grand Prix,gasly,6.0
-2023,Singapore Grand Prix,piastri,7.0
-2023,Singapore Grand Prix,perez,8.0
-2023,Singapore Grand Prix,lawson,9.0
-2023,Singapore Grand Prix,kevin_magnussen,10.0
-2023,Singapore Grand Prix,albon,11.0
-2023,Singapore Grand Prix,zhou,12.0
-2023,Singapore Grand Prix,hulkenberg,13.0
-2023,Singapore Grand Prix,sargeant,14.0
-2023,Singapore Grand Prix,alonso,15.0
-2023,Singapore Grand Prix,russell,16.0
-2023,Singapore Grand Prix,bottas,17.0
-2023,Singapore Grand Prix,ocon,18.0
-2023,Singapore Grand Prix,tsunoda,19.0
-2023,Singapore Grand Prix,stroll,
-2023,Japanese Grand Prix,max_verstappen,1.0
-2023,Japanese Grand Prix,norris,2.0
-2023,Japanese Grand Prix,piastri,3.0
-2023,Japanese Grand Prix,leclerc,4.0
-2023,Japanese Grand Prix,hamilton,5.0
-2023,Japanese Grand Prix,sainz,6.0
-2023,Japanese Grand Prix,russell,7.0
-2023,Japanese Grand Prix,alonso,8.0
-2023,Japanese Grand Prix,ocon,9.0
-2023,Japanese Grand Prix,gasly,10.0
-2023,Japanese Grand Prix,lawson,11.0
-2023,Japanese Grand Prix,tsunoda,12.0
-2023,Japanese Grand Prix,zhou,13.0
-2023,Japanese Grand Prix,hulkenberg,14.0
-2023,Japanese Grand Prix,kevin_magnussen,15.0
-2023,Japanese Grand Prix,albon,16.0
-2023,Japanese Grand Prix,sargeant,17.0
-2023,Japanese Grand Prix,stroll,18.0
-2023,Japanese Grand Prix,perez,19.0
-2023,Japanese Grand Prix,bottas,20.0
-2023,Qatar Grand Prix,max_verstappen,1.0
-2023,Qatar Grand Prix,piastri,2.0
-2023,Qatar Grand Prix,norris,3.0
-2023,Qatar Grand Prix,russell,4.0
-2023,Qatar Grand Prix,leclerc,5.0
-2023,Qatar Grand Prix,alonso,6.0
-2023,Qatar Grand Prix,ocon,7.0
-2023,Qatar Grand Prix,bottas,8.0
-2023,Qatar Grand Prix,zhou,9.0
-2023,Qatar Grand Prix,perez,10.0
-2023,Qatar Grand Prix,stroll,11.0
-2023,Qatar Grand Prix,gasly,12.0
-2023,Qatar Grand Prix,albon,13.0
-2023,Qatar Grand Prix,kevin_magnussen,14.0
-2023,Qatar Grand Prix,tsunoda,15.0
-2023,Qatar Grand Prix,hulkenberg,16.0
-2023,Qatar Grand Prix,lawson,17.0
-2023,Qatar Grand Prix,sargeant,18.0
-2023,Qatar Grand Prix,hamilton,19.0
-2023,Qatar Grand Prix,sainz,20.0
-2023,United States Grand Prix,max_verstappen,1.0
-2023,United States Grand Prix,norris,2.0
-2023,United States Grand Prix,sainz,3.0
-2023,United States Grand Prix,perez,4.0
-2023,United States Grand Prix,russell,5.0
-2023,United States Grand Prix,gasly,6.0
-2023,United States Grand Prix,stroll,7.0
-2023,United States Grand Prix,tsunoda,8.0
-2023,United States Grand Prix,albon,9.0
-2023,United States Grand Prix,sargeant,10.0
-2023,United States Grand Prix,hulkenberg,11.0
-2023,United States Grand Prix,bottas,12.0
-2023,United States Grand Prix,zhou,13.0
-2023,United States Grand Prix,kevin_magnussen,14.0
-2023,United States Grand Prix,ricciardo,15.0
-2023,United States Grand Prix,alonso,16.0
-2023,United States Grand Prix,piastri,17.0
-2023,United States Grand Prix,ocon,18.0
-2023,United States Grand Prix,hamilton,19.0
-2023,United States Grand Prix,leclerc,20.0
-2023,Mexico City Grand Prix,max_verstappen,1.0
-2023,Mexico City Grand Prix,hamilton,2.0
-2023,Mexico City Grand Prix,leclerc,3.0
-2023,Mexico City Grand Prix,sainz,4.0
-2023,Mexico City Grand Prix,norris,5.0
-2023,Mexico City Grand Prix,russell,6.0
-2023,Mexico City Grand Prix,ricciardo,7.0
-2023,Mexico City Grand Prix,piastri,8.0
-2023,Mexico City Grand Prix,albon,9.0
-2023,Mexico City Grand Prix,ocon,10.0
-2023,Mexico City Grand Prix,gasly,11.0
-2023,Mexico City Grand Prix,tsunoda,12.0
-2023,Mexico City Grand Prix,hulkenberg,13.0
-2023,Mexico City Grand Prix,zhou,14.0
-2023,Mexico City Grand Prix,bottas,15.0
-2023,Mexico City Grand Prix,sargeant,16.0
-2023,Mexico City Grand Prix,stroll,17.0
-2023,Mexico City Grand Prix,alonso,18.0
-2023,Mexico City Grand Prix,kevin_magnussen,19.0
-2023,Mexico City Grand Prix,perez,20.0
-2023,São Paulo Grand Prix,max_verstappen,1.0
-2023,São Paulo Grand Prix,norris,2.0
-2023,São Paulo Grand Prix,alonso,3.0
-2023,São Paulo Grand Prix,perez,4.0
-2023,São Paulo Grand Prix,stroll,5.0
-2023,São Paulo Grand Prix,sainz,6.0
-2023,São Paulo Grand Prix,gasly,7.0
-2023,São Paulo Grand Prix,hamilton,8.0
-2023,São Paulo Grand Prix,tsunoda,9.0
-2023,São Paulo Grand Prix,ocon,10.0
-2023,São Paulo Grand Prix,sargeant,11.0
-2023,São Paulo Grand Prix,hulkenberg,12.0
-2023,São Paulo Grand Prix,ricciardo,13.0
-2023,São Paulo Grand Prix,piastri,14.0
-2023,São Paulo Grand Prix,russell,15.0
-2023,São Paulo Grand Prix,bottas,16.0
-2023,São Paulo Grand Prix,zhou,17.0
-2023,São Paulo Grand Prix,kevin_magnussen,18.0
-2023,São Paulo Grand Prix,albon,19.0
-2023,São Paulo Grand Prix,leclerc,20.0
-2023,Las Vegas Grand Prix,max_verstappen,1.0
-2023,Las Vegas Grand Prix,leclerc,2.0
-2023,Las Vegas Grand Prix,perez,3.0
-2023,Las Vegas Grand Prix,ocon,4.0
-2023,Las Vegas Grand Prix,stroll,5.0
-2023,Las Vegas Grand Prix,sainz,6.0
-2023,Las Vegas Grand Prix,hamilton,7.0
-2023,Las Vegas Grand Prix,russell,8.0
-2023,Las Vegas Grand Prix,alonso,9.0
-2023,Las Vegas Grand Prix,piastri,10.0
-2023,Las Vegas Grand Prix,gasly,11.0
-2023,Las Vegas Grand Prix,albon,12.0
-2023,Las Vegas Grand Prix,kevin_magnussen,13.0
-2023,Las Vegas Grand Prix,ricciardo,14.0
-2023,Las Vegas Grand Prix,zhou,15.0
-2023,Las Vegas Grand Prix,sargeant,16.0
-2023,Las Vegas Grand Prix,bottas,17.0
-2023,Las Vegas Grand Prix,tsunoda,18.0
-2023,Las Vegas Grand Prix,hulkenberg,19.0
-2023,Las Vegas Grand Prix,norris,20.0
-2023,Abu Dhabi Grand Prix,max_verstappen,1.0
-2023,Abu Dhabi Grand Prix,leclerc,2.0
-2023,Abu Dhabi Grand Prix,russell,3.0
-2023,Abu Dhabi Grand Prix,perez,4.0
-2023,Abu Dhabi Grand Prix,norris,5.0
-2023,Abu Dhabi Grand Prix,piastri,6.0
-2023,Abu Dhabi Grand Prix,alonso,7.0
-2023,Abu Dhabi Grand Prix,tsunoda,8.0
-2023,Abu Dhabi Grand Prix,hamilton,9.0
-2023,Abu Dhabi Grand Prix,stroll,10.0
-2023,Abu Dhabi Grand Prix,ricciardo,11.0
-2023,Abu Dhabi Grand Prix,ocon,12.0
-2023,Abu Dhabi Grand Prix,gasly,13.0
-2023,Abu Dhabi Grand Prix,albon,14.0
-2023,Abu Dhabi Grand Prix,hulkenberg,15.0
-2023,Abu Dhabi Grand Prix,sargeant,16.0
-2023,Abu Dhabi Grand Prix,zhou,17.0
-2023,Abu Dhabi Grand Prix,sainz,18.0
-2023,Abu Dhabi Grand Prix,bottas,19.0
-2023,Abu Dhabi Grand Prix,kevin_magnussen,20.0
-2024,Pre-Season Testing,norris,1.0
-2024,Pre-Season Testing,max_verstappen,2.0
-2024,Pre-Season Testing,piastri,3.0
-2024,Pre-Season Testing,russell,4.0
-2024,Pre-Season Testing,leclerc,5.0
-2024,Pre-Season Testing,hamilton,6.0
-2024,Pre-Season Testing,sainz,7.0
-2024,Pre-Season Testing,alonso,8.0
-2024,Pre-Season Testing,hulkenberg,9.0
-2024,Pre-Season Testing,perez,10.0
-2024,Pre-Season Testing,colapinto,11.0
-2024,Pre-Season Testing,tsunoda,12.0
-2024,Pre-Season Testing,ocon,13.0
-2024,Pre-Season Testing,stroll,14.0
-2024,Pre-Season Testing,zhou,15.0
-2024,Pre-Season Testing,bottas,16.0
-2024,Pre-Season Testing,gasly,17.0
-2024,Pre-Season Testing,ricciardo,18.0
-2024,Pre-Season Testing,kevin_magnussen,19.0
-2024,Pre-Season Testing,albon,20.0
-2024,Bahrain Grand Prix,max_verstappen,1.0
-2024,Bahrain Grand Prix,perez,2.0
-2024,Bahrain Grand Prix,sainz,3.0
-2024,Bahrain Grand Prix,leclerc,4.0
-2024,Bahrain Grand Prix,russell,5.0
-2024,Bahrain Grand Prix,norris,6.0
-2024,Bahrain Grand Prix,hamilton,7.0
-2024,Bahrain Grand Prix,piastri,8.0
-2024,Bahrain Grand Prix,alonso,9.0
-2024,Bahrain Grand Prix,stroll,10.0
-2024,Bahrain Grand Prix,zhou,11.0
-2024,Bahrain Grand Prix,kevin_magnussen,12.0
-2024,Bahrain Grand Prix,ricciardo,13.0
-2024,Bahrain Grand Prix,tsunoda,14.0
-2024,Bahrain Grand Prix,albon,15.0
-2024,Bahrain Grand Prix,hulkenberg,16.0
-2024,Bahrain Grand Prix,ocon,17.0
-2024,Bahrain Grand Prix,gasly,18.0
-2024,Bahrain Grand Prix,bottas,19.0
-2024,Bahrain Grand Prix,sargeant,20.0
-2024,Saudi Arabian Grand Prix,max_verstappen,1.0
-2024,Saudi Arabian Grand Prix,perez,2.0
-2024,Saudi Arabian Grand Prix,leclerc,3.0
-2024,Saudi Arabian Grand Prix,piastri,4.0
-2024,Saudi Arabian Grand Prix,alonso,5.0
-2024,Saudi Arabian Grand Prix,russell,6.0
-2024,Saudi Arabian Grand Prix,bearman,7.0
-2024,Saudi Arabian Grand Prix,norris,8.0
-2024,Saudi Arabian Grand Prix,hamilton,9.0
-2024,Saudi Arabian Grand Prix,hulkenberg,10.0
-2024,Saudi Arabian Grand Prix,albon,11.0
-2024,Saudi Arabian Grand Prix,kevin_magnussen,12.0
-2024,Saudi Arabian Grand Prix,ocon,13.0
-2024,Saudi Arabian Grand Prix,sargeant,14.0
-2024,Saudi Arabian Grand Prix,tsunoda,15.0
-2024,Saudi Arabian Grand Prix,ricciardo,16.0
-2024,Saudi Arabian Grand Prix,bottas,17.0
-2024,Saudi Arabian Grand Prix,zhou,18.0
-2024,Saudi Arabian Grand Prix,stroll,19.0
-2024,Saudi Arabian Grand Prix,gasly,20.0
-2024,Australian Grand Prix,sainz,1.0
-2024,Australian Grand Prix,leclerc,2.0
-2024,Australian Grand Prix,norris,3.0
-2024,Australian Grand Prix,piastri,4.0
-2024,Australian Grand Prix,perez,5.0
-2024,Australian Grand Prix,stroll,6.0
-2024,Australian Grand Prix,tsunoda,7.0
-2024,Australian Grand Prix,alonso,8.0
-2024,Australian Grand Prix,hulkenberg,9.0
-2024,Australian Grand Prix,kevin_magnussen,10.0
-2024,Australian Grand Prix,albon,11.0
-2024,Australian Grand Prix,ricciardo,12.0
-2024,Australian Grand Prix,gasly,13.0
-2024,Australian Grand Prix,bottas,14.0
-2024,Australian Grand Prix,zhou,15.0
-2024,Australian Grand Prix,ocon,16.0
-2024,Australian Grand Prix,russell,17.0
-2024,Australian Grand Prix,hamilton,18.0
-2024,Australian Grand Prix,max_verstappen,19.0
-2024,Japanese Grand Prix,max_verstappen,1.0
-2024,Japanese Grand Prix,perez,2.0
-2024,Japanese Grand Prix,sainz,3.0
-2024,Japanese Grand Prix,leclerc,4.0
-2024,Japanese Grand Prix,norris,5.0
-2024,Japanese Grand Prix,alonso,6.0
-2024,Japanese Grand Prix,russell,7.0
-2024,Japanese Grand Prix,piastri,8.0
-2024,Japanese Grand Prix,hamilton,9.0
-2024,Japanese Grand Prix,tsunoda,10.0
-2024,Japanese Grand Prix,hulkenberg,11.0
-2024,Japanese Grand Prix,stroll,12.0
-2024,Japanese Grand Prix,kevin_magnussen,13.0
-2024,Japanese Grand Prix,bottas,14.0
-2024,Japanese Grand Prix,ocon,15.0
-2024,Japanese Grand Prix,gasly,16.0
-2024,Japanese Grand Prix,sargeant,17.0
-2024,Japanese Grand Prix,zhou,18.0
-2024,Japanese Grand Prix,ricciardo,19.0
-2024,Japanese Grand Prix,albon,20.0
-2024,Chinese Grand Prix,max_verstappen,1.0
-2024,Chinese Grand Prix,norris,2.0
-2024,Chinese Grand Prix,perez,3.0
-2024,Chinese Grand Prix,leclerc,4.0
-2024,Chinese Grand Prix,sainz,5.0
-2024,Chinese Grand Prix,russell,6.0
-2024,Chinese Grand Prix,alonso,7.0
-2024,Chinese Grand Prix,piastri,8.0
-2024,Chinese Grand Prix,hamilton,9.0
-2024,Chinese Grand Prix,hulkenberg,10.0
-2024,Chinese Grand Prix,ocon,11.0
-2024,Chinese Grand Prix,albon,12.0
-2024,Chinese Grand Prix,gasly,13.0
-2024,Chinese Grand Prix,zhou,14.0
-2024,Chinese Grand Prix,stroll,15.0
-2024,Chinese Grand Prix,kevin_magnussen,16.0
-2024,Chinese Grand Prix,sargeant,17.0
-2024,Chinese Grand Prix,ricciardo,18.0
-2024,Chinese Grand Prix,tsunoda,19.0
-2024,Chinese Grand Prix,bottas,20.0
-2024,Miami Grand Prix,norris,1.0
-2024,Miami Grand Prix,max_verstappen,2.0
-2024,Miami Grand Prix,leclerc,3.0
-2024,Miami Grand Prix,perez,4.0
-2024,Miami Grand Prix,sainz,5.0
-2024,Miami Grand Prix,hamilton,6.0
-2024,Miami Grand Prix,tsunoda,7.0
-2024,Miami Grand Prix,russell,8.0
-2024,Miami Grand Prix,alonso,9.0
-2024,Miami Grand Prix,ocon,10.0
-2024,Miami Grand Prix,hulkenberg,11.0
-2024,Miami Grand Prix,gasly,12.0
-2024,Miami Grand Prix,piastri,13.0
-2024,Miami Grand Prix,zhou,14.0
-2024,Miami Grand Prix,ricciardo,15.0
-2024,Miami Grand Prix,bottas,16.0
-2024,Miami Grand Prix,stroll,17.0
-2024,Miami Grand Prix,albon,18.0
-2024,Miami Grand Prix,kevin_magnussen,19.0
-2024,Miami Grand Prix,sargeant,20.0
-2024,Emilia Romagna Grand Prix,max_verstappen,1.0
-2024,Emilia Romagna Grand Prix,norris,2.0
-2024,Emilia Romagna Grand Prix,leclerc,3.0
-2024,Emilia Romagna Grand Prix,piastri,4.0
-2024,Emilia Romagna Grand Prix,sainz,5.0
-2024,Emilia Romagna Grand Prix,hamilton,6.0
-2024,Emilia Romagna Grand Prix,russell,7.0
-2024,Emilia Romagna Grand Prix,perez,8.0
-2024,Emilia Romagna Grand Prix,stroll,9.0
-2024,Emilia Romagna Grand Prix,tsunoda,10.0
-2024,Emilia Romagna Grand Prix,hulkenberg,11.0
-2024,Emilia Romagna Grand Prix,kevin_magnussen,12.0
-2024,Emilia Romagna Grand Prix,ricciardo,13.0
-2024,Emilia Romagna Grand Prix,ocon,14.0
-2024,Emilia Romagna Grand Prix,zhou,15.0
-2024,Emilia Romagna Grand Prix,gasly,16.0
-2024,Emilia Romagna Grand Prix,sargeant,17.0
-2024,Emilia Romagna Grand Prix,bottas,18.0
-2024,Emilia Romagna Grand Prix,alonso,19.0
-2024,Emilia Romagna Grand Prix,albon,20.0
-2024,Monaco Grand Prix,leclerc,1.0
-2024,Monaco Grand Prix,piastri,2.0
-2024,Monaco Grand Prix,sainz,3.0
-2024,Monaco Grand Prix,norris,4.0
-2024,Monaco Grand Prix,russell,5.0
-2024,Monaco Grand Prix,max_verstappen,6.0
-2024,Monaco Grand Prix,hamilton,7.0
-2024,Monaco Grand Prix,tsunoda,8.0
-2024,Monaco Grand Prix,albon,9.0
-2024,Monaco Grand Prix,gasly,10.0
-2024,Monaco Grand Prix,alonso,11.0
-2024,Monaco Grand Prix,ricciardo,12.0
-2024,Monaco Grand Prix,bottas,13.0
-2024,Monaco Grand Prix,stroll,14.0
-2024,Monaco Grand Prix,sargeant,15.0
-2024,Monaco Grand Prix,zhou,16.0
-2024,Monaco Grand Prix,ocon,17.0
-2024,Monaco Grand Prix,perez,18.0
-2024,Monaco Grand Prix,hulkenberg,19.0
-2024,Monaco Grand Prix,kevin_magnussen,20.0
-2024,Canadian Grand Prix,max_verstappen,1.0
-2024,Canadian Grand Prix,norris,2.0
-2024,Canadian Grand Prix,russell,3.0
-2024,Canadian Grand Prix,hamilton,4.0
-2024,Canadian Grand Prix,piastri,5.0
-2024,Canadian Grand Prix,alonso,6.0
-2024,Canadian Grand Prix,stroll,7.0
-2024,Canadian Grand Prix,ricciardo,8.0
-2024,Canadian Grand Prix,gasly,9.0
-2024,Canadian Grand Prix,ocon,10.0
-2024,Canadian Grand Prix,hulkenberg,11.0
-2024,Canadian Grand Prix,kevin_magnussen,12.0
-2024,Canadian Grand Prix,bottas,13.0
-2024,Canadian Grand Prix,tsunoda,14.0
-2024,Canadian Grand Prix,zhou,15.0
-2024,Canadian Grand Prix,sainz,16.0
-2024,Canadian Grand Prix,albon,17.0
-2024,Canadian Grand Prix,perez,18.0
-2024,Canadian Grand Prix,leclerc,19.0
-2024,Canadian Grand Prix,sargeant,20.0
-2024,Spanish Grand Prix,max_verstappen,1.0
-2024,Spanish Grand Prix,norris,2.0
-2024,Spanish Grand Prix,hamilton,3.0
-2024,Spanish Grand Prix,russell,4.0
-2024,Spanish Grand Prix,leclerc,5.0
-2024,Spanish Grand Prix,sainz,6.0
-2024,Spanish Grand Prix,piastri,7.0
-2024,Spanish Grand Prix,perez,8.0
-2024,Spanish Grand Prix,gasly,9.0
-2024,Spanish Grand Prix,ocon,10.0
-2024,Spanish Grand Prix,hulkenberg,11.0
-2024,Spanish Grand Prix,alonso,12.0
-2024,Spanish Grand Prix,zhou,13.0
-2024,Spanish Grand Prix,stroll,14.0
-2024,Spanish Grand Prix,ricciardo,15.0
-2024,Spanish Grand Prix,bottas,16.0
-2024,Spanish Grand Prix,kevin_magnussen,17.0
-2024,Spanish Grand Prix,albon,18.0
-2024,Spanish Grand Prix,tsunoda,19.0
-2024,Spanish Grand Prix,sargeant,20.0
-2024,Austrian Grand Prix,russell,1.0
-2024,Austrian Grand Prix,piastri,2.0
-2024,Austrian Grand Prix,sainz,3.0
-2024,Austrian Grand Prix,hamilton,4.0
-2024,Austrian Grand Prix,max_verstappen,5.0
-2024,Austrian Grand Prix,hulkenberg,6.0
-2024,Austrian Grand Prix,perez,7.0
-2024,Austrian Grand Prix,kevin_magnussen,8.0
-2024,Austrian Grand Prix,ricciardo,9.0
-2024,Austrian Grand Prix,gasly,10.0
-2024,Austrian Grand Prix,leclerc,11.0
-2024,Austrian Grand Prix,ocon,12.0
-2024,Austrian Grand Prix,stroll,13.0
-2024,Austrian Grand Prix,tsunoda,14.0
-2024,Austrian Grand Prix,albon,15.0
-2024,Austrian Grand Prix,bottas,16.0
-2024,Austrian Grand Prix,zhou,17.0
-2024,Austrian Grand Prix,alonso,18.0
-2024,Austrian Grand Prix,sargeant,19.0
-2024,Austrian Grand Prix,norris,20.0
-2024,British Grand Prix,hamilton,1.0
-2024,British Grand Prix,max_verstappen,2.0
-2024,British Grand Prix,norris,3.0
-2024,British Grand Prix,piastri,4.0
-2024,British Grand Prix,sainz,5.0
-2024,British Grand Prix,hulkenberg,6.0
-2024,British Grand Prix,stroll,7.0
-2024,British Grand Prix,alonso,8.0
-2024,British Grand Prix,albon,9.0
-2024,British Grand Prix,tsunoda,10.0
-2024,British Grand Prix,sargeant,11.0
-2024,British Grand Prix,kevin_magnussen,12.0
-2024,British Grand Prix,ricciardo,13.0
-2024,British Grand Prix,leclerc,14.0
-2024,British Grand Prix,bottas,15.0
-2024,British Grand Prix,ocon,16.0
-2024,British Grand Prix,perez,17.0
-2024,British Grand Prix,zhou,18.0
-2024,British Grand Prix,russell,19.0
-2024,British Grand Prix,gasly,20.0
-2024,Hungarian Grand Prix,piastri,1.0
-2024,Hungarian Grand Prix,norris,2.0
-2024,Hungarian Grand Prix,hamilton,3.0
-2024,Hungarian Grand Prix,leclerc,4.0
-2024,Hungarian Grand Prix,max_verstappen,5.0
-2024,Hungarian Grand Prix,sainz,6.0
-2024,Hungarian Grand Prix,perez,7.0
-2024,Hungarian Grand Prix,russell,8.0
-2024,Hungarian Grand Prix,tsunoda,9.0
-2024,Hungarian Grand Prix,stroll,10.0
-2024,Hungarian Grand Prix,alonso,11.0
-2024,Hungarian Grand Prix,ricciardo,12.0
-2024,Hungarian Grand Prix,hulkenberg,13.0
-2024,Hungarian Grand Prix,albon,14.0
-2024,Hungarian Grand Prix,kevin_magnussen,15.0
-2024,Hungarian Grand Prix,bottas,16.0
-2024,Hungarian Grand Prix,sargeant,17.0
-2024,Hungarian Grand Prix,ocon,18.0
-2024,Hungarian Grand Prix,zhou,19.0
-2024,Hungarian Grand Prix,gasly,20.0
-2024,Belgian Grand Prix,hamilton,1.0
-2024,Belgian Grand Prix,piastri,2.0
-2024,Belgian Grand Prix,leclerc,3.0
-2024,Belgian Grand Prix,max_verstappen,4.0
-2024,Belgian Grand Prix,norris,5.0
-2024,Belgian Grand Prix,sainz,6.0
-2024,Belgian Grand Prix,perez,7.0
-2024,Belgian Grand Prix,alonso,8.0
-2024,Belgian Grand Prix,ocon,9.0
-2024,Belgian Grand Prix,ricciardo,10.0
-2024,Belgian Grand Prix,stroll,11.0
-2024,Belgian Grand Prix,albon,12.0
-2024,Belgian Grand Prix,gasly,13.0
-2024,Belgian Grand Prix,kevin_magnussen,14.0
-2024,Belgian Grand Prix,bottas,15.0
-2024,Belgian Grand Prix,tsunoda,16.0
-2024,Belgian Grand Prix,sargeant,17.0
-2024,Belgian Grand Prix,hulkenberg,18.0
-2024,Belgian Grand Prix,zhou,19.0
-2024,Belgian Grand Prix,russell,20.0
-2024,Dutch Grand Prix,norris,1.0
-2024,Dutch Grand Prix,max_verstappen,2.0
-2024,Dutch Grand Prix,leclerc,3.0
-2024,Dutch Grand Prix,piastri,4.0
-2024,Dutch Grand Prix,sainz,5.0
-2024,Dutch Grand Prix,perez,6.0
-2024,Dutch Grand Prix,russell,7.0
-2024,Dutch Grand Prix,hamilton,8.0
-2024,Dutch Grand Prix,gasly,9.0
-2024,Dutch Grand Prix,alonso,10.0
-2024,Dutch Grand Prix,hulkenberg,11.0
-2024,Dutch Grand Prix,ricciardo,12.0
-2024,Dutch Grand Prix,stroll,13.0
-2024,Dutch Grand Prix,albon,14.0
-2024,Dutch Grand Prix,ocon,15.0
-2024,Dutch Grand Prix,sargeant,16.0
-2024,Dutch Grand Prix,tsunoda,17.0
-2024,Dutch Grand Prix,kevin_magnussen,18.0
-2024,Dutch Grand Prix,bottas,19.0
-2024,Dutch Grand Prix,zhou,20.0
-2024,Italian Grand Prix,leclerc,1.0
-2024,Italian Grand Prix,piastri,2.0
-2024,Italian Grand Prix,norris,3.0
-2024,Italian Grand Prix,sainz,4.0
-2024,Italian Grand Prix,hamilton,5.0
-2024,Italian Grand Prix,max_verstappen,6.0
-2024,Italian Grand Prix,russell,7.0
-2024,Italian Grand Prix,perez,8.0
-2024,Italian Grand Prix,albon,9.0
-2024,Italian Grand Prix,kevin_magnussen,10.0
-2024,Italian Grand Prix,alonso,11.0
-2024,Italian Grand Prix,colapinto,12.0
-2024,Italian Grand Prix,ricciardo,13.0
-2024,Italian Grand Prix,ocon,14.0
-2024,Italian Grand Prix,gasly,15.0
-2024,Italian Grand Prix,bottas,16.0
-2024,Italian Grand Prix,hulkenberg,17.0
-2024,Italian Grand Prix,zhou,18.0
-2024,Italian Grand Prix,stroll,19.0
-2024,Italian Grand Prix,tsunoda,20.0
-2024,Azerbaijan Grand Prix,piastri,1.0
-2024,Azerbaijan Grand Prix,leclerc,2.0
-2024,Azerbaijan Grand Prix,russell,3.0
-2024,Azerbaijan Grand Prix,norris,4.0
-2024,Azerbaijan Grand Prix,max_verstappen,5.0
-2024,Azerbaijan Grand Prix,alonso,6.0
-2024,Azerbaijan Grand Prix,albon,7.0
-2024,Azerbaijan Grand Prix,colapinto,8.0
-2024,Azerbaijan Grand Prix,hamilton,9.0
-2024,Azerbaijan Grand Prix,bearman,10.0
-2024,Azerbaijan Grand Prix,hulkenberg,11.0
-2024,Azerbaijan Grand Prix,gasly,12.0
-2024,Azerbaijan Grand Prix,ricciardo,13.0
-2024,Azerbaijan Grand Prix,zhou,14.0
-2024,Azerbaijan Grand Prix,ocon,15.0
-2024,Azerbaijan Grand Prix,bottas,16.0
-2024,Azerbaijan Grand Prix,perez,17.0
-2024,Azerbaijan Grand Prix,sainz,18.0
-2024,Azerbaijan Grand Prix,stroll,19.0
-2024,Azerbaijan Grand Prix,tsunoda,20.0
-2024,Singapore Grand Prix,norris,1.0
-2024,Singapore Grand Prix,max_verstappen,2.0
-2024,Singapore Grand Prix,piastri,3.0
-2024,Singapore Grand Prix,russell,4.0
-2024,Singapore Grand Prix,leclerc,5.0
-2024,Singapore Grand Prix,hamilton,6.0
-2024,Singapore Grand Prix,sainz,7.0
-2024,Singapore Grand Prix,alonso,8.0
-2024,Singapore Grand Prix,hulkenberg,9.0
-2024,Singapore Grand Prix,perez,10.0
-2024,Singapore Grand Prix,colapinto,11.0
-2024,Singapore Grand Prix,tsunoda,12.0
-2024,Singapore Grand Prix,ocon,13.0
-2024,Singapore Grand Prix,stroll,14.0
-2024,Singapore Grand Prix,zhou,15.0
-2024,Singapore Grand Prix,bottas,16.0
-2024,Singapore Grand Prix,gasly,17.0
-2024,Singapore Grand Prix,ricciardo,18.0
-2024,Singapore Grand Prix,kevin_magnussen,19.0
-2024,Singapore Grand Prix,albon,20.0
-2024,United States Grand Prix,leclerc,1.0
-2024,United States Grand Prix,sainz,2.0
-2024,United States Grand Prix,max_verstappen,3.0
-2024,United States Grand Prix,norris,4.0
-2024,United States Grand Prix,piastri,5.0
-2024,United States Grand Prix,russell,6.0
-2024,United States Grand Prix,perez,7.0
-2024,United States Grand Prix,hulkenberg,8.0
-2024,United States Grand Prix,lawson,9.0
-2024,United States Grand Prix,colapinto,10.0
-2024,United States Grand Prix,kevin_magnussen,11.0
-2024,United States Grand Prix,gasly,12.0
-2024,United States Grand Prix,alonso,13.0
-2024,United States Grand Prix,tsunoda,14.0
-2024,United States Grand Prix,stroll,15.0
-2024,United States Grand Prix,albon,16.0
-2024,United States Grand Prix,bottas,17.0
-2024,United States Grand Prix,ocon,18.0
-2024,United States Grand Prix,zhou,19.0
-2024,United States Grand Prix,hamilton,20.0
-2024,Mexico City Grand Prix,sainz,1.0
-2024,Mexico City Grand Prix,norris,2.0
-2024,Mexico City Grand Prix,leclerc,3.0
-2024,Mexico City Grand Prix,hamilton,4.0
-2024,Mexico City Grand Prix,russell,5.0
-2024,Mexico City Grand Prix,max_verstappen,6.0
-2024,Mexico City Grand Prix,kevin_magnussen,7.0
-2024,Mexico City Grand Prix,piastri,8.0
-2024,Mexico City Grand Prix,hulkenberg,9.0
-2024,Mexico City Grand Prix,gasly,10.0
-2024,Mexico City Grand Prix,stroll,11.0
-2024,Mexico City Grand Prix,colapinto,12.0
-2024,Mexico City Grand Prix,ocon,13.0
-2024,Mexico City Grand Prix,bottas,14.0
-2024,Mexico City Grand Prix,zhou,15.0
-2024,Mexico City Grand Prix,lawson,16.0
-2024,Mexico City Grand Prix,perez,17.0
-2024,Mexico City Grand Prix,alonso,18.0
-2024,Mexico City Grand Prix,albon,19.0
-2024,Mexico City Grand Prix,tsunoda,20.0
-2024,São Paulo Grand Prix,max_verstappen,1.0
-2024,São Paulo Grand Prix,ocon,2.0
-2024,São Paulo Grand Prix,gasly,3.0
-2024,São Paulo Grand Prix,russell,4.0
-2024,São Paulo Grand Prix,leclerc,5.0
-2024,São Paulo Grand Prix,norris,6.0
-2024,São Paulo Grand Prix,tsunoda,7.0
-2024,São Paulo Grand Prix,piastri,8.0
-2024,São Paulo Grand Prix,lawson,9.0
-2024,São Paulo Grand Prix,hamilton,10.0
-2024,São Paulo Grand Prix,perez,11.0
-2024,São Paulo Grand Prix,bearman,12.0
-2024,São Paulo Grand Prix,bottas,13.0
-2024,São Paulo Grand Prix,alonso,14.0
-2024,São Paulo Grand Prix,zhou,15.0
-2024,São Paulo Grand Prix,sainz,16.0
-2024,São Paulo Grand Prix,colapinto,17.0
-2024,São Paulo Grand Prix,albon,18.0
-2024,São Paulo Grand Prix,stroll,19.0
-2024,São Paulo Grand Prix,hulkenberg,20.0
-2024,Las Vegas Grand Prix,russell,1.0
-2024,Las Vegas Grand Prix,hamilton,2.0
-2024,Las Vegas Grand Prix,sainz,3.0
-2024,Las Vegas Grand Prix,leclerc,4.0
-2024,Las Vegas Grand Prix,max_verstappen,5.0
-2024,Las Vegas Grand Prix,norris,6.0
-2024,Las Vegas Grand Prix,piastri,7.0
-2024,Las Vegas Grand Prix,hulkenberg,8.0
-2024,Las Vegas Grand Prix,tsunoda,9.0
-2024,Las Vegas Grand Prix,perez,10.0
-2024,Las Vegas Grand Prix,alonso,11.0
-2024,Las Vegas Grand Prix,kevin_magnussen,12.0
-2024,Las Vegas Grand Prix,zhou,13.0
-2024,Las Vegas Grand Prix,colapinto,14.0
-2024,Las Vegas Grand Prix,stroll,15.0
-2024,Las Vegas Grand Prix,lawson,16.0
-2024,Las Vegas Grand Prix,ocon,17.0
-2024,Las Vegas Grand Prix,bottas,18.0
-2024,Las Vegas Grand Prix,albon,19.0
-2024,Las Vegas Grand Prix,gasly,20.0
-2024,Qatar Grand Prix,max_verstappen,1.0
-2024,Qatar Grand Prix,leclerc,2.0
-2024,Qatar Grand Prix,piastri,3.0
-2024,Qatar Grand Prix,russell,4.0
-2024,Qatar Grand Prix,gasly,5.0
-2024,Qatar Grand Prix,sainz,6.0
-2024,Qatar Grand Prix,alonso,7.0
-2024,Qatar Grand Prix,zhou,8.0
-2024,Qatar Grand Prix,kevin_magnussen,9.0
-2024,Qatar Grand Prix,norris,10.0
-2024,Qatar Grand Prix,bottas,11.0
-2024,Qatar Grand Prix,hamilton,12.0
-2024,Qatar Grand Prix,tsunoda,13.0
-2024,Qatar Grand Prix,lawson,14.0
-2024,Qatar Grand Prix,albon,15.0
-2024,Qatar Grand Prix,hulkenberg,16.0
-2024,Qatar Grand Prix,perez,17.0
-2024,Qatar Grand Prix,stroll,18.0
-2024,Qatar Grand Prix,colapinto,19.0
-2024,Qatar Grand Prix,ocon,20.0
-2024,Abu Dhabi Grand Prix,norris,1.0
-2024,Abu Dhabi Grand Prix,sainz,2.0
-2024,Abu Dhabi Grand Prix,leclerc,3.0
-2024,Abu Dhabi Grand Prix,hamilton,4.0
-2024,Abu Dhabi Grand Prix,russell,5.0
-2024,Abu Dhabi Grand Prix,max_verstappen,6.0
-2024,Abu Dhabi Grand Prix,gasly,7.0
-2024,Abu Dhabi Grand Prix,hulkenberg,8.0
-2024,Abu Dhabi Grand Prix,alonso,9.0
-2024,Abu Dhabi Grand Prix,piastri,10.0
-2024,Abu Dhabi Grand Prix,albon,11.0
-2024,Abu Dhabi Grand Prix,tsunoda,12.0
-2024,Abu Dhabi Grand Prix,zhou,13.0
-2024,Abu Dhabi Grand Prix,stroll,14.0
-2024,Abu Dhabi Grand Prix,doohan,15.0
-2024,Abu Dhabi Grand Prix,kevin_magnussen,16.0
-2024,Abu Dhabi Grand Prix,lawson,17.0
-2024,Abu Dhabi Grand Prix,bottas,18.0
-2024,Abu Dhabi Grand Prix,colapinto,19.0
-2024,Abu Dhabi Grand Prix,perez,20.0
+Season,Race,DriverID,RaceGridPos,RacePosition
+2021,Bahrain Grand Prix,hamilton,2.0,1.0
+2021,Bahrain Grand Prix,max_verstappen,1.0,2.0
+2021,Bahrain Grand Prix,bottas,3.0,3.0
+2021,Bahrain Grand Prix,norris,7.0,4.0
+2021,Bahrain Grand Prix,perez,0.0,5.0
+2021,Bahrain Grand Prix,leclerc,4.0,6.0
+2021,Bahrain Grand Prix,ricciardo,6.0,7.0
+2021,Bahrain Grand Prix,sainz,8.0,8.0
+2021,Bahrain Grand Prix,tsunoda,13.0,9.0
+2021,Bahrain Grand Prix,stroll,10.0,10.0
+2021,Bahrain Grand Prix,raikkonen,14.0,11.0
+2021,Bahrain Grand Prix,giovinazzi,12.0,12.0
+2021,Bahrain Grand Prix,ocon,16.0,13.0
+2021,Bahrain Grand Prix,russell,15.0,14.0
+2021,Bahrain Grand Prix,vettel,20.0,15.0
+2021,Bahrain Grand Prix,mick_schumacher,18.0,16.0
+2021,Bahrain Grand Prix,gasly,5.0,17.0
+2021,Bahrain Grand Prix,latifi,17.0,18.0
+2021,Bahrain Grand Prix,alonso,9.0,19.0
+2021,Bahrain Grand Prix,mazepin,19.0,20.0
+2021,Emilia Romagna Grand Prix,max_verstappen,3.0,1.0
+2021,Emilia Romagna Grand Prix,hamilton,1.0,2.0
+2021,Emilia Romagna Grand Prix,norris,7.0,3.0
+2021,Emilia Romagna Grand Prix,leclerc,4.0,4.0
+2021,Emilia Romagna Grand Prix,sainz,11.0,5.0
+2021,Emilia Romagna Grand Prix,ricciardo,6.0,6.0
+2021,Emilia Romagna Grand Prix,gasly,5.0,7.0
+2021,Emilia Romagna Grand Prix,stroll,10.0,8.0
+2021,Emilia Romagna Grand Prix,ocon,9.0,9.0
+2021,Emilia Romagna Grand Prix,alonso,15.0,10.0
+2021,Emilia Romagna Grand Prix,perez,2.0,11.0
+2021,Emilia Romagna Grand Prix,tsunoda,20.0,12.0
+2021,Emilia Romagna Grand Prix,raikkonen,16.0,13.0
+2021,Emilia Romagna Grand Prix,giovinazzi,17.0,14.0
+2021,Emilia Romagna Grand Prix,vettel,0.0,15.0
+2021,Emilia Romagna Grand Prix,mick_schumacher,18.0,16.0
+2021,Emilia Romagna Grand Prix,mazepin,19.0,17.0
+2021,Emilia Romagna Grand Prix,bottas,8.0,18.0
+2021,Emilia Romagna Grand Prix,russell,12.0,19.0
+2021,Emilia Romagna Grand Prix,latifi,14.0,20.0
+2021,Portuguese Grand Prix,hamilton,2.0,1.0
+2021,Portuguese Grand Prix,max_verstappen,3.0,2.0
+2021,Portuguese Grand Prix,bottas,1.0,3.0
+2021,Portuguese Grand Prix,perez,4.0,4.0
+2021,Portuguese Grand Prix,norris,7.0,5.0
+2021,Portuguese Grand Prix,leclerc,8.0,6.0
+2021,Portuguese Grand Prix,ocon,6.0,7.0
+2021,Portuguese Grand Prix,alonso,13.0,8.0
+2021,Portuguese Grand Prix,ricciardo,16.0,9.0
+2021,Portuguese Grand Prix,gasly,9.0,10.0
+2021,Portuguese Grand Prix,sainz,5.0,11.0
+2021,Portuguese Grand Prix,giovinazzi,12.0,12.0
+2021,Portuguese Grand Prix,vettel,10.0,13.0
+2021,Portuguese Grand Prix,stroll,17.0,14.0
+2021,Portuguese Grand Prix,tsunoda,14.0,15.0
+2021,Portuguese Grand Prix,russell,11.0,16.0
+2021,Portuguese Grand Prix,mick_schumacher,19.0,17.0
+2021,Portuguese Grand Prix,latifi,18.0,18.0
+2021,Portuguese Grand Prix,mazepin,20.0,19.0
+2021,Portuguese Grand Prix,raikkonen,15.0,20.0
+2021,Spanish Grand Prix,hamilton,1.0,1.0
+2021,Spanish Grand Prix,max_verstappen,2.0,2.0
+2021,Spanish Grand Prix,bottas,3.0,3.0
+2021,Spanish Grand Prix,leclerc,4.0,4.0
+2021,Spanish Grand Prix,perez,8.0,5.0
+2021,Spanish Grand Prix,ricciardo,7.0,6.0
+2021,Spanish Grand Prix,sainz,6.0,7.0
+2021,Spanish Grand Prix,norris,9.0,8.0
+2021,Spanish Grand Prix,ocon,5.0,9.0
+2021,Spanish Grand Prix,gasly,12.0,10.0
+2021,Spanish Grand Prix,stroll,11.0,11.0
+2021,Spanish Grand Prix,raikkonen,17.0,12.0
+2021,Spanish Grand Prix,vettel,13.0,13.0
+2021,Spanish Grand Prix,russell,15.0,14.0
+2021,Spanish Grand Prix,giovinazzi,14.0,15.0
+2021,Spanish Grand Prix,latifi,19.0,16.0
+2021,Spanish Grand Prix,alonso,10.0,17.0
+2021,Spanish Grand Prix,mick_schumacher,18.0,18.0
+2021,Spanish Grand Prix,mazepin,20.0,19.0
+2021,Spanish Grand Prix,tsunoda,16.0,20.0
+2021,Monaco Grand Prix,max_verstappen,2.0,1.0
+2021,Monaco Grand Prix,sainz,4.0,2.0
+2021,Monaco Grand Prix,norris,5.0,3.0
+2021,Monaco Grand Prix,perez,9.0,4.0
+2021,Monaco Grand Prix,vettel,8.0,5.0
+2021,Monaco Grand Prix,gasly,6.0,6.0
+2021,Monaco Grand Prix,hamilton,7.0,7.0
+2021,Monaco Grand Prix,stroll,13.0,8.0
+2021,Monaco Grand Prix,ocon,11.0,9.0
+2021,Monaco Grand Prix,giovinazzi,10.0,10.0
+2021,Monaco Grand Prix,raikkonen,14.0,11.0
+2021,Monaco Grand Prix,ricciardo,12.0,12.0
+2021,Monaco Grand Prix,alonso,17.0,13.0
+2021,Monaco Grand Prix,russell,15.0,14.0
+2021,Monaco Grand Prix,latifi,18.0,15.0
+2021,Monaco Grand Prix,tsunoda,16.0,16.0
+2021,Monaco Grand Prix,mazepin,19.0,17.0
+2021,Monaco Grand Prix,mick_schumacher,20.0,18.0
+2021,Monaco Grand Prix,bottas,3.0,19.0
+2021,Monaco Grand Prix,leclerc,1.0,20.0
+2021,Azerbaijan Grand Prix,perez,6.0,1.0
+2021,Azerbaijan Grand Prix,vettel,11.0,2.0
+2021,Azerbaijan Grand Prix,gasly,4.0,3.0
+2021,Azerbaijan Grand Prix,leclerc,1.0,4.0
+2021,Azerbaijan Grand Prix,norris,9.0,5.0
+2021,Azerbaijan Grand Prix,alonso,8.0,6.0
+2021,Azerbaijan Grand Prix,tsunoda,7.0,7.0
+2021,Azerbaijan Grand Prix,sainz,5.0,8.0
+2021,Azerbaijan Grand Prix,ricciardo,13.0,9.0
+2021,Azerbaijan Grand Prix,raikkonen,14.0,10.0
+2021,Azerbaijan Grand Prix,giovinazzi,20.0,11.0
+2021,Azerbaijan Grand Prix,bottas,10.0,12.0
+2021,Azerbaijan Grand Prix,mick_schumacher,17.0,13.0
+2021,Azerbaijan Grand Prix,mazepin,18.0,14.0
+2021,Azerbaijan Grand Prix,hamilton,2.0,15.0
+2021,Azerbaijan Grand Prix,latifi,16.0,16.0
+2021,Azerbaijan Grand Prix,russell,15.0,17.0
+2021,Azerbaijan Grand Prix,max_verstappen,3.0,18.0
+2021,Azerbaijan Grand Prix,stroll,19.0,19.0
+2021,Azerbaijan Grand Prix,ocon,12.0,20.0
+2021,French Grand Prix,max_verstappen,1.0,1.0
+2021,French Grand Prix,hamilton,2.0,2.0
+2021,French Grand Prix,perez,4.0,3.0
+2021,French Grand Prix,bottas,3.0,4.0
+2021,French Grand Prix,norris,8.0,5.0
+2021,French Grand Prix,ricciardo,10.0,6.0
+2021,French Grand Prix,gasly,6.0,7.0
+2021,French Grand Prix,alonso,9.0,8.0
+2021,French Grand Prix,vettel,12.0,9.0
+2021,French Grand Prix,stroll,19.0,10.0
+2021,French Grand Prix,sainz,5.0,11.0
+2021,French Grand Prix,russell,14.0,12.0
+2021,French Grand Prix,tsunoda,0.0,13.0
+2021,French Grand Prix,ocon,11.0,14.0
+2021,French Grand Prix,giovinazzi,13.0,15.0
+2021,French Grand Prix,leclerc,7.0,16.0
+2021,French Grand Prix,raikkonen,17.0,17.0
+2021,French Grand Prix,latifi,16.0,18.0
+2021,French Grand Prix,mick_schumacher,15.0,19.0
+2021,French Grand Prix,mazepin,18.0,20.0
+2021,Styrian Grand Prix,max_verstappen,1.0,1.0
+2021,Styrian Grand Prix,hamilton,2.0,2.0
+2021,Styrian Grand Prix,bottas,5.0,3.0
+2021,Styrian Grand Prix,perez,4.0,4.0
+2021,Styrian Grand Prix,norris,3.0,5.0
+2021,Styrian Grand Prix,sainz,12.0,6.0
+2021,Styrian Grand Prix,leclerc,7.0,7.0
+2021,Styrian Grand Prix,stroll,9.0,8.0
+2021,Styrian Grand Prix,alonso,8.0,9.0
+2021,Styrian Grand Prix,tsunoda,11.0,10.0
+2021,Styrian Grand Prix,raikkonen,18.0,11.0
+2021,Styrian Grand Prix,vettel,14.0,12.0
+2021,Styrian Grand Prix,ricciardo,13.0,13.0
+2021,Styrian Grand Prix,ocon,17.0,14.0
+2021,Styrian Grand Prix,giovinazzi,15.0,15.0
+2021,Styrian Grand Prix,mick_schumacher,19.0,16.0
+2021,Styrian Grand Prix,latifi,16.0,17.0
+2021,Styrian Grand Prix,mazepin,20.0,18.0
+2021,Styrian Grand Prix,russell,10.0,19.0
+2021,Styrian Grand Prix,gasly,6.0,20.0
+2021,Austrian Grand Prix,max_verstappen,1.0,1.0
+2021,Austrian Grand Prix,bottas,5.0,2.0
+2021,Austrian Grand Prix,norris,2.0,3.0
+2021,Austrian Grand Prix,hamilton,4.0,4.0
+2021,Austrian Grand Prix,sainz,10.0,5.0
+2021,Austrian Grand Prix,perez,3.0,6.0
+2021,Austrian Grand Prix,ricciardo,13.0,7.0
+2021,Austrian Grand Prix,leclerc,12.0,8.0
+2021,Austrian Grand Prix,gasly,6.0,9.0
+2021,Austrian Grand Prix,alonso,14.0,10.0
+2021,Austrian Grand Prix,russell,8.0,11.0
+2021,Austrian Grand Prix,tsunoda,7.0,12.0
+2021,Austrian Grand Prix,stroll,9.0,13.0
+2021,Austrian Grand Prix,giovinazzi,15.0,14.0
+2021,Austrian Grand Prix,raikkonen,16.0,15.0
+2021,Austrian Grand Prix,latifi,18.0,16.0
+2021,Austrian Grand Prix,vettel,11.0,17.0
+2021,Austrian Grand Prix,mick_schumacher,19.0,18.0
+2021,Austrian Grand Prix,mazepin,20.0,19.0
+2021,Austrian Grand Prix,ocon,17.0,20.0
+2021,British Grand Prix,hamilton,2.0,1.0
+2021,British Grand Prix,leclerc,4.0,2.0
+2021,British Grand Prix,bottas,3.0,3.0
+2021,British Grand Prix,norris,5.0,4.0
+2021,British Grand Prix,ricciardo,6.0,5.0
+2021,British Grand Prix,sainz,10.0,6.0
+2021,British Grand Prix,alonso,7.0,7.0
+2021,British Grand Prix,stroll,14.0,8.0
+2021,British Grand Prix,ocon,9.0,9.0
+2021,British Grand Prix,tsunoda,16.0,10.0
+2021,British Grand Prix,gasly,11.0,11.0
+2021,British Grand Prix,russell,12.0,12.0
+2021,British Grand Prix,giovinazzi,15.0,13.0
+2021,British Grand Prix,latifi,17.0,14.0
+2021,British Grand Prix,raikkonen,13.0,15.0
+2021,British Grand Prix,perez,0.0,16.0
+2021,British Grand Prix,mazepin,19.0,17.0
+2021,British Grand Prix,mick_schumacher,18.0,18.0
+2021,British Grand Prix,vettel,8.0,19.0
+2021,British Grand Prix,max_verstappen,1.0,20.0
+2021,Hungarian Grand Prix,ocon,8.0,1.0
+2021,Hungarian Grand Prix,hamilton,1.0,2.0
+2021,Hungarian Grand Prix,sainz,15.0,3.0
+2021,Hungarian Grand Prix,alonso,9.0,4.0
+2021,Hungarian Grand Prix,gasly,5.0,5.0
+2021,Hungarian Grand Prix,tsunoda,16.0,6.0
+2021,Hungarian Grand Prix,latifi,18.0,7.0
+2021,Hungarian Grand Prix,russell,17.0,8.0
+2021,Hungarian Grand Prix,max_verstappen,3.0,9.0
+2021,Hungarian Grand Prix,raikkonen,13.0,10.0
+2021,Hungarian Grand Prix,ricciardo,11.0,11.0
+2021,Hungarian Grand Prix,mick_schumacher,20.0,12.0
+2021,Hungarian Grand Prix,giovinazzi,0.0,13.0
+2021,Hungarian Grand Prix,mazepin,19.0,14.0
+2021,Hungarian Grand Prix,norris,6.0,15.0
+2021,Hungarian Grand Prix,bottas,2.0,16.0
+2021,Hungarian Grand Prix,perez,4.0,17.0
+2021,Hungarian Grand Prix,leclerc,7.0,18.0
+2021,Hungarian Grand Prix,stroll,12.0,19.0
+2021,Hungarian Grand Prix,vettel,10.0,20.0
+2021,Belgian Grand Prix,max_verstappen,1.0,1.0
+2021,Belgian Grand Prix,russell,2.0,2.0
+2021,Belgian Grand Prix,hamilton,3.0,3.0
+2021,Belgian Grand Prix,ricciardo,4.0,4.0
+2021,Belgian Grand Prix,vettel,5.0,5.0
+2021,Belgian Grand Prix,gasly,6.0,6.0
+2021,Belgian Grand Prix,ocon,8.0,7.0
+2021,Belgian Grand Prix,leclerc,9.0,8.0
+2021,Belgian Grand Prix,latifi,10.0,9.0
+2021,Belgian Grand Prix,sainz,11.0,10.0
+2021,Belgian Grand Prix,alonso,12.0,11.0
+2021,Belgian Grand Prix,bottas,13.0,12.0
+2021,Belgian Grand Prix,giovinazzi,14.0,13.0
+2021,Belgian Grand Prix,norris,15.0,14.0
+2021,Belgian Grand Prix,tsunoda,16.0,15.0
+2021,Belgian Grand Prix,mick_schumacher,17.0,16.0
+2021,Belgian Grand Prix,mazepin,18.0,17.0
+2021,Belgian Grand Prix,raikkonen,0.0,18.0
+2021,Belgian Grand Prix,perez,0.0,19.0
+2021,Belgian Grand Prix,stroll,19.0,20.0
+2021,Dutch Grand Prix,max_verstappen,1.0,1.0
+2021,Dutch Grand Prix,hamilton,2.0,2.0
+2021,Dutch Grand Prix,bottas,3.0,3.0
+2021,Dutch Grand Prix,gasly,4.0,4.0
+2021,Dutch Grand Prix,leclerc,5.0,5.0
+2021,Dutch Grand Prix,alonso,9.0,6.0
+2021,Dutch Grand Prix,sainz,6.0,7.0
+2021,Dutch Grand Prix,perez,0.0,8.0
+2021,Dutch Grand Prix,ocon,8.0,9.0
+2021,Dutch Grand Prix,norris,13.0,10.0
+2021,Dutch Grand Prix,ricciardo,10.0,11.0
+2021,Dutch Grand Prix,stroll,12.0,12.0
+2021,Dutch Grand Prix,vettel,15.0,13.0
+2021,Dutch Grand Prix,giovinazzi,7.0,14.0
+2021,Dutch Grand Prix,kubica,16.0,15.0
+2021,Dutch Grand Prix,latifi,0.0,16.0
+2021,Dutch Grand Prix,russell,11.0,17.0
+2021,Dutch Grand Prix,mick_schumacher,17.0,18.0
+2021,Dutch Grand Prix,tsunoda,14.0,19.0
+2021,Dutch Grand Prix,mazepin,18.0,20.0
+2021,Italian Grand Prix,ricciardo,2.0,1.0
+2021,Italian Grand Prix,norris,3.0,2.0
+2021,Italian Grand Prix,bottas,19.0,3.0
+2021,Italian Grand Prix,leclerc,5.0,4.0
+2021,Italian Grand Prix,perez,8.0,5.0
+2021,Italian Grand Prix,sainz,6.0,6.0
+2021,Italian Grand Prix,stroll,9.0,7.0
+2021,Italian Grand Prix,alonso,10.0,8.0
+2021,Italian Grand Prix,russell,14.0,9.0
+2021,Italian Grand Prix,ocon,12.0,10.0
+2021,Italian Grand Prix,latifi,13.0,11.0
+2021,Italian Grand Prix,vettel,11.0,12.0
+2021,Italian Grand Prix,giovinazzi,7.0,13.0
+2021,Italian Grand Prix,kubica,17.0,14.0
+2021,Italian Grand Prix,mick_schumacher,18.0,15.0
+2021,Italian Grand Prix,mazepin,16.0,16.0
+2021,Italian Grand Prix,hamilton,4.0,17.0
+2021,Italian Grand Prix,max_verstappen,1.0,18.0
+2021,Italian Grand Prix,gasly,0.0,19.0
+2021,Italian Grand Prix,tsunoda,0.0,20.0
+2021,Russian Grand Prix,hamilton,4.0,1.0
+2021,Russian Grand Prix,max_verstappen,20.0,2.0
+2021,Russian Grand Prix,sainz,2.0,3.0
+2021,Russian Grand Prix,ricciardo,5.0,4.0
+2021,Russian Grand Prix,bottas,16.0,5.0
+2021,Russian Grand Prix,alonso,6.0,6.0
+2021,Russian Grand Prix,norris,1.0,7.0
+2021,Russian Grand Prix,raikkonen,13.0,8.0
+2021,Russian Grand Prix,perez,8.0,9.0
+2021,Russian Grand Prix,russell,3.0,10.0
+2021,Russian Grand Prix,stroll,7.0,11.0
+2021,Russian Grand Prix,vettel,10.0,12.0
+2021,Russian Grand Prix,gasly,11.0,13.0
+2021,Russian Grand Prix,ocon,9.0,14.0
+2021,Russian Grand Prix,leclerc,19.0,15.0
+2021,Russian Grand Prix,giovinazzi,17.0,16.0
+2021,Russian Grand Prix,tsunoda,12.0,17.0
+2021,Russian Grand Prix,mazepin,15.0,18.0
+2021,Russian Grand Prix,latifi,18.0,19.0
+2021,Russian Grand Prix,mick_schumacher,14.0,20.0
+2021,Turkish Grand Prix,bottas,1.0,1.0
+2021,Turkish Grand Prix,max_verstappen,2.0,2.0
+2021,Turkish Grand Prix,perez,6.0,3.0
+2021,Turkish Grand Prix,leclerc,3.0,4.0
+2021,Turkish Grand Prix,hamilton,11.0,5.0
+2021,Turkish Grand Prix,gasly,4.0,6.0
+2021,Turkish Grand Prix,norris,7.0,7.0
+2021,Turkish Grand Prix,sainz,19.0,8.0
+2021,Turkish Grand Prix,stroll,8.0,9.0
+2021,Turkish Grand Prix,ocon,12.0,10.0
+2021,Turkish Grand Prix,giovinazzi,16.0,11.0
+2021,Turkish Grand Prix,raikkonen,17.0,12.0
+2021,Turkish Grand Prix,ricciardo,20.0,13.0
+2021,Turkish Grand Prix,tsunoda,9.0,14.0
+2021,Turkish Grand Prix,russell,13.0,15.0
+2021,Turkish Grand Prix,alonso,5.0,16.0
+2021,Turkish Grand Prix,latifi,15.0,17.0
+2021,Turkish Grand Prix,vettel,10.0,18.0
+2021,Turkish Grand Prix,mick_schumacher,14.0,19.0
+2021,Turkish Grand Prix,mazepin,18.0,20.0
+2021,United States Grand Prix,max_verstappen,1.0,1.0
+2021,United States Grand Prix,hamilton,2.0,2.0
+2021,United States Grand Prix,perez,3.0,3.0
+2021,United States Grand Prix,leclerc,4.0,4.0
+2021,United States Grand Prix,ricciardo,6.0,5.0
+2021,United States Grand Prix,bottas,9.0,6.0
+2021,United States Grand Prix,sainz,5.0,7.0
+2021,United States Grand Prix,norris,7.0,8.0
+2021,United States Grand Prix,tsunoda,10.0,9.0
+2021,United States Grand Prix,vettel,18.0,10.0
+2021,United States Grand Prix,giovinazzi,12.0,11.0
+2021,United States Grand Prix,stroll,13.0,12.0
+2021,United States Grand Prix,raikkonen,15.0,13.0
+2021,United States Grand Prix,russell,20.0,14.0
+2021,United States Grand Prix,latifi,14.0,15.0
+2021,United States Grand Prix,mick_schumacher,16.0,16.0
+2021,United States Grand Prix,mazepin,17.0,17.0
+2021,United States Grand Prix,alonso,19.0,18.0
+2021,United States Grand Prix,ocon,11.0,19.0
+2021,United States Grand Prix,gasly,8.0,20.0
+2021,Mexico City Grand Prix,max_verstappen,3.0,1.0
+2021,Mexico City Grand Prix,hamilton,2.0,2.0
+2021,Mexico City Grand Prix,perez,4.0,3.0
+2021,Mexico City Grand Prix,gasly,5.0,4.0
+2021,Mexico City Grand Prix,leclerc,8.0,5.0
+2021,Mexico City Grand Prix,sainz,6.0,6.0
+2021,Mexico City Grand Prix,vettel,9.0,7.0
+2021,Mexico City Grand Prix,raikkonen,10.0,8.0
+2021,Mexico City Grand Prix,alonso,12.0,9.0
+2021,Mexico City Grand Prix,norris,18.0,10.0
+2021,Mexico City Grand Prix,giovinazzi,11.0,11.0
+2021,Mexico City Grand Prix,ricciardo,7.0,12.0
+2021,Mexico City Grand Prix,ocon,19.0,13.0
+2021,Mexico City Grand Prix,stroll,20.0,14.0
+2021,Mexico City Grand Prix,bottas,1.0,15.0
+2021,Mexico City Grand Prix,russell,16.0,16.0
+2021,Mexico City Grand Prix,latifi,13.0,17.0
+2021,Mexico City Grand Prix,mazepin,15.0,18.0
+2021,Mexico City Grand Prix,mick_schumacher,14.0,19.0
+2021,Mexico City Grand Prix,tsunoda,17.0,20.0
+2021,São Paulo Grand Prix,hamilton,10.0,1.0
+2021,São Paulo Grand Prix,max_verstappen,2.0,2.0
+2021,São Paulo Grand Prix,bottas,1.0,3.0
+2021,São Paulo Grand Prix,perez,4.0,4.0
+2021,São Paulo Grand Prix,leclerc,6.0,5.0
+2021,São Paulo Grand Prix,sainz,3.0,6.0
+2021,São Paulo Grand Prix,gasly,7.0,7.0
+2021,São Paulo Grand Prix,ocon,8.0,8.0
+2021,São Paulo Grand Prix,alonso,12.0,9.0
+2021,São Paulo Grand Prix,norris,5.0,10.0
+2021,São Paulo Grand Prix,vettel,9.0,11.0
+2021,São Paulo Grand Prix,raikkonen,0.0,12.0
+2021,São Paulo Grand Prix,russell,17.0,13.0
+2021,São Paulo Grand Prix,giovinazzi,13.0,14.0
+2021,São Paulo Grand Prix,tsunoda,15.0,15.0
+2021,São Paulo Grand Prix,latifi,16.0,16.0
+2021,São Paulo Grand Prix,mazepin,19.0,17.0
+2021,São Paulo Grand Prix,mick_schumacher,18.0,18.0
+2021,São Paulo Grand Prix,ricciardo,11.0,19.0
+2021,São Paulo Grand Prix,stroll,14.0,20.0
+2021,Qatar Grand Prix,hamilton,1.0,1.0
+2021,Qatar Grand Prix,max_verstappen,7.0,2.0
+2021,Qatar Grand Prix,alonso,3.0,3.0
+2021,Qatar Grand Prix,perez,11.0,4.0
+2021,Qatar Grand Prix,ocon,9.0,5.0
+2021,Qatar Grand Prix,stroll,12.0,6.0
+2021,Qatar Grand Prix,sainz,5.0,7.0
+2021,Qatar Grand Prix,leclerc,13.0,8.0
+2021,Qatar Grand Prix,norris,4.0,9.0
+2021,Qatar Grand Prix,vettel,10.0,10.0
+2021,Qatar Grand Prix,gasly,2.0,11.0
+2021,Qatar Grand Prix,ricciardo,14.0,12.0
+2021,Qatar Grand Prix,tsunoda,8.0,13.0
+2021,Qatar Grand Prix,raikkonen,16.0,14.0
+2021,Qatar Grand Prix,giovinazzi,18.0,15.0
+2021,Qatar Grand Prix,mick_schumacher,19.0,16.0
+2021,Qatar Grand Prix,russell,15.0,17.0
+2021,Qatar Grand Prix,mazepin,20.0,18.0
+2021,Qatar Grand Prix,latifi,17.0,19.0
+2021,Qatar Grand Prix,bottas,6.0,20.0
+2021,Saudi Arabian Grand Prix,hamilton,1.0,1.0
+2021,Saudi Arabian Grand Prix,max_verstappen,3.0,2.0
+2021,Saudi Arabian Grand Prix,bottas,2.0,3.0
+2021,Saudi Arabian Grand Prix,ocon,9.0,4.0
+2021,Saudi Arabian Grand Prix,ricciardo,11.0,5.0
+2021,Saudi Arabian Grand Prix,gasly,6.0,6.0
+2021,Saudi Arabian Grand Prix,leclerc,4.0,7.0
+2021,Saudi Arabian Grand Prix,sainz,15.0,8.0
+2021,Saudi Arabian Grand Prix,giovinazzi,10.0,9.0
+2021,Saudi Arabian Grand Prix,norris,7.0,10.0
+2021,Saudi Arabian Grand Prix,stroll,18.0,11.0
+2021,Saudi Arabian Grand Prix,latifi,16.0,12.0
+2021,Saudi Arabian Grand Prix,alonso,13.0,13.0
+2021,Saudi Arabian Grand Prix,tsunoda,8.0,14.0
+2021,Saudi Arabian Grand Prix,raikkonen,12.0,15.0
+2021,Saudi Arabian Grand Prix,vettel,17.0,16.0
+2021,Saudi Arabian Grand Prix,perez,5.0,17.0
+2021,Saudi Arabian Grand Prix,mazepin,20.0,18.0
+2021,Saudi Arabian Grand Prix,russell,14.0,19.0
+2021,Saudi Arabian Grand Prix,mick_schumacher,19.0,20.0
+2021,Abu Dhabi Grand Prix,max_verstappen,1.0,1.0
+2021,Abu Dhabi Grand Prix,hamilton,2.0,2.0
+2021,Abu Dhabi Grand Prix,sainz,5.0,3.0
+2021,Abu Dhabi Grand Prix,tsunoda,8.0,4.0
+2021,Abu Dhabi Grand Prix,gasly,12.0,5.0
+2021,Abu Dhabi Grand Prix,bottas,6.0,6.0
+2021,Abu Dhabi Grand Prix,norris,3.0,7.0
+2021,Abu Dhabi Grand Prix,alonso,11.0,8.0
+2021,Abu Dhabi Grand Prix,ocon,9.0,9.0
+2021,Abu Dhabi Grand Prix,leclerc,7.0,10.0
+2021,Abu Dhabi Grand Prix,vettel,15.0,11.0
+2021,Abu Dhabi Grand Prix,ricciardo,10.0,12.0
+2021,Abu Dhabi Grand Prix,stroll,13.0,13.0
+2021,Abu Dhabi Grand Prix,mick_schumacher,19.0,14.0
+2021,Abu Dhabi Grand Prix,perez,4.0,15.0
+2021,Abu Dhabi Grand Prix,latifi,16.0,16.0
+2021,Abu Dhabi Grand Prix,giovinazzi,14.0,17.0
+2021,Abu Dhabi Grand Prix,russell,17.0,18.0
+2021,Abu Dhabi Grand Prix,raikkonen,18.0,19.0
+2021,Abu Dhabi Grand Prix,mazepin,,
+2022,Pre-Season Track Session,sainz,1.0,1.0
+2022,Pre-Season Track Session,perez,4.0,2.0
+2022,Pre-Season Track Session,hamilton,5.0,3.0
+2022,Pre-Season Track Session,leclerc,3.0,4.0
+2022,Pre-Season Track Session,alonso,7.0,5.0
+2022,Pre-Season Track Session,norris,6.0,6.0
+2022,Pre-Season Track Session,max_verstappen,2.0,7.0
+2022,Pre-Season Track Session,mick_schumacher,19.0,8.0
+2022,Pre-Season Track Session,vettel,18.0,9.0
+2022,Pre-Season Track Session,kevin_magnussen,17.0,10.0
+2022,Pre-Season Track Session,stroll,20.0,11.0
+2022,Pre-Season Track Session,latifi,10.0,12.0
+2022,Pre-Season Track Session,ricciardo,14.0,13.0
+2022,Pre-Season Track Session,tsunoda,13.0,14.0
+2022,Pre-Season Track Session,ocon,15.0,15.0
+2022,Pre-Season Track Session,gasly,11.0,16.0
+2022,Pre-Season Track Session,bottas,12.0,17.0
+2022,Pre-Season Track Session,russell,8.0,18.0
+2022,Pre-Season Track Session,zhou,9.0,19.0
+2022,Pre-Season Track Session,albon,16.0,20.0
+2022,Bahrain Grand Prix,leclerc,1.0,1.0
+2022,Bahrain Grand Prix,sainz,3.0,2.0
+2022,Bahrain Grand Prix,hamilton,5.0,3.0
+2022,Bahrain Grand Prix,russell,9.0,4.0
+2022,Bahrain Grand Prix,kevin_magnussen,7.0,5.0
+2022,Bahrain Grand Prix,bottas,6.0,6.0
+2022,Bahrain Grand Prix,ocon,11.0,7.0
+2022,Bahrain Grand Prix,tsunoda,16.0,8.0
+2022,Bahrain Grand Prix,alonso,8.0,9.0
+2022,Bahrain Grand Prix,zhou,15.0,10.0
+2022,Bahrain Grand Prix,mick_schumacher,12.0,11.0
+2022,Bahrain Grand Prix,stroll,19.0,12.0
+2022,Bahrain Grand Prix,albon,14.0,13.0
+2022,Bahrain Grand Prix,ricciardo,18.0,14.0
+2022,Bahrain Grand Prix,norris,13.0,15.0
+2022,Bahrain Grand Prix,latifi,20.0,16.0
+2022,Bahrain Grand Prix,hulkenberg,17.0,17.0
+2022,Bahrain Grand Prix,perez,4.0,18.0
+2022,Bahrain Grand Prix,max_verstappen,2.0,19.0
+2022,Bahrain Grand Prix,gasly,10.0,20.0
+2022,Saudi Arabian Grand Prix,max_verstappen,4.0,1.0
+2022,Saudi Arabian Grand Prix,leclerc,2.0,2.0
+2022,Saudi Arabian Grand Prix,sainz,3.0,3.0
+2022,Saudi Arabian Grand Prix,perez,1.0,4.0
+2022,Saudi Arabian Grand Prix,russell,6.0,5.0
+2022,Saudi Arabian Grand Prix,ocon,5.0,6.0
+2022,Saudi Arabian Grand Prix,norris,11.0,7.0
+2022,Saudi Arabian Grand Prix,gasly,9.0,8.0
+2022,Saudi Arabian Grand Prix,kevin_magnussen,10.0,9.0
+2022,Saudi Arabian Grand Prix,hamilton,15.0,10.0
+2022,Saudi Arabian Grand Prix,zhou,12.0,11.0
+2022,Saudi Arabian Grand Prix,hulkenberg,17.0,12.0
+2022,Saudi Arabian Grand Prix,stroll,13.0,13.0
+2022,Saudi Arabian Grand Prix,albon,16.0,14.0
+2022,Saudi Arabian Grand Prix,bottas,8.0,15.0
+2022,Saudi Arabian Grand Prix,alonso,7.0,16.0
+2022,Saudi Arabian Grand Prix,ricciardo,14.0,17.0
+2022,Saudi Arabian Grand Prix,latifi,18.0,18.0
+2022,Saudi Arabian Grand Prix,tsunoda,19.0,19.0
+2022,Saudi Arabian Grand Prix,mick_schumacher,,
+2022,Australian Grand Prix,leclerc,1.0,1.0
+2022,Australian Grand Prix,perez,3.0,2.0
+2022,Australian Grand Prix,russell,6.0,3.0
+2022,Australian Grand Prix,hamilton,5.0,4.0
+2022,Australian Grand Prix,norris,4.0,5.0
+2022,Australian Grand Prix,ricciardo,7.0,6.0
+2022,Australian Grand Prix,ocon,8.0,7.0
+2022,Australian Grand Prix,bottas,12.0,8.0
+2022,Australian Grand Prix,gasly,11.0,9.0
+2022,Australian Grand Prix,albon,20.0,10.0
+2022,Australian Grand Prix,zhou,14.0,11.0
+2022,Australian Grand Prix,stroll,19.0,12.0
+2022,Australian Grand Prix,mick_schumacher,15.0,13.0
+2022,Australian Grand Prix,kevin_magnussen,16.0,14.0
+2022,Australian Grand Prix,tsunoda,13.0,15.0
+2022,Australian Grand Prix,latifi,18.0,16.0
+2022,Australian Grand Prix,alonso,10.0,17.0
+2022,Australian Grand Prix,max_verstappen,2.0,18.0
+2022,Australian Grand Prix,vettel,17.0,19.0
+2022,Australian Grand Prix,sainz,9.0,20.0
+2022,Emilia Romagna Grand Prix,max_verstappen,1.0,1.0
+2022,Emilia Romagna Grand Prix,perez,3.0,2.0
+2022,Emilia Romagna Grand Prix,norris,5.0,3.0
+2022,Emilia Romagna Grand Prix,russell,11.0,4.0
+2022,Emilia Romagna Grand Prix,bottas,7.0,5.0
+2022,Emilia Romagna Grand Prix,leclerc,2.0,6.0
+2022,Emilia Romagna Grand Prix,tsunoda,12.0,7.0
+2022,Emilia Romagna Grand Prix,vettel,13.0,8.0
+2022,Emilia Romagna Grand Prix,kevin_magnussen,8.0,9.0
+2022,Emilia Romagna Grand Prix,stroll,15.0,10.0
+2022,Emilia Romagna Grand Prix,albon,18.0,11.0
+2022,Emilia Romagna Grand Prix,gasly,17.0,12.0
+2022,Emilia Romagna Grand Prix,hamilton,14.0,13.0
+2022,Emilia Romagna Grand Prix,ocon,16.0,14.0
+2022,Emilia Romagna Grand Prix,zhou,0.0,15.0
+2022,Emilia Romagna Grand Prix,latifi,19.0,16.0
+2022,Emilia Romagna Grand Prix,mick_schumacher,10.0,17.0
+2022,Emilia Romagna Grand Prix,ricciardo,6.0,18.0
+2022,Emilia Romagna Grand Prix,alonso,9.0,19.0
+2022,Emilia Romagna Grand Prix,sainz,4.0,20.0
+2022,Miami Grand Prix,max_verstappen,3.0,1.0
+2022,Miami Grand Prix,leclerc,1.0,2.0
+2022,Miami Grand Prix,sainz,2.0,3.0
+2022,Miami Grand Prix,perez,4.0,4.0
+2022,Miami Grand Prix,russell,12.0,5.0
+2022,Miami Grand Prix,hamilton,6.0,6.0
+2022,Miami Grand Prix,bottas,5.0,7.0
+2022,Miami Grand Prix,ocon,20.0,8.0
+2022,Miami Grand Prix,albon,18.0,9.0
+2022,Miami Grand Prix,stroll,0.0,10.0
+2022,Miami Grand Prix,alonso,11.0,11.0
+2022,Miami Grand Prix,tsunoda,9.0,12.0
+2022,Miami Grand Prix,ricciardo,14.0,13.0
+2022,Miami Grand Prix,latifi,19.0,14.0
+2022,Miami Grand Prix,mick_schumacher,15.0,15.0
+2022,Miami Grand Prix,kevin_magnussen,16.0,16.0
+2022,Miami Grand Prix,vettel,0.0,17.0
+2022,Miami Grand Prix,gasly,7.0,18.0
+2022,Miami Grand Prix,norris,8.0,19.0
+2022,Miami Grand Prix,zhou,17.0,20.0
+2022,Spanish Grand Prix,max_verstappen,2.0,1.0
+2022,Spanish Grand Prix,perez,5.0,2.0
+2022,Spanish Grand Prix,russell,4.0,3.0
+2022,Spanish Grand Prix,sainz,3.0,4.0
+2022,Spanish Grand Prix,hamilton,6.0,5.0
+2022,Spanish Grand Prix,bottas,7.0,6.0
+2022,Spanish Grand Prix,ocon,12.0,7.0
+2022,Spanish Grand Prix,norris,11.0,8.0
+2022,Spanish Grand Prix,alonso,20.0,9.0
+2022,Spanish Grand Prix,tsunoda,13.0,10.0
+2022,Spanish Grand Prix,vettel,16.0,11.0
+2022,Spanish Grand Prix,ricciardo,9.0,12.0
+2022,Spanish Grand Prix,gasly,14.0,13.0
+2022,Spanish Grand Prix,mick_schumacher,10.0,14.0
+2022,Spanish Grand Prix,stroll,17.0,15.0
+2022,Spanish Grand Prix,latifi,19.0,16.0
+2022,Spanish Grand Prix,kevin_magnussen,8.0,17.0
+2022,Spanish Grand Prix,albon,18.0,18.0
+2022,Spanish Grand Prix,zhou,15.0,19.0
+2022,Spanish Grand Prix,leclerc,1.0,20.0
+2022,Monaco Grand Prix,perez,3.0,1.0
+2022,Monaco Grand Prix,sainz,2.0,2.0
+2022,Monaco Grand Prix,max_verstappen,4.0,3.0
+2022,Monaco Grand Prix,leclerc,1.0,4.0
+2022,Monaco Grand Prix,russell,6.0,5.0
+2022,Monaco Grand Prix,norris,5.0,6.0
+2022,Monaco Grand Prix,alonso,7.0,7.0
+2022,Monaco Grand Prix,hamilton,8.0,8.0
+2022,Monaco Grand Prix,bottas,12.0,9.0
+2022,Monaco Grand Prix,vettel,9.0,10.0
+2022,Monaco Grand Prix,gasly,17.0,11.0
+2022,Monaco Grand Prix,ocon,10.0,12.0
+2022,Monaco Grand Prix,ricciardo,14.0,13.0
+2022,Monaco Grand Prix,stroll,18.0,14.0
+2022,Monaco Grand Prix,latifi,19.0,15.0
+2022,Monaco Grand Prix,zhou,20.0,16.0
+2022,Monaco Grand Prix,tsunoda,11.0,17.0
+2022,Monaco Grand Prix,albon,16.0,18.0
+2022,Monaco Grand Prix,mick_schumacher,15.0,19.0
+2022,Monaco Grand Prix,kevin_magnussen,13.0,20.0
+2022,Azerbaijan Grand Prix,max_verstappen,3.0,1.0
+2022,Azerbaijan Grand Prix,perez,2.0,2.0
+2022,Azerbaijan Grand Prix,russell,5.0,3.0
+2022,Azerbaijan Grand Prix,hamilton,7.0,4.0
+2022,Azerbaijan Grand Prix,gasly,6.0,5.0
+2022,Azerbaijan Grand Prix,vettel,9.0,6.0
+2022,Azerbaijan Grand Prix,alonso,10.0,7.0
+2022,Azerbaijan Grand Prix,ricciardo,12.0,8.0
+2022,Azerbaijan Grand Prix,norris,11.0,9.0
+2022,Azerbaijan Grand Prix,ocon,13.0,10.0
+2022,Azerbaijan Grand Prix,bottas,15.0,11.0
+2022,Azerbaijan Grand Prix,albon,17.0,12.0
+2022,Azerbaijan Grand Prix,tsunoda,8.0,13.0
+2022,Azerbaijan Grand Prix,mick_schumacher,20.0,14.0
+2022,Azerbaijan Grand Prix,latifi,18.0,15.0
+2022,Azerbaijan Grand Prix,stroll,19.0,16.0
+2022,Azerbaijan Grand Prix,kevin_magnussen,16.0,17.0
+2022,Azerbaijan Grand Prix,zhou,14.0,18.0
+2022,Azerbaijan Grand Prix,leclerc,1.0,19.0
+2022,Azerbaijan Grand Prix,sainz,4.0,20.0
+2022,Canadian Grand Prix,max_verstappen,1.0,1.0
+2022,Canadian Grand Prix,sainz,3.0,2.0
+2022,Canadian Grand Prix,hamilton,4.0,3.0
+2022,Canadian Grand Prix,russell,8.0,4.0
+2022,Canadian Grand Prix,leclerc,19.0,5.0
+2022,Canadian Grand Prix,ocon,7.0,6.0
+2022,Canadian Grand Prix,bottas,11.0,7.0
+2022,Canadian Grand Prix,zhou,10.0,8.0
+2022,Canadian Grand Prix,alonso,2.0,9.0
+2022,Canadian Grand Prix,stroll,17.0,10.0
+2022,Canadian Grand Prix,ricciardo,9.0,11.0
+2022,Canadian Grand Prix,vettel,16.0,12.0
+2022,Canadian Grand Prix,albon,12.0,13.0
+2022,Canadian Grand Prix,gasly,15.0,14.0
+2022,Canadian Grand Prix,norris,14.0,15.0
+2022,Canadian Grand Prix,latifi,18.0,16.0
+2022,Canadian Grand Prix,kevin_magnussen,5.0,17.0
+2022,Canadian Grand Prix,tsunoda,20.0,18.0
+2022,Canadian Grand Prix,mick_schumacher,6.0,19.0
+2022,Canadian Grand Prix,perez,13.0,20.0
+2022,British Grand Prix,sainz,1.0,1.0
+2022,British Grand Prix,perez,4.0,2.0
+2022,British Grand Prix,hamilton,5.0,3.0
+2022,British Grand Prix,leclerc,3.0,4.0
+2022,British Grand Prix,alonso,7.0,5.0
+2022,British Grand Prix,norris,6.0,6.0
+2022,British Grand Prix,max_verstappen,2.0,7.0
+2022,British Grand Prix,mick_schumacher,19.0,8.0
+2022,British Grand Prix,vettel,18.0,9.0
+2022,British Grand Prix,kevin_magnussen,17.0,10.0
+2022,British Grand Prix,stroll,20.0,11.0
+2022,British Grand Prix,latifi,10.0,12.0
+2022,British Grand Prix,ricciardo,14.0,13.0
+2022,British Grand Prix,tsunoda,13.0,14.0
+2022,British Grand Prix,ocon,15.0,15.0
+2022,British Grand Prix,gasly,11.0,16.0
+2022,British Grand Prix,bottas,12.0,17.0
+2022,British Grand Prix,russell,8.0,18.0
+2022,British Grand Prix,zhou,9.0,19.0
+2022,British Grand Prix,albon,16.0,20.0
+2022,Austrian Grand Prix,leclerc,2.0,1.0
+2022,Austrian Grand Prix,max_verstappen,1.0,2.0
+2022,Austrian Grand Prix,hamilton,8.0,3.0
+2022,Austrian Grand Prix,russell,4.0,4.0
+2022,Austrian Grand Prix,ocon,6.0,5.0
+2022,Austrian Grand Prix,mick_schumacher,9.0,6.0
+2022,Austrian Grand Prix,norris,10.0,7.0
+2022,Austrian Grand Prix,kevin_magnussen,7.0,8.0
+2022,Austrian Grand Prix,ricciardo,11.0,9.0
+2022,Austrian Grand Prix,alonso,19.0,10.0
+2022,Austrian Grand Prix,bottas,0.0,11.0
+2022,Austrian Grand Prix,albon,15.0,12.0
+2022,Austrian Grand Prix,stroll,12.0,13.0
+2022,Austrian Grand Prix,zhou,13.0,14.0
+2022,Austrian Grand Prix,gasly,14.0,15.0
+2022,Austrian Grand Prix,tsunoda,16.0,16.0
+2022,Austrian Grand Prix,vettel,18.0,17.0
+2022,Austrian Grand Prix,sainz,3.0,18.0
+2022,Austrian Grand Prix,latifi,17.0,19.0
+2022,Austrian Grand Prix,perez,5.0,20.0
+2022,French Grand Prix,max_verstappen,2.0,1.0
+2022,French Grand Prix,hamilton,4.0,2.0
+2022,French Grand Prix,russell,6.0,3.0
+2022,French Grand Prix,perez,3.0,4.0
+2022,French Grand Prix,sainz,19.0,5.0
+2022,French Grand Prix,alonso,7.0,6.0
+2022,French Grand Prix,norris,5.0,7.0
+2022,French Grand Prix,ocon,10.0,8.0
+2022,French Grand Prix,ricciardo,9.0,9.0
+2022,French Grand Prix,stroll,15.0,10.0
+2022,French Grand Prix,vettel,12.0,11.0
+2022,French Grand Prix,gasly,14.0,12.0
+2022,French Grand Prix,albon,13.0,13.0
+2022,French Grand Prix,bottas,11.0,14.0
+2022,French Grand Prix,mick_schumacher,17.0,15.0
+2022,French Grand Prix,zhou,16.0,16.0
+2022,French Grand Prix,latifi,18.0,17.0
+2022,French Grand Prix,kevin_magnussen,20.0,18.0
+2022,French Grand Prix,leclerc,1.0,19.0
+2022,French Grand Prix,tsunoda,8.0,20.0
+2022,Hungarian Grand Prix,max_verstappen,10.0,1.0
+2022,Hungarian Grand Prix,hamilton,7.0,2.0
+2022,Hungarian Grand Prix,russell,1.0,3.0
+2022,Hungarian Grand Prix,sainz,2.0,4.0
+2022,Hungarian Grand Prix,perez,11.0,5.0
+2022,Hungarian Grand Prix,leclerc,3.0,6.0
+2022,Hungarian Grand Prix,norris,4.0,7.0
+2022,Hungarian Grand Prix,alonso,6.0,8.0
+2022,Hungarian Grand Prix,ocon,5.0,9.0
+2022,Hungarian Grand Prix,vettel,18.0,10.0
+2022,Hungarian Grand Prix,stroll,14.0,11.0
+2022,Hungarian Grand Prix,gasly,0.0,12.0
+2022,Hungarian Grand Prix,zhou,12.0,13.0
+2022,Hungarian Grand Prix,mick_schumacher,15.0,14.0
+2022,Hungarian Grand Prix,ricciardo,9.0,15.0
+2022,Hungarian Grand Prix,kevin_magnussen,13.0,16.0
+2022,Hungarian Grand Prix,albon,17.0,17.0
+2022,Hungarian Grand Prix,latifi,19.0,18.0
+2022,Hungarian Grand Prix,tsunoda,16.0,19.0
+2022,Hungarian Grand Prix,bottas,8.0,20.0
+2022,Belgian Grand Prix,max_verstappen,14.0,1.0
+2022,Belgian Grand Prix,perez,2.0,2.0
+2022,Belgian Grand Prix,sainz,1.0,3.0
+2022,Belgian Grand Prix,russell,5.0,4.0
+2022,Belgian Grand Prix,alonso,3.0,5.0
+2022,Belgian Grand Prix,leclerc,15.0,6.0
+2022,Belgian Grand Prix,ocon,16.0,7.0
+2022,Belgian Grand Prix,vettel,10.0,8.0
+2022,Belgian Grand Prix,gasly,0.0,9.0
+2022,Belgian Grand Prix,albon,6.0,10.0
+2022,Belgian Grand Prix,stroll,9.0,11.0
+2022,Belgian Grand Prix,norris,17.0,12.0
+2022,Belgian Grand Prix,tsunoda,0.0,13.0
+2022,Belgian Grand Prix,zhou,18.0,14.0
+2022,Belgian Grand Prix,ricciardo,7.0,15.0
+2022,Belgian Grand Prix,kevin_magnussen,12.0,16.0
+2022,Belgian Grand Prix,mick_schumacher,19.0,17.0
+2022,Belgian Grand Prix,latifi,11.0,18.0
+2022,Belgian Grand Prix,bottas,13.0,19.0
+2022,Belgian Grand Prix,hamilton,4.0,20.0
+2022,Dutch Grand Prix,max_verstappen,1.0,1.0
+2022,Dutch Grand Prix,russell,6.0,2.0
+2022,Dutch Grand Prix,leclerc,2.0,3.0
+2022,Dutch Grand Prix,hamilton,4.0,4.0
+2022,Dutch Grand Prix,perez,5.0,5.0
+2022,Dutch Grand Prix,alonso,13.0,6.0
+2022,Dutch Grand Prix,norris,7.0,7.0
+2022,Dutch Grand Prix,sainz,3.0,8.0
+2022,Dutch Grand Prix,ocon,12.0,9.0
+2022,Dutch Grand Prix,stroll,10.0,10.0
+2022,Dutch Grand Prix,gasly,11.0,11.0
+2022,Dutch Grand Prix,albon,15.0,12.0
+2022,Dutch Grand Prix,mick_schumacher,8.0,13.0
+2022,Dutch Grand Prix,vettel,19.0,14.0
+2022,Dutch Grand Prix,kevin_magnussen,18.0,15.0
+2022,Dutch Grand Prix,zhou,14.0,16.0
+2022,Dutch Grand Prix,ricciardo,17.0,17.0
+2022,Dutch Grand Prix,latifi,20.0,18.0
+2022,Dutch Grand Prix,bottas,16.0,19.0
+2022,Dutch Grand Prix,tsunoda,9.0,20.0
+2022,Italian Grand Prix,max_verstappen,7.0,1.0
+2022,Italian Grand Prix,leclerc,1.0,2.0
+2022,Italian Grand Prix,russell,2.0,3.0
+2022,Italian Grand Prix,sainz,18.0,4.0
+2022,Italian Grand Prix,hamilton,19.0,5.0
+2022,Italian Grand Prix,perez,13.0,6.0
+2022,Italian Grand Prix,norris,3.0,7.0
+2022,Italian Grand Prix,gasly,5.0,8.0
+2022,Italian Grand Prix,de_vries,8.0,9.0
+2022,Italian Grand Prix,zhou,9.0,10.0
+2022,Italian Grand Prix,ocon,14.0,11.0
+2022,Italian Grand Prix,mick_schumacher,17.0,12.0
+2022,Italian Grand Prix,bottas,15.0,13.0
+2022,Italian Grand Prix,tsunoda,20.0,14.0
+2022,Italian Grand Prix,latifi,10.0,15.0
+2022,Italian Grand Prix,kevin_magnussen,16.0,16.0
+2022,Italian Grand Prix,ricciardo,4.0,17.0
+2022,Italian Grand Prix,stroll,12.0,18.0
+2022,Italian Grand Prix,alonso,6.0,19.0
+2022,Italian Grand Prix,vettel,11.0,20.0
+2022,Singapore Grand Prix,perez,2.0,1.0
+2022,Singapore Grand Prix,leclerc,1.0,2.0
+2022,Singapore Grand Prix,sainz,4.0,3.0
+2022,Singapore Grand Prix,norris,6.0,4.0
+2022,Singapore Grand Prix,ricciardo,16.0,5.0
+2022,Singapore Grand Prix,stroll,11.0,6.0
+2022,Singapore Grand Prix,max_verstappen,8.0,7.0
+2022,Singapore Grand Prix,vettel,13.0,8.0
+2022,Singapore Grand Prix,hamilton,3.0,9.0
+2022,Singapore Grand Prix,gasly,7.0,10.0
+2022,Singapore Grand Prix,bottas,15.0,11.0
+2022,Singapore Grand Prix,kevin_magnussen,9.0,12.0
+2022,Singapore Grand Prix,mick_schumacher,12.0,13.0
+2022,Singapore Grand Prix,russell,0.0,14.0
+2022,Singapore Grand Prix,tsunoda,10.0,15.0
+2022,Singapore Grand Prix,ocon,17.0,16.0
+2022,Singapore Grand Prix,albon,18.0,17.0
+2022,Singapore Grand Prix,alonso,5.0,18.0
+2022,Singapore Grand Prix,latifi,19.0,19.0
+2022,Singapore Grand Prix,zhou,14.0,20.0
+2022,Japanese Grand Prix,max_verstappen,1.0,1.0
+2022,Japanese Grand Prix,perez,4.0,2.0
+2022,Japanese Grand Prix,leclerc,2.0,3.0
+2022,Japanese Grand Prix,ocon,5.0,4.0
+2022,Japanese Grand Prix,hamilton,6.0,5.0
+2022,Japanese Grand Prix,vettel,9.0,6.0
+2022,Japanese Grand Prix,alonso,7.0,7.0
+2022,Japanese Grand Prix,russell,8.0,8.0
+2022,Japanese Grand Prix,latifi,20.0,9.0
+2022,Japanese Grand Prix,norris,10.0,10.0
+2022,Japanese Grand Prix,ricciardo,11.0,11.0
+2022,Japanese Grand Prix,stroll,19.0,12.0
+2022,Japanese Grand Prix,tsunoda,13.0,13.0
+2022,Japanese Grand Prix,kevin_magnussen,18.0,14.0
+2022,Japanese Grand Prix,bottas,12.0,15.0
+2022,Japanese Grand Prix,zhou,14.0,16.0
+2022,Japanese Grand Prix,mick_schumacher,15.0,17.0
+2022,Japanese Grand Prix,gasly,17.0,18.0
+2022,Japanese Grand Prix,sainz,3.0,19.0
+2022,Japanese Grand Prix,albon,16.0,20.0
+2022,United States Grand Prix,max_verstappen,2.0,1.0
+2022,United States Grand Prix,hamilton,3.0,2.0
+2022,United States Grand Prix,leclerc,12.0,3.0
+2022,United States Grand Prix,perez,9.0,4.0
+2022,United States Grand Prix,russell,4.0,5.0
+2022,United States Grand Prix,norris,6.0,6.0
+2022,United States Grand Prix,alonso,14.0,7.0
+2022,United States Grand Prix,vettel,10.0,8.0
+2022,United States Grand Prix,kevin_magnussen,13.0,9.0
+2022,United States Grand Prix,tsunoda,19.0,10.0
+2022,United States Grand Prix,ocon,0.0,11.0
+2022,United States Grand Prix,zhou,18.0,12.0
+2022,United States Grand Prix,albon,8.0,13.0
+2022,United States Grand Prix,gasly,11.0,14.0
+2022,United States Grand Prix,mick_schumacher,16.0,15.0
+2022,United States Grand Prix,ricciardo,15.0,16.0
+2022,United States Grand Prix,latifi,17.0,17.0
+2022,United States Grand Prix,stroll,5.0,18.0
+2022,United States Grand Prix,bottas,7.0,19.0
+2022,United States Grand Prix,sainz,1.0,20.0
+2022,Mexico City Grand Prix,max_verstappen,1.0,1.0
+2022,Mexico City Grand Prix,hamilton,3.0,2.0
+2022,Mexico City Grand Prix,perez,4.0,3.0
+2022,Mexico City Grand Prix,russell,2.0,4.0
+2022,Mexico City Grand Prix,sainz,5.0,5.0
+2022,Mexico City Grand Prix,leclerc,7.0,6.0
+2022,Mexico City Grand Prix,ricciardo,11.0,7.0
+2022,Mexico City Grand Prix,ocon,10.0,8.0
+2022,Mexico City Grand Prix,norris,8.0,9.0
+2022,Mexico City Grand Prix,bottas,6.0,10.0
+2022,Mexico City Grand Prix,gasly,14.0,11.0
+2022,Mexico City Grand Prix,albon,17.0,12.0
+2022,Mexico City Grand Prix,zhou,12.0,13.0
+2022,Mexico City Grand Prix,vettel,16.0,14.0
+2022,Mexico City Grand Prix,stroll,20.0,15.0
+2022,Mexico City Grand Prix,mick_schumacher,15.0,16.0
+2022,Mexico City Grand Prix,kevin_magnussen,19.0,17.0
+2022,Mexico City Grand Prix,latifi,18.0,18.0
+2022,Mexico City Grand Prix,alonso,9.0,19.0
+2022,Mexico City Grand Prix,tsunoda,13.0,20.0
+2022,São Paulo Grand Prix,russell,1.0,1.0
+2022,São Paulo Grand Prix,hamilton,2.0,2.0
+2022,São Paulo Grand Prix,sainz,7.0,3.0
+2022,São Paulo Grand Prix,leclerc,5.0,4.0
+2022,São Paulo Grand Prix,alonso,17.0,5.0
+2022,São Paulo Grand Prix,max_verstappen,3.0,6.0
+2022,São Paulo Grand Prix,perez,4.0,7.0
+2022,São Paulo Grand Prix,ocon,16.0,8.0
+2022,São Paulo Grand Prix,bottas,14.0,9.0
+2022,São Paulo Grand Prix,stroll,15.0,10.0
+2022,São Paulo Grand Prix,vettel,9.0,11.0
+2022,São Paulo Grand Prix,zhou,13.0,12.0
+2022,São Paulo Grand Prix,mick_schumacher,12.0,13.0
+2022,São Paulo Grand Prix,gasly,10.0,14.0
+2022,São Paulo Grand Prix,albon,19.0,15.0
+2022,São Paulo Grand Prix,latifi,18.0,16.0
+2022,São Paulo Grand Prix,tsunoda,0.0,17.0
+2022,São Paulo Grand Prix,norris,6.0,18.0
+2022,São Paulo Grand Prix,kevin_magnussen,8.0,19.0
+2022,São Paulo Grand Prix,ricciardo,11.0,20.0
+2022,Abu Dhabi Grand Prix,max_verstappen,1.0,1.0
+2022,Abu Dhabi Grand Prix,leclerc,3.0,2.0
+2022,Abu Dhabi Grand Prix,perez,2.0,3.0
+2022,Abu Dhabi Grand Prix,sainz,4.0,4.0
+2022,Abu Dhabi Grand Prix,russell,6.0,5.0
+2022,Abu Dhabi Grand Prix,norris,7.0,6.0
+2022,Abu Dhabi Grand Prix,ocon,8.0,7.0
+2022,Abu Dhabi Grand Prix,stroll,14.0,8.0
+2022,Abu Dhabi Grand Prix,ricciardo,13.0,9.0
+2022,Abu Dhabi Grand Prix,vettel,9.0,10.0
+2022,Abu Dhabi Grand Prix,tsunoda,11.0,11.0
+2022,Abu Dhabi Grand Prix,zhou,15.0,12.0
+2022,Abu Dhabi Grand Prix,albon,19.0,13.0
+2022,Abu Dhabi Grand Prix,gasly,17.0,14.0
+2022,Abu Dhabi Grand Prix,bottas,18.0,15.0
+2022,Abu Dhabi Grand Prix,mick_schumacher,12.0,16.0
+2022,Abu Dhabi Grand Prix,kevin_magnussen,16.0,17.0
+2022,Abu Dhabi Grand Prix,hamilton,5.0,18.0
+2022,Abu Dhabi Grand Prix,latifi,20.0,19.0
+2022,Abu Dhabi Grand Prix,alonso,10.0,20.0
+2023,Pre-Season Testing,max_verstappen,1.0,1.0
+2023,Pre-Season Testing,norris,2.0,2.0
+2023,Pre-Season Testing,hamilton,7.0,3.0
+2023,Pre-Season Testing,piastri,3.0,4.0
+2023,Pre-Season Testing,russell,6.0,5.0
+2023,Pre-Season Testing,perez,15.0,6.0
+2023,Pre-Season Testing,alonso,9.0,7.0
+2023,Pre-Season Testing,albon,8.0,8.0
+2023,Pre-Season Testing,leclerc,4.0,9.0
+2023,Pre-Season Testing,sainz,5.0,10.0
+2023,Pre-Season Testing,sargeant,14.0,11.0
+2023,Pre-Season Testing,bottas,20.0,12.0
+2023,Pre-Season Testing,hulkenberg,11.0,13.0
+2023,Pre-Season Testing,stroll,12.0,14.0
+2023,Pre-Season Testing,zhou,17.0,15.0
+2023,Pre-Season Testing,tsunoda,16.0,16.0
+2023,Pre-Season Testing,de_vries,18.0,17.0
+2023,Pre-Season Testing,gasly,10.0,18.0
+2023,Pre-Season Testing,kevin_magnussen,19.0,19.0
+2023,Pre-Season Testing,ocon,13.0,20.0
+2023,Bahrain Grand Prix,max_verstappen,1.0,1.0
+2023,Bahrain Grand Prix,perez,2.0,2.0
+2023,Bahrain Grand Prix,alonso,5.0,3.0
+2023,Bahrain Grand Prix,sainz,4.0,4.0
+2023,Bahrain Grand Prix,hamilton,7.0,5.0
+2023,Bahrain Grand Prix,stroll,8.0,6.0
+2023,Bahrain Grand Prix,russell,6.0,7.0
+2023,Bahrain Grand Prix,bottas,12.0,8.0
+2023,Bahrain Grand Prix,gasly,20.0,9.0
+2023,Bahrain Grand Prix,albon,15.0,10.0
+2023,Bahrain Grand Prix,tsunoda,14.0,11.0
+2023,Bahrain Grand Prix,sargeant,16.0,12.0
+2023,Bahrain Grand Prix,kevin_magnussen,17.0,13.0
+2023,Bahrain Grand Prix,de_vries,19.0,14.0
+2023,Bahrain Grand Prix,hulkenberg,10.0,15.0
+2023,Bahrain Grand Prix,zhou,13.0,16.0
+2023,Bahrain Grand Prix,norris,11.0,17.0
+2023,Bahrain Grand Prix,ocon,9.0,18.0
+2023,Bahrain Grand Prix,leclerc,3.0,19.0
+2023,Bahrain Grand Prix,piastri,18.0,20.0
+2023,Saudi Arabian Grand Prix,perez,1.0,1.0
+2023,Saudi Arabian Grand Prix,max_verstappen,15.0,2.0
+2023,Saudi Arabian Grand Prix,alonso,2.0,3.0
+2023,Saudi Arabian Grand Prix,russell,3.0,4.0
+2023,Saudi Arabian Grand Prix,hamilton,7.0,5.0
+2023,Saudi Arabian Grand Prix,sainz,4.0,6.0
+2023,Saudi Arabian Grand Prix,leclerc,12.0,7.0
+2023,Saudi Arabian Grand Prix,ocon,6.0,8.0
+2023,Saudi Arabian Grand Prix,gasly,9.0,9.0
+2023,Saudi Arabian Grand Prix,kevin_magnussen,13.0,10.0
+2023,Saudi Arabian Grand Prix,tsunoda,16.0,11.0
+2023,Saudi Arabian Grand Prix,hulkenberg,10.0,12.0
+2023,Saudi Arabian Grand Prix,zhou,11.0,13.0
+2023,Saudi Arabian Grand Prix,de_vries,18.0,14.0
+2023,Saudi Arabian Grand Prix,piastri,8.0,15.0
+2023,Saudi Arabian Grand Prix,sargeant,20.0,16.0
+2023,Saudi Arabian Grand Prix,norris,19.0,17.0
+2023,Saudi Arabian Grand Prix,bottas,14.0,18.0
+2023,Saudi Arabian Grand Prix,albon,17.0,19.0
+2023,Saudi Arabian Grand Prix,stroll,5.0,20.0
+2023,Australian Grand Prix,max_verstappen,1.0,1.0
+2023,Australian Grand Prix,hamilton,3.0,2.0
+2023,Australian Grand Prix,alonso,4.0,3.0
+2023,Australian Grand Prix,stroll,6.0,4.0
+2023,Australian Grand Prix,perez,20.0,5.0
+2023,Australian Grand Prix,norris,13.0,6.0
+2023,Australian Grand Prix,hulkenberg,10.0,7.0
+2023,Australian Grand Prix,piastri,16.0,8.0
+2023,Australian Grand Prix,zhou,17.0,9.0
+2023,Australian Grand Prix,tsunoda,12.0,10.0
+2023,Australian Grand Prix,bottas,19.0,11.0
+2023,Australian Grand Prix,sainz,5.0,12.0
+2023,Australian Grand Prix,gasly,9.0,13.0
+2023,Australian Grand Prix,ocon,11.0,14.0
+2023,Australian Grand Prix,de_vries,15.0,15.0
+2023,Australian Grand Prix,sargeant,18.0,16.0
+2023,Australian Grand Prix,kevin_magnussen,14.0,17.0
+2023,Australian Grand Prix,russell,2.0,18.0
+2023,Australian Grand Prix,albon,8.0,19.0
+2023,Australian Grand Prix,leclerc,7.0,20.0
+2023,Azerbaijan Grand Prix,perez,3.0,1.0
+2023,Azerbaijan Grand Prix,max_verstappen,2.0,2.0
+2023,Azerbaijan Grand Prix,leclerc,1.0,3.0
+2023,Azerbaijan Grand Prix,alonso,6.0,4.0
+2023,Azerbaijan Grand Prix,sainz,4.0,5.0
+2023,Azerbaijan Grand Prix,hamilton,5.0,6.0
+2023,Azerbaijan Grand Prix,stroll,9.0,7.0
+2023,Azerbaijan Grand Prix,russell,11.0,8.0
+2023,Azerbaijan Grand Prix,norris,7.0,9.0
+2023,Azerbaijan Grand Prix,tsunoda,8.0,10.0
+2023,Azerbaijan Grand Prix,piastri,10.0,11.0
+2023,Azerbaijan Grand Prix,albon,12.0,12.0
+2023,Azerbaijan Grand Prix,kevin_magnussen,16.0,13.0
+2023,Azerbaijan Grand Prix,gasly,17.0,14.0
+2023,Azerbaijan Grand Prix,ocon,19.0,15.0
+2023,Azerbaijan Grand Prix,sargeant,14.0,16.0
+2023,Azerbaijan Grand Prix,hulkenberg,20.0,17.0
+2023,Azerbaijan Grand Prix,bottas,13.0,18.0
+2023,Azerbaijan Grand Prix,zhou,15.0,19.0
+2023,Azerbaijan Grand Prix,de_vries,18.0,20.0
+2023,Miami Grand Prix,max_verstappen,9.0,1.0
+2023,Miami Grand Prix,perez,1.0,2.0
+2023,Miami Grand Prix,alonso,2.0,3.0
+2023,Miami Grand Prix,russell,6.0,4.0
+2023,Miami Grand Prix,sainz,3.0,5.0
+2023,Miami Grand Prix,hamilton,13.0,6.0
+2023,Miami Grand Prix,leclerc,7.0,7.0
+2023,Miami Grand Prix,gasly,5.0,8.0
+2023,Miami Grand Prix,ocon,8.0,9.0
+2023,Miami Grand Prix,kevin_magnussen,4.0,10.0
+2023,Miami Grand Prix,tsunoda,17.0,11.0
+2023,Miami Grand Prix,stroll,18.0,12.0
+2023,Miami Grand Prix,bottas,10.0,13.0
+2023,Miami Grand Prix,albon,11.0,14.0
+2023,Miami Grand Prix,hulkenberg,12.0,15.0
+2023,Miami Grand Prix,zhou,14.0,16.0
+2023,Miami Grand Prix,norris,16.0,17.0
+2023,Miami Grand Prix,de_vries,15.0,18.0
+2023,Miami Grand Prix,piastri,19.0,19.0
+2023,Miami Grand Prix,sargeant,20.0,20.0
+2023,Monaco Grand Prix,max_verstappen,1.0,1.0
+2023,Monaco Grand Prix,alonso,2.0,2.0
+2023,Monaco Grand Prix,ocon,3.0,3.0
+2023,Monaco Grand Prix,hamilton,5.0,4.0
+2023,Monaco Grand Prix,russell,8.0,5.0
+2023,Monaco Grand Prix,leclerc,6.0,6.0
+2023,Monaco Grand Prix,gasly,7.0,7.0
+2023,Monaco Grand Prix,sainz,4.0,8.0
+2023,Monaco Grand Prix,norris,10.0,9.0
+2023,Monaco Grand Prix,piastri,11.0,10.0
+2023,Monaco Grand Prix,bottas,15.0,11.0
+2023,Monaco Grand Prix,de_vries,12.0,12.0
+2023,Monaco Grand Prix,zhou,19.0,13.0
+2023,Monaco Grand Prix,albon,13.0,14.0
+2023,Monaco Grand Prix,tsunoda,9.0,15.0
+2023,Monaco Grand Prix,perez,20.0,16.0
+2023,Monaco Grand Prix,hulkenberg,18.0,17.0
+2023,Monaco Grand Prix,sargeant,16.0,18.0
+2023,Monaco Grand Prix,kevin_magnussen,17.0,19.0
+2023,Monaco Grand Prix,stroll,14.0,20.0
+2023,Spanish Grand Prix,max_verstappen,1.0,1.0
+2023,Spanish Grand Prix,hamilton,4.0,2.0
+2023,Spanish Grand Prix,russell,12.0,3.0
+2023,Spanish Grand Prix,perez,11.0,4.0
+2023,Spanish Grand Prix,sainz,2.0,5.0
+2023,Spanish Grand Prix,stroll,5.0,6.0
+2023,Spanish Grand Prix,alonso,8.0,7.0
+2023,Spanish Grand Prix,ocon,6.0,8.0
+2023,Spanish Grand Prix,zhou,13.0,9.0
+2023,Spanish Grand Prix,gasly,10.0,10.0
+2023,Spanish Grand Prix,leclerc,19.0,11.0
+2023,Spanish Grand Prix,tsunoda,15.0,12.0
+2023,Spanish Grand Prix,piastri,9.0,13.0
+2023,Spanish Grand Prix,de_vries,14.0,14.0
+2023,Spanish Grand Prix,hulkenberg,7.0,15.0
+2023,Spanish Grand Prix,albon,18.0,16.0
+2023,Spanish Grand Prix,norris,3.0,17.0
+2023,Spanish Grand Prix,kevin_magnussen,17.0,18.0
+2023,Spanish Grand Prix,bottas,16.0,19.0
+2023,Spanish Grand Prix,sargeant,20.0,20.0
+2023,Canadian Grand Prix,max_verstappen,1.0,1.0
+2023,Canadian Grand Prix,alonso,2.0,2.0
+2023,Canadian Grand Prix,hamilton,3.0,3.0
+2023,Canadian Grand Prix,leclerc,10.0,4.0
+2023,Canadian Grand Prix,sainz,11.0,5.0
+2023,Canadian Grand Prix,perez,12.0,6.0
+2023,Canadian Grand Prix,albon,9.0,7.0
+2023,Canadian Grand Prix,ocon,6.0,8.0
+2023,Canadian Grand Prix,stroll,16.0,9.0
+2023,Canadian Grand Prix,bottas,14.0,10.0
+2023,Canadian Grand Prix,piastri,8.0,11.0
+2023,Canadian Grand Prix,gasly,15.0,12.0
+2023,Canadian Grand Prix,norris,7.0,13.0
+2023,Canadian Grand Prix,tsunoda,19.0,14.0
+2023,Canadian Grand Prix,hulkenberg,5.0,15.0
+2023,Canadian Grand Prix,zhou,20.0,16.0
+2023,Canadian Grand Prix,kevin_magnussen,13.0,17.0
+2023,Canadian Grand Prix,de_vries,17.0,18.0
+2023,Canadian Grand Prix,russell,4.0,19.0
+2023,Canadian Grand Prix,sargeant,18.0,20.0
+2023,Austrian Grand Prix,max_verstappen,1.0,1.0
+2023,Austrian Grand Prix,leclerc,2.0,2.0
+2023,Austrian Grand Prix,perez,15.0,3.0
+2023,Austrian Grand Prix,norris,4.0,4.0
+2023,Austrian Grand Prix,alonso,7.0,5.0
+2023,Austrian Grand Prix,sainz,3.0,6.0
+2023,Austrian Grand Prix,russell,11.0,7.0
+2023,Austrian Grand Prix,hamilton,5.0,8.0
+2023,Austrian Grand Prix,stroll,6.0,9.0
+2023,Austrian Grand Prix,gasly,9.0,10.0
+2023,Austrian Grand Prix,albon,10.0,11.0
+2023,Austrian Grand Prix,zhou,17.0,12.0
+2023,Austrian Grand Prix,sargeant,18.0,13.0
+2023,Austrian Grand Prix,ocon,12.0,14.0
+2023,Austrian Grand Prix,bottas,14.0,15.0
+2023,Austrian Grand Prix,piastri,13.0,16.0
+2023,Austrian Grand Prix,de_vries,20.0,17.0
+2023,Austrian Grand Prix,kevin_magnussen,19.0,18.0
+2023,Austrian Grand Prix,tsunoda,16.0,19.0
+2023,Austrian Grand Prix,hulkenberg,8.0,20.0
+2023,British Grand Prix,max_verstappen,1.0,1.0
+2023,British Grand Prix,norris,2.0,2.0
+2023,British Grand Prix,hamilton,7.0,3.0
+2023,British Grand Prix,piastri,3.0,4.0
+2023,British Grand Prix,russell,6.0,5.0
+2023,British Grand Prix,perez,15.0,6.0
+2023,British Grand Prix,alonso,9.0,7.0
+2023,British Grand Prix,albon,8.0,8.0
+2023,British Grand Prix,leclerc,4.0,9.0
+2023,British Grand Prix,sainz,5.0,10.0
+2023,British Grand Prix,sargeant,14.0,11.0
+2023,British Grand Prix,bottas,20.0,12.0
+2023,British Grand Prix,hulkenberg,11.0,13.0
+2023,British Grand Prix,stroll,12.0,14.0
+2023,British Grand Prix,zhou,17.0,15.0
+2023,British Grand Prix,tsunoda,16.0,16.0
+2023,British Grand Prix,de_vries,18.0,17.0
+2023,British Grand Prix,gasly,10.0,18.0
+2023,British Grand Prix,kevin_magnussen,19.0,19.0
+2023,British Grand Prix,ocon,13.0,20.0
+2023,Hungarian Grand Prix,max_verstappen,2.0,1.0
+2023,Hungarian Grand Prix,norris,3.0,2.0
+2023,Hungarian Grand Prix,perez,9.0,3.0
+2023,Hungarian Grand Prix,hamilton,1.0,4.0
+2023,Hungarian Grand Prix,piastri,4.0,5.0
+2023,Hungarian Grand Prix,russell,18.0,6.0
+2023,Hungarian Grand Prix,leclerc,6.0,7.0
+2023,Hungarian Grand Prix,sainz,11.0,8.0
+2023,Hungarian Grand Prix,alonso,8.0,9.0
+2023,Hungarian Grand Prix,stroll,14.0,10.0
+2023,Hungarian Grand Prix,albon,16.0,11.0
+2023,Hungarian Grand Prix,bottas,7.0,12.0
+2023,Hungarian Grand Prix,ricciardo,13.0,13.0
+2023,Hungarian Grand Prix,hulkenberg,10.0,14.0
+2023,Hungarian Grand Prix,tsunoda,17.0,15.0
+2023,Hungarian Grand Prix,zhou,5.0,16.0
+2023,Hungarian Grand Prix,kevin_magnussen,19.0,17.0
+2023,Hungarian Grand Prix,sargeant,20.0,18.0
+2023,Hungarian Grand Prix,ocon,12.0,19.0
+2023,Hungarian Grand Prix,gasly,15.0,20.0
+2023,Belgian Grand Prix,max_verstappen,6.0,1.0
+2023,Belgian Grand Prix,perez,2.0,2.0
+2023,Belgian Grand Prix,leclerc,1.0,3.0
+2023,Belgian Grand Prix,hamilton,3.0,4.0
+2023,Belgian Grand Prix,alonso,9.0,5.0
+2023,Belgian Grand Prix,russell,8.0,6.0
+2023,Belgian Grand Prix,norris,7.0,7.0
+2023,Belgian Grand Prix,ocon,14.0,8.0
+2023,Belgian Grand Prix,stroll,10.0,9.0
+2023,Belgian Grand Prix,tsunoda,11.0,10.0
+2023,Belgian Grand Prix,gasly,12.0,11.0
+2023,Belgian Grand Prix,bottas,13.0,12.0
+2023,Belgian Grand Prix,zhou,17.0,13.0
+2023,Belgian Grand Prix,albon,15.0,14.0
+2023,Belgian Grand Prix,kevin_magnussen,16.0,15.0
+2023,Belgian Grand Prix,ricciardo,19.0,16.0
+2023,Belgian Grand Prix,sargeant,18.0,17.0
+2023,Belgian Grand Prix,hulkenberg,20.0,18.0
+2023,Belgian Grand Prix,sainz,4.0,19.0
+2023,Belgian Grand Prix,piastri,5.0,20.0
+2023,Dutch Grand Prix,max_verstappen,1.0,1.0
+2023,Dutch Grand Prix,alonso,5.0,2.0
+2023,Dutch Grand Prix,gasly,12.0,3.0
+2023,Dutch Grand Prix,perez,7.0,4.0
+2023,Dutch Grand Prix,sainz,6.0,5.0
+2023,Dutch Grand Prix,hamilton,13.0,6.0
+2023,Dutch Grand Prix,norris,2.0,7.0
+2023,Dutch Grand Prix,albon,4.0,8.0
+2023,Dutch Grand Prix,piastri,8.0,9.0
+2023,Dutch Grand Prix,ocon,16.0,10.0
+2023,Dutch Grand Prix,stroll,11.0,11.0
+2023,Dutch Grand Prix,hulkenberg,14.0,12.0
+2023,Dutch Grand Prix,lawson,19.0,13.0
+2023,Dutch Grand Prix,bottas,18.0,14.0
+2023,Dutch Grand Prix,tsunoda,17.0,15.0
+2023,Dutch Grand Prix,kevin_magnussen,0.0,16.0
+2023,Dutch Grand Prix,russell,3.0,17.0
+2023,Dutch Grand Prix,zhou,15.0,18.0
+2023,Dutch Grand Prix,leclerc,9.0,19.0
+2023,Dutch Grand Prix,sargeant,10.0,20.0
+2023,Italian Grand Prix,max_verstappen,2.0,1.0
+2023,Italian Grand Prix,perez,5.0,2.0
+2023,Italian Grand Prix,sainz,1.0,3.0
+2023,Italian Grand Prix,leclerc,3.0,4.0
+2023,Italian Grand Prix,russell,4.0,5.0
+2023,Italian Grand Prix,hamilton,8.0,6.0
+2023,Italian Grand Prix,albon,6.0,7.0
+2023,Italian Grand Prix,norris,9.0,8.0
+2023,Italian Grand Prix,alonso,10.0,9.0
+2023,Italian Grand Prix,bottas,14.0,10.0
+2023,Italian Grand Prix,lawson,12.0,11.0
+2023,Italian Grand Prix,piastri,7.0,12.0
+2023,Italian Grand Prix,sargeant,15.0,13.0
+2023,Italian Grand Prix,zhou,16.0,14.0
+2023,Italian Grand Prix,gasly,17.0,15.0
+2023,Italian Grand Prix,stroll,20.0,16.0
+2023,Italian Grand Prix,hulkenberg,13.0,17.0
+2023,Italian Grand Prix,kevin_magnussen,19.0,18.0
+2023,Italian Grand Prix,ocon,18.0,19.0
+2023,Italian Grand Prix,tsunoda,11.0,20.0
+2023,Singapore Grand Prix,sainz,1.0,1.0
+2023,Singapore Grand Prix,norris,4.0,2.0
+2023,Singapore Grand Prix,hamilton,5.0,3.0
+2023,Singapore Grand Prix,leclerc,3.0,4.0
+2023,Singapore Grand Prix,max_verstappen,11.0,5.0
+2023,Singapore Grand Prix,gasly,12.0,6.0
+2023,Singapore Grand Prix,piastri,17.0,7.0
+2023,Singapore Grand Prix,perez,13.0,8.0
+2023,Singapore Grand Prix,lawson,10.0,9.0
+2023,Singapore Grand Prix,kevin_magnussen,6.0,10.0
+2023,Singapore Grand Prix,albon,14.0,11.0
+2023,Singapore Grand Prix,zhou,19.0,12.0
+2023,Singapore Grand Prix,hulkenberg,9.0,13.0
+2023,Singapore Grand Prix,sargeant,18.0,14.0
+2023,Singapore Grand Prix,alonso,7.0,15.0
+2023,Singapore Grand Prix,russell,2.0,16.0
+2023,Singapore Grand Prix,bottas,16.0,17.0
+2023,Singapore Grand Prix,ocon,8.0,18.0
+2023,Singapore Grand Prix,tsunoda,15.0,19.0
+2023,Singapore Grand Prix,stroll,,
+2023,Japanese Grand Prix,max_verstappen,1.0,1.0
+2023,Japanese Grand Prix,norris,3.0,2.0
+2023,Japanese Grand Prix,piastri,2.0,3.0
+2023,Japanese Grand Prix,leclerc,4.0,4.0
+2023,Japanese Grand Prix,hamilton,7.0,5.0
+2023,Japanese Grand Prix,sainz,6.0,6.0
+2023,Japanese Grand Prix,russell,8.0,7.0
+2023,Japanese Grand Prix,alonso,10.0,8.0
+2023,Japanese Grand Prix,ocon,14.0,9.0
+2023,Japanese Grand Prix,gasly,12.0,10.0
+2023,Japanese Grand Prix,lawson,11.0,11.0
+2023,Japanese Grand Prix,tsunoda,9.0,12.0
+2023,Japanese Grand Prix,zhou,19.0,13.0
+2023,Japanese Grand Prix,hulkenberg,18.0,14.0
+2023,Japanese Grand Prix,kevin_magnussen,15.0,15.0
+2023,Japanese Grand Prix,albon,13.0,16.0
+2023,Japanese Grand Prix,sargeant,20.0,17.0
+2023,Japanese Grand Prix,stroll,17.0,18.0
+2023,Japanese Grand Prix,perez,5.0,19.0
+2023,Japanese Grand Prix,bottas,16.0,20.0
+2023,Qatar Grand Prix,max_verstappen,1.0,1.0
+2023,Qatar Grand Prix,piastri,6.0,2.0
+2023,Qatar Grand Prix,norris,10.0,3.0
+2023,Qatar Grand Prix,russell,2.0,4.0
+2023,Qatar Grand Prix,leclerc,5.0,5.0
+2023,Qatar Grand Prix,alonso,4.0,6.0
+2023,Qatar Grand Prix,ocon,8.0,7.0
+2023,Qatar Grand Prix,bottas,9.0,8.0
+2023,Qatar Grand Prix,zhou,19.0,9.0
+2023,Qatar Grand Prix,perez,20.0,10.0
+2023,Qatar Grand Prix,stroll,16.0,11.0
+2023,Qatar Grand Prix,gasly,7.0,12.0
+2023,Qatar Grand Prix,albon,13.0,13.0
+2023,Qatar Grand Prix,kevin_magnussen,18.0,14.0
+2023,Qatar Grand Prix,tsunoda,11.0,15.0
+2023,Qatar Grand Prix,hulkenberg,14.0,16.0
+2023,Qatar Grand Prix,lawson,17.0,17.0
+2023,Qatar Grand Prix,sargeant,15.0,18.0
+2023,Qatar Grand Prix,hamilton,3.0,19.0
+2023,Qatar Grand Prix,sainz,12.0,20.0
+2023,United States Grand Prix,max_verstappen,6.0,1.0
+2023,United States Grand Prix,norris,2.0,2.0
+2023,United States Grand Prix,sainz,4.0,3.0
+2023,United States Grand Prix,perez,9.0,4.0
+2023,United States Grand Prix,russell,5.0,5.0
+2023,United States Grand Prix,gasly,7.0,6.0
+2023,United States Grand Prix,stroll,20.0,7.0
+2023,United States Grand Prix,tsunoda,11.0,8.0
+2023,United States Grand Prix,albon,15.0,9.0
+2023,United States Grand Prix,sargeant,16.0,10.0
+2023,United States Grand Prix,hulkenberg,18.0,11.0
+2023,United States Grand Prix,bottas,13.0,12.0
+2023,United States Grand Prix,zhou,12.0,13.0
+2023,United States Grand Prix,kevin_magnussen,17.0,14.0
+2023,United States Grand Prix,ricciardo,14.0,15.0
+2023,United States Grand Prix,alonso,19.0,16.0
+2023,United States Grand Prix,piastri,10.0,17.0
+2023,United States Grand Prix,ocon,8.0,18.0
+2023,United States Grand Prix,hamilton,3.0,19.0
+2023,United States Grand Prix,leclerc,1.0,20.0
+2023,Mexico City Grand Prix,max_verstappen,3.0,1.0
+2023,Mexico City Grand Prix,hamilton,6.0,2.0
+2023,Mexico City Grand Prix,leclerc,1.0,3.0
+2023,Mexico City Grand Prix,sainz,2.0,4.0
+2023,Mexico City Grand Prix,norris,17.0,5.0
+2023,Mexico City Grand Prix,russell,8.0,6.0
+2023,Mexico City Grand Prix,ricciardo,4.0,7.0
+2023,Mexico City Grand Prix,piastri,7.0,8.0
+2023,Mexico City Grand Prix,albon,14.0,9.0
+2023,Mexico City Grand Prix,ocon,15.0,10.0
+2023,Mexico City Grand Prix,gasly,11.0,11.0
+2023,Mexico City Grand Prix,tsunoda,18.0,12.0
+2023,Mexico City Grand Prix,hulkenberg,12.0,13.0
+2023,Mexico City Grand Prix,zhou,10.0,14.0
+2023,Mexico City Grand Prix,bottas,9.0,15.0
+2023,Mexico City Grand Prix,sargeant,19.0,16.0
+2023,Mexico City Grand Prix,stroll,0.0,17.0
+2023,Mexico City Grand Prix,alonso,13.0,18.0
+2023,Mexico City Grand Prix,kevin_magnussen,16.0,19.0
+2023,Mexico City Grand Prix,perez,5.0,20.0
+2023,São Paulo Grand Prix,max_verstappen,1.0,1.0
+2023,São Paulo Grand Prix,norris,6.0,2.0
+2023,São Paulo Grand Prix,alonso,4.0,3.0
+2023,São Paulo Grand Prix,perez,9.0,4.0
+2023,São Paulo Grand Prix,stroll,3.0,5.0
+2023,São Paulo Grand Prix,sainz,7.0,6.0
+2023,São Paulo Grand Prix,gasly,15.0,7.0
+2023,São Paulo Grand Prix,hamilton,5.0,8.0
+2023,São Paulo Grand Prix,tsunoda,16.0,9.0
+2023,São Paulo Grand Prix,ocon,14.0,10.0
+2023,São Paulo Grand Prix,sargeant,19.0,11.0
+2023,São Paulo Grand Prix,hulkenberg,11.0,12.0
+2023,São Paulo Grand Prix,ricciardo,17.0,13.0
+2023,São Paulo Grand Prix,piastri,10.0,14.0
+2023,São Paulo Grand Prix,russell,8.0,15.0
+2023,São Paulo Grand Prix,bottas,18.0,16.0
+2023,São Paulo Grand Prix,zhou,20.0,17.0
+2023,São Paulo Grand Prix,kevin_magnussen,12.0,18.0
+2023,São Paulo Grand Prix,albon,13.0,19.0
+2023,São Paulo Grand Prix,leclerc,2.0,20.0
+2023,Las Vegas Grand Prix,max_verstappen,2.0,1.0
+2023,Las Vegas Grand Prix,leclerc,1.0,2.0
+2023,Las Vegas Grand Prix,perez,11.0,3.0
+2023,Las Vegas Grand Prix,ocon,16.0,4.0
+2023,Las Vegas Grand Prix,stroll,19.0,5.0
+2023,Las Vegas Grand Prix,sainz,12.0,6.0
+2023,Las Vegas Grand Prix,hamilton,10.0,7.0
+2023,Las Vegas Grand Prix,russell,3.0,8.0
+2023,Las Vegas Grand Prix,alonso,9.0,9.0
+2023,Las Vegas Grand Prix,piastri,18.0,10.0
+2023,Las Vegas Grand Prix,gasly,4.0,11.0
+2023,Las Vegas Grand Prix,albon,5.0,12.0
+2023,Las Vegas Grand Prix,kevin_magnussen,8.0,13.0
+2023,Las Vegas Grand Prix,ricciardo,14.0,14.0
+2023,Las Vegas Grand Prix,zhou,17.0,15.0
+2023,Las Vegas Grand Prix,sargeant,6.0,16.0
+2023,Las Vegas Grand Prix,bottas,7.0,17.0
+2023,Las Vegas Grand Prix,tsunoda,20.0,18.0
+2023,Las Vegas Grand Prix,hulkenberg,13.0,19.0
+2023,Las Vegas Grand Prix,norris,15.0,20.0
+2023,Abu Dhabi Grand Prix,max_verstappen,1.0,1.0
+2023,Abu Dhabi Grand Prix,leclerc,2.0,2.0
+2023,Abu Dhabi Grand Prix,russell,4.0,3.0
+2023,Abu Dhabi Grand Prix,perez,9.0,4.0
+2023,Abu Dhabi Grand Prix,norris,5.0,5.0
+2023,Abu Dhabi Grand Prix,piastri,3.0,6.0
+2023,Abu Dhabi Grand Prix,alonso,7.0,7.0
+2023,Abu Dhabi Grand Prix,tsunoda,6.0,8.0
+2023,Abu Dhabi Grand Prix,hamilton,11.0,9.0
+2023,Abu Dhabi Grand Prix,stroll,13.0,10.0
+2023,Abu Dhabi Grand Prix,ricciardo,15.0,11.0
+2023,Abu Dhabi Grand Prix,ocon,12.0,12.0
+2023,Abu Dhabi Grand Prix,gasly,10.0,13.0
+2023,Abu Dhabi Grand Prix,albon,14.0,14.0
+2023,Abu Dhabi Grand Prix,hulkenberg,8.0,15.0
+2023,Abu Dhabi Grand Prix,sargeant,20.0,16.0
+2023,Abu Dhabi Grand Prix,zhou,19.0,17.0
+2023,Abu Dhabi Grand Prix,sainz,16.0,18.0
+2023,Abu Dhabi Grand Prix,bottas,18.0,19.0
+2023,Abu Dhabi Grand Prix,kevin_magnussen,17.0,20.0
+2024,Pre-Season Testing,norris,1.0,1.0
+2024,Pre-Season Testing,max_verstappen,2.0,2.0
+2024,Pre-Season Testing,piastri,5.0,3.0
+2024,Pre-Season Testing,russell,4.0,4.0
+2024,Pre-Season Testing,leclerc,9.0,5.0
+2024,Pre-Season Testing,hamilton,3.0,6.0
+2024,Pre-Season Testing,sainz,10.0,7.0
+2024,Pre-Season Testing,alonso,7.0,8.0
+2024,Pre-Season Testing,hulkenberg,6.0,9.0
+2024,Pre-Season Testing,perez,13.0,10.0
+2024,Pre-Season Testing,colapinto,12.0,11.0
+2024,Pre-Season Testing,tsunoda,8.0,12.0
+2024,Pre-Season Testing,ocon,15.0,13.0
+2024,Pre-Season Testing,stroll,17.0,14.0
+2024,Pre-Season Testing,zhou,20.0,15.0
+2024,Pre-Season Testing,bottas,19.0,16.0
+2024,Pre-Season Testing,gasly,18.0,17.0
+2024,Pre-Season Testing,ricciardo,16.0,18.0
+2024,Pre-Season Testing,kevin_magnussen,14.0,19.0
+2024,Pre-Season Testing,albon,11.0,20.0
+2024,Bahrain Grand Prix,max_verstappen,1.0,1.0
+2024,Bahrain Grand Prix,perez,5.0,2.0
+2024,Bahrain Grand Prix,sainz,4.0,3.0
+2024,Bahrain Grand Prix,leclerc,2.0,4.0
+2024,Bahrain Grand Prix,russell,3.0,5.0
+2024,Bahrain Grand Prix,norris,7.0,6.0
+2024,Bahrain Grand Prix,hamilton,9.0,7.0
+2024,Bahrain Grand Prix,piastri,8.0,8.0
+2024,Bahrain Grand Prix,alonso,6.0,9.0
+2024,Bahrain Grand Prix,stroll,12.0,10.0
+2024,Bahrain Grand Prix,zhou,17.0,11.0
+2024,Bahrain Grand Prix,kevin_magnussen,15.0,12.0
+2024,Bahrain Grand Prix,ricciardo,14.0,13.0
+2024,Bahrain Grand Prix,tsunoda,11.0,14.0
+2024,Bahrain Grand Prix,albon,13.0,15.0
+2024,Bahrain Grand Prix,hulkenberg,10.0,16.0
+2024,Bahrain Grand Prix,ocon,19.0,17.0
+2024,Bahrain Grand Prix,gasly,20.0,18.0
+2024,Bahrain Grand Prix,bottas,16.0,19.0
+2024,Bahrain Grand Prix,sargeant,18.0,20.0
+2024,Saudi Arabian Grand Prix,max_verstappen,1.0,1.0
+2024,Saudi Arabian Grand Prix,perez,3.0,2.0
+2024,Saudi Arabian Grand Prix,leclerc,2.0,3.0
+2024,Saudi Arabian Grand Prix,piastri,5.0,4.0
+2024,Saudi Arabian Grand Prix,alonso,4.0,5.0
+2024,Saudi Arabian Grand Prix,russell,7.0,6.0
+2024,Saudi Arabian Grand Prix,bearman,11.0,7.0
+2024,Saudi Arabian Grand Prix,norris,6.0,8.0
+2024,Saudi Arabian Grand Prix,hamilton,8.0,9.0
+2024,Saudi Arabian Grand Prix,hulkenberg,15.0,10.0
+2024,Saudi Arabian Grand Prix,albon,12.0,11.0
+2024,Saudi Arabian Grand Prix,kevin_magnussen,13.0,12.0
+2024,Saudi Arabian Grand Prix,ocon,17.0,13.0
+2024,Saudi Arabian Grand Prix,sargeant,19.0,14.0
+2024,Saudi Arabian Grand Prix,tsunoda,9.0,15.0
+2024,Saudi Arabian Grand Prix,ricciardo,14.0,16.0
+2024,Saudi Arabian Grand Prix,bottas,16.0,17.0
+2024,Saudi Arabian Grand Prix,zhou,20.0,18.0
+2024,Saudi Arabian Grand Prix,stroll,10.0,19.0
+2024,Saudi Arabian Grand Prix,gasly,18.0,20.0
+2024,Australian Grand Prix,sainz,2.0,1.0
+2024,Australian Grand Prix,leclerc,4.0,2.0
+2024,Australian Grand Prix,norris,3.0,3.0
+2024,Australian Grand Prix,piastri,5.0,4.0
+2024,Australian Grand Prix,perez,6.0,5.0
+2024,Australian Grand Prix,stroll,9.0,6.0
+2024,Australian Grand Prix,tsunoda,8.0,7.0
+2024,Australian Grand Prix,alonso,10.0,8.0
+2024,Australian Grand Prix,hulkenberg,16.0,9.0
+2024,Australian Grand Prix,kevin_magnussen,14.0,10.0
+2024,Australian Grand Prix,albon,12.0,11.0
+2024,Australian Grand Prix,ricciardo,18.0,12.0
+2024,Australian Grand Prix,gasly,17.0,13.0
+2024,Australian Grand Prix,bottas,13.0,14.0
+2024,Australian Grand Prix,zhou,19.0,15.0
+2024,Australian Grand Prix,ocon,15.0,16.0
+2024,Australian Grand Prix,russell,7.0,17.0
+2024,Australian Grand Prix,hamilton,11.0,18.0
+2024,Australian Grand Prix,max_verstappen,1.0,19.0
+2024,Japanese Grand Prix,max_verstappen,1.0,1.0
+2024,Japanese Grand Prix,perez,2.0,2.0
+2024,Japanese Grand Prix,sainz,4.0,3.0
+2024,Japanese Grand Prix,leclerc,8.0,4.0
+2024,Japanese Grand Prix,norris,3.0,5.0
+2024,Japanese Grand Prix,alonso,5.0,6.0
+2024,Japanese Grand Prix,russell,9.0,7.0
+2024,Japanese Grand Prix,piastri,6.0,8.0
+2024,Japanese Grand Prix,hamilton,7.0,9.0
+2024,Japanese Grand Prix,tsunoda,10.0,10.0
+2024,Japanese Grand Prix,hulkenberg,12.0,11.0
+2024,Japanese Grand Prix,stroll,16.0,12.0
+2024,Japanese Grand Prix,kevin_magnussen,18.0,13.0
+2024,Japanese Grand Prix,bottas,13.0,14.0
+2024,Japanese Grand Prix,ocon,15.0,15.0
+2024,Japanese Grand Prix,gasly,17.0,16.0
+2024,Japanese Grand Prix,sargeant,19.0,17.0
+2024,Japanese Grand Prix,zhou,20.0,18.0
+2024,Japanese Grand Prix,ricciardo,11.0,19.0
+2024,Japanese Grand Prix,albon,14.0,20.0
+2024,Chinese Grand Prix,max_verstappen,1.0,1.0
+2024,Chinese Grand Prix,norris,4.0,2.0
+2024,Chinese Grand Prix,perez,2.0,3.0
+2024,Chinese Grand Prix,leclerc,6.0,4.0
+2024,Chinese Grand Prix,sainz,7.0,5.0
+2024,Chinese Grand Prix,russell,8.0,6.0
+2024,Chinese Grand Prix,alonso,3.0,7.0
+2024,Chinese Grand Prix,piastri,5.0,8.0
+2024,Chinese Grand Prix,hamilton,18.0,9.0
+2024,Chinese Grand Prix,hulkenberg,9.0,10.0
+2024,Chinese Grand Prix,ocon,13.0,11.0
+2024,Chinese Grand Prix,albon,14.0,12.0
+2024,Chinese Grand Prix,gasly,15.0,13.0
+2024,Chinese Grand Prix,zhou,16.0,14.0
+2024,Chinese Grand Prix,stroll,11.0,15.0
+2024,Chinese Grand Prix,kevin_magnussen,17.0,16.0
+2024,Chinese Grand Prix,sargeant,20.0,17.0
+2024,Chinese Grand Prix,ricciardo,12.0,18.0
+2024,Chinese Grand Prix,tsunoda,19.0,19.0
+2024,Chinese Grand Prix,bottas,10.0,20.0
+2024,Miami Grand Prix,norris,5.0,1.0
+2024,Miami Grand Prix,max_verstappen,1.0,2.0
+2024,Miami Grand Prix,leclerc,2.0,3.0
+2024,Miami Grand Prix,perez,4.0,4.0
+2024,Miami Grand Prix,sainz,3.0,5.0
+2024,Miami Grand Prix,hamilton,8.0,6.0
+2024,Miami Grand Prix,tsunoda,10.0,7.0
+2024,Miami Grand Prix,russell,7.0,8.0
+2024,Miami Grand Prix,alonso,15.0,9.0
+2024,Miami Grand Prix,ocon,13.0,10.0
+2024,Miami Grand Prix,hulkenberg,9.0,11.0
+2024,Miami Grand Prix,gasly,12.0,12.0
+2024,Miami Grand Prix,piastri,6.0,13.0
+2024,Miami Grand Prix,zhou,19.0,14.0
+2024,Miami Grand Prix,ricciardo,20.0,15.0
+2024,Miami Grand Prix,bottas,16.0,16.0
+2024,Miami Grand Prix,stroll,11.0,17.0
+2024,Miami Grand Prix,albon,14.0,18.0
+2024,Miami Grand Prix,kevin_magnussen,18.0,19.0
+2024,Miami Grand Prix,sargeant,17.0,20.0
+2024,Emilia Romagna Grand Prix,max_verstappen,1.0,1.0
+2024,Emilia Romagna Grand Prix,norris,2.0,2.0
+2024,Emilia Romagna Grand Prix,leclerc,3.0,3.0
+2024,Emilia Romagna Grand Prix,piastri,5.0,4.0
+2024,Emilia Romagna Grand Prix,sainz,4.0,5.0
+2024,Emilia Romagna Grand Prix,hamilton,8.0,6.0
+2024,Emilia Romagna Grand Prix,russell,6.0,7.0
+2024,Emilia Romagna Grand Prix,perez,11.0,8.0
+2024,Emilia Romagna Grand Prix,stroll,13.0,9.0
+2024,Emilia Romagna Grand Prix,tsunoda,7.0,10.0
+2024,Emilia Romagna Grand Prix,hulkenberg,10.0,11.0
+2024,Emilia Romagna Grand Prix,kevin_magnussen,18.0,12.0
+2024,Emilia Romagna Grand Prix,ricciardo,9.0,13.0
+2024,Emilia Romagna Grand Prix,ocon,12.0,14.0
+2024,Emilia Romagna Grand Prix,zhou,17.0,15.0
+2024,Emilia Romagna Grand Prix,gasly,15.0,16.0
+2024,Emilia Romagna Grand Prix,sargeant,19.0,17.0
+2024,Emilia Romagna Grand Prix,bottas,16.0,18.0
+2024,Emilia Romagna Grand Prix,alonso,20.0,19.0
+2024,Emilia Romagna Grand Prix,albon,14.0,20.0
+2024,Monaco Grand Prix,leclerc,1.0,1.0
+2024,Monaco Grand Prix,piastri,2.0,2.0
+2024,Monaco Grand Prix,sainz,3.0,3.0
+2024,Monaco Grand Prix,norris,4.0,4.0
+2024,Monaco Grand Prix,russell,5.0,5.0
+2024,Monaco Grand Prix,max_verstappen,6.0,6.0
+2024,Monaco Grand Prix,hamilton,7.0,7.0
+2024,Monaco Grand Prix,tsunoda,8.0,8.0
+2024,Monaco Grand Prix,albon,9.0,9.0
+2024,Monaco Grand Prix,gasly,10.0,10.0
+2024,Monaco Grand Prix,alonso,14.0,11.0
+2024,Monaco Grand Prix,ricciardo,12.0,12.0
+2024,Monaco Grand Prix,bottas,17.0,13.0
+2024,Monaco Grand Prix,stroll,13.0,14.0
+2024,Monaco Grand Prix,sargeant,15.0,15.0
+2024,Monaco Grand Prix,zhou,18.0,16.0
+2024,Monaco Grand Prix,ocon,11.0,17.0
+2024,Monaco Grand Prix,perez,16.0,18.0
+2024,Monaco Grand Prix,hulkenberg,19.0,19.0
+2024,Monaco Grand Prix,kevin_magnussen,20.0,20.0
+2024,Canadian Grand Prix,max_verstappen,2.0,1.0
+2024,Canadian Grand Prix,norris,3.0,2.0
+2024,Canadian Grand Prix,russell,1.0,3.0
+2024,Canadian Grand Prix,hamilton,7.0,4.0
+2024,Canadian Grand Prix,piastri,4.0,5.0
+2024,Canadian Grand Prix,alonso,6.0,6.0
+2024,Canadian Grand Prix,stroll,9.0,7.0
+2024,Canadian Grand Prix,ricciardo,5.0,8.0
+2024,Canadian Grand Prix,gasly,15.0,9.0
+2024,Canadian Grand Prix,ocon,18.0,10.0
+2024,Canadian Grand Prix,hulkenberg,17.0,11.0
+2024,Canadian Grand Prix,kevin_magnussen,14.0,12.0
+2024,Canadian Grand Prix,bottas,19.0,13.0
+2024,Canadian Grand Prix,tsunoda,8.0,14.0
+2024,Canadian Grand Prix,zhou,20.0,15.0
+2024,Canadian Grand Prix,sainz,12.0,16.0
+2024,Canadian Grand Prix,albon,10.0,17.0
+2024,Canadian Grand Prix,perez,16.0,18.0
+2024,Canadian Grand Prix,leclerc,11.0,19.0
+2024,Canadian Grand Prix,sargeant,13.0,20.0
+2024,Spanish Grand Prix,max_verstappen,2.0,1.0
+2024,Spanish Grand Prix,norris,1.0,2.0
+2024,Spanish Grand Prix,hamilton,3.0,3.0
+2024,Spanish Grand Prix,russell,4.0,4.0
+2024,Spanish Grand Prix,leclerc,5.0,5.0
+2024,Spanish Grand Prix,sainz,6.0,6.0
+2024,Spanish Grand Prix,piastri,9.0,7.0
+2024,Spanish Grand Prix,perez,11.0,8.0
+2024,Spanish Grand Prix,gasly,7.0,9.0
+2024,Spanish Grand Prix,ocon,8.0,10.0
+2024,Spanish Grand Prix,hulkenberg,13.0,11.0
+2024,Spanish Grand Prix,alonso,10.0,12.0
+2024,Spanish Grand Prix,zhou,15.0,13.0
+2024,Spanish Grand Prix,stroll,14.0,14.0
+2024,Spanish Grand Prix,ricciardo,18.0,15.0
+2024,Spanish Grand Prix,bottas,12.0,16.0
+2024,Spanish Grand Prix,kevin_magnussen,16.0,17.0
+2024,Spanish Grand Prix,albon,20.0,18.0
+2024,Spanish Grand Prix,tsunoda,17.0,19.0
+2024,Spanish Grand Prix,sargeant,19.0,20.0
+2024,Austrian Grand Prix,russell,3.0,1.0
+2024,Austrian Grand Prix,piastri,7.0,2.0
+2024,Austrian Grand Prix,sainz,4.0,3.0
+2024,Austrian Grand Prix,hamilton,5.0,4.0
+2024,Austrian Grand Prix,max_verstappen,1.0,5.0
+2024,Austrian Grand Prix,hulkenberg,9.0,6.0
+2024,Austrian Grand Prix,perez,8.0,7.0
+2024,Austrian Grand Prix,kevin_magnussen,12.0,8.0
+2024,Austrian Grand Prix,ricciardo,11.0,9.0
+2024,Austrian Grand Prix,gasly,13.0,10.0
+2024,Austrian Grand Prix,leclerc,6.0,11.0
+2024,Austrian Grand Prix,ocon,10.0,12.0
+2024,Austrian Grand Prix,stroll,17.0,13.0
+2024,Austrian Grand Prix,tsunoda,14.0,14.0
+2024,Austrian Grand Prix,albon,16.0,15.0
+2024,Austrian Grand Prix,bottas,18.0,16.0
+2024,Austrian Grand Prix,zhou,20.0,17.0
+2024,Austrian Grand Prix,alonso,15.0,18.0
+2024,Austrian Grand Prix,sargeant,19.0,19.0
+2024,Austrian Grand Prix,norris,2.0,20.0
+2024,British Grand Prix,hamilton,2.0,1.0
+2024,British Grand Prix,max_verstappen,4.0,2.0
+2024,British Grand Prix,norris,3.0,3.0
+2024,British Grand Prix,piastri,5.0,4.0
+2024,British Grand Prix,sainz,7.0,5.0
+2024,British Grand Prix,hulkenberg,6.0,6.0
+2024,British Grand Prix,stroll,8.0,7.0
+2024,British Grand Prix,alonso,10.0,8.0
+2024,British Grand Prix,albon,9.0,9.0
+2024,British Grand Prix,tsunoda,13.0,10.0
+2024,British Grand Prix,sargeant,12.0,11.0
+2024,British Grand Prix,kevin_magnussen,17.0,12.0
+2024,British Grand Prix,ricciardo,15.0,13.0
+2024,British Grand Prix,leclerc,11.0,14.0
+2024,British Grand Prix,bottas,16.0,15.0
+2024,British Grand Prix,ocon,18.0,16.0
+2024,British Grand Prix,perez,20.0,17.0
+2024,British Grand Prix,zhou,14.0,18.0
+2024,British Grand Prix,russell,1.0,19.0
+2024,British Grand Prix,gasly,19.0,20.0
+2024,Hungarian Grand Prix,piastri,2.0,1.0
+2024,Hungarian Grand Prix,norris,1.0,2.0
+2024,Hungarian Grand Prix,hamilton,5.0,3.0
+2024,Hungarian Grand Prix,leclerc,6.0,4.0
+2024,Hungarian Grand Prix,max_verstappen,3.0,5.0
+2024,Hungarian Grand Prix,sainz,4.0,6.0
+2024,Hungarian Grand Prix,perez,16.0,7.0
+2024,Hungarian Grand Prix,russell,17.0,8.0
+2024,Hungarian Grand Prix,tsunoda,10.0,9.0
+2024,Hungarian Grand Prix,stroll,8.0,10.0
+2024,Hungarian Grand Prix,alonso,7.0,11.0
+2024,Hungarian Grand Prix,ricciardo,9.0,12.0
+2024,Hungarian Grand Prix,hulkenberg,11.0,13.0
+2024,Hungarian Grand Prix,albon,13.0,14.0
+2024,Hungarian Grand Prix,kevin_magnussen,15.0,15.0
+2024,Hungarian Grand Prix,bottas,12.0,16.0
+2024,Hungarian Grand Prix,sargeant,14.0,17.0
+2024,Hungarian Grand Prix,ocon,19.0,18.0
+2024,Hungarian Grand Prix,zhou,18.0,19.0
+2024,Hungarian Grand Prix,gasly,20.0,20.0
+2024,Belgian Grand Prix,hamilton,3.0,1.0
+2024,Belgian Grand Prix,piastri,5.0,2.0
+2024,Belgian Grand Prix,leclerc,1.0,3.0
+2024,Belgian Grand Prix,max_verstappen,11.0,4.0
+2024,Belgian Grand Prix,norris,4.0,5.0
+2024,Belgian Grand Prix,sainz,7.0,6.0
+2024,Belgian Grand Prix,perez,2.0,7.0
+2024,Belgian Grand Prix,alonso,8.0,8.0
+2024,Belgian Grand Prix,ocon,9.0,9.0
+2024,Belgian Grand Prix,ricciardo,13.0,10.0
+2024,Belgian Grand Prix,stroll,15.0,11.0
+2024,Belgian Grand Prix,albon,10.0,12.0
+2024,Belgian Grand Prix,gasly,12.0,13.0
+2024,Belgian Grand Prix,kevin_magnussen,17.0,14.0
+2024,Belgian Grand Prix,bottas,14.0,15.0
+2024,Belgian Grand Prix,tsunoda,20.0,16.0
+2024,Belgian Grand Prix,sargeant,18.0,17.0
+2024,Belgian Grand Prix,hulkenberg,16.0,18.0
+2024,Belgian Grand Prix,zhou,19.0,19.0
+2024,Belgian Grand Prix,russell,6.0,20.0
+2024,Dutch Grand Prix,norris,1.0,1.0
+2024,Dutch Grand Prix,max_verstappen,2.0,2.0
+2024,Dutch Grand Prix,leclerc,6.0,3.0
+2024,Dutch Grand Prix,piastri,3.0,4.0
+2024,Dutch Grand Prix,sainz,10.0,5.0
+2024,Dutch Grand Prix,perez,5.0,6.0
+2024,Dutch Grand Prix,russell,4.0,7.0
+2024,Dutch Grand Prix,hamilton,14.0,8.0
+2024,Dutch Grand Prix,gasly,9.0,9.0
+2024,Dutch Grand Prix,alonso,7.0,10.0
+2024,Dutch Grand Prix,hulkenberg,12.0,11.0
+2024,Dutch Grand Prix,ricciardo,13.0,12.0
+2024,Dutch Grand Prix,stroll,8.0,13.0
+2024,Dutch Grand Prix,albon,19.0,14.0
+2024,Dutch Grand Prix,ocon,15.0,15.0
+2024,Dutch Grand Prix,sargeant,18.0,16.0
+2024,Dutch Grand Prix,tsunoda,11.0,17.0
+2024,Dutch Grand Prix,kevin_magnussen,20.0,18.0
+2024,Dutch Grand Prix,bottas,16.0,19.0
+2024,Dutch Grand Prix,zhou,17.0,20.0
+2024,Italian Grand Prix,leclerc,4.0,1.0
+2024,Italian Grand Prix,piastri,2.0,2.0
+2024,Italian Grand Prix,norris,1.0,3.0
+2024,Italian Grand Prix,sainz,5.0,4.0
+2024,Italian Grand Prix,hamilton,6.0,5.0
+2024,Italian Grand Prix,max_verstappen,7.0,6.0
+2024,Italian Grand Prix,russell,3.0,7.0
+2024,Italian Grand Prix,perez,8.0,8.0
+2024,Italian Grand Prix,albon,9.0,9.0
+2024,Italian Grand Prix,kevin_magnussen,13.0,10.0
+2024,Italian Grand Prix,alonso,11.0,11.0
+2024,Italian Grand Prix,colapinto,18.0,12.0
+2024,Italian Grand Prix,ricciardo,12.0,13.0
+2024,Italian Grand Prix,ocon,15.0,14.0
+2024,Italian Grand Prix,gasly,14.0,15.0
+2024,Italian Grand Prix,bottas,19.0,16.0
+2024,Italian Grand Prix,hulkenberg,10.0,17.0
+2024,Italian Grand Prix,zhou,20.0,18.0
+2024,Italian Grand Prix,stroll,17.0,19.0
+2024,Italian Grand Prix,tsunoda,16.0,20.0
+2024,Azerbaijan Grand Prix,piastri,2.0,1.0
+2024,Azerbaijan Grand Prix,leclerc,1.0,2.0
+2024,Azerbaijan Grand Prix,russell,5.0,3.0
+2024,Azerbaijan Grand Prix,norris,15.0,4.0
+2024,Azerbaijan Grand Prix,max_verstappen,6.0,5.0
+2024,Azerbaijan Grand Prix,alonso,7.0,6.0
+2024,Azerbaijan Grand Prix,albon,9.0,7.0
+2024,Azerbaijan Grand Prix,colapinto,8.0,8.0
+2024,Azerbaijan Grand Prix,hamilton,19.0,9.0
+2024,Azerbaijan Grand Prix,bearman,10.0,10.0
+2024,Azerbaijan Grand Prix,hulkenberg,12.0,11.0
+2024,Azerbaijan Grand Prix,gasly,18.0,12.0
+2024,Azerbaijan Grand Prix,ricciardo,14.0,13.0
+2024,Azerbaijan Grand Prix,zhou,17.0,14.0
+2024,Azerbaijan Grand Prix,ocon,20.0,15.0
+2024,Azerbaijan Grand Prix,bottas,16.0,16.0
+2024,Azerbaijan Grand Prix,perez,4.0,17.0
+2024,Azerbaijan Grand Prix,sainz,3.0,18.0
+2024,Azerbaijan Grand Prix,stroll,13.0,19.0
+2024,Azerbaijan Grand Prix,tsunoda,11.0,20.0
+2024,Singapore Grand Prix,norris,1.0,1.0
+2024,Singapore Grand Prix,max_verstappen,2.0,2.0
+2024,Singapore Grand Prix,piastri,5.0,3.0
+2024,Singapore Grand Prix,russell,4.0,4.0
+2024,Singapore Grand Prix,leclerc,9.0,5.0
+2024,Singapore Grand Prix,hamilton,3.0,6.0
+2024,Singapore Grand Prix,sainz,10.0,7.0
+2024,Singapore Grand Prix,alonso,7.0,8.0
+2024,Singapore Grand Prix,hulkenberg,6.0,9.0
+2024,Singapore Grand Prix,perez,13.0,10.0
+2024,Singapore Grand Prix,colapinto,12.0,11.0
+2024,Singapore Grand Prix,tsunoda,8.0,12.0
+2024,Singapore Grand Prix,ocon,15.0,13.0
+2024,Singapore Grand Prix,stroll,17.0,14.0
+2024,Singapore Grand Prix,zhou,20.0,15.0
+2024,Singapore Grand Prix,bottas,19.0,16.0
+2024,Singapore Grand Prix,gasly,18.0,17.0
+2024,Singapore Grand Prix,ricciardo,16.0,18.0
+2024,Singapore Grand Prix,kevin_magnussen,14.0,19.0
+2024,Singapore Grand Prix,albon,11.0,20.0
+2024,United States Grand Prix,leclerc,4.0,1.0
+2024,United States Grand Prix,sainz,3.0,2.0
+2024,United States Grand Prix,max_verstappen,2.0,3.0
+2024,United States Grand Prix,norris,1.0,4.0
+2024,United States Grand Prix,piastri,5.0,5.0
+2024,United States Grand Prix,russell,20.0,6.0
+2024,United States Grand Prix,perez,9.0,7.0
+2024,United States Grand Prix,hulkenberg,11.0,8.0
+2024,United States Grand Prix,lawson,19.0,9.0
+2024,United States Grand Prix,colapinto,15.0,10.0
+2024,United States Grand Prix,kevin_magnussen,8.0,11.0
+2024,United States Grand Prix,gasly,6.0,12.0
+2024,United States Grand Prix,alonso,7.0,13.0
+2024,United States Grand Prix,tsunoda,10.0,14.0
+2024,United States Grand Prix,stroll,13.0,15.0
+2024,United States Grand Prix,albon,14.0,16.0
+2024,United States Grand Prix,bottas,16.0,17.0
+2024,United States Grand Prix,ocon,12.0,18.0
+2024,United States Grand Prix,zhou,18.0,19.0
+2024,United States Grand Prix,hamilton,17.0,20.0
+2024,Mexico City Grand Prix,sainz,1.0,1.0
+2024,Mexico City Grand Prix,norris,3.0,2.0
+2024,Mexico City Grand Prix,leclerc,4.0,3.0
+2024,Mexico City Grand Prix,hamilton,6.0,4.0
+2024,Mexico City Grand Prix,russell,5.0,5.0
+2024,Mexico City Grand Prix,max_verstappen,2.0,6.0
+2024,Mexico City Grand Prix,kevin_magnussen,7.0,7.0
+2024,Mexico City Grand Prix,piastri,17.0,8.0
+2024,Mexico City Grand Prix,hulkenberg,10.0,9.0
+2024,Mexico City Grand Prix,gasly,8.0,10.0
+2024,Mexico City Grand Prix,stroll,14.0,11.0
+2024,Mexico City Grand Prix,colapinto,16.0,12.0
+2024,Mexico City Grand Prix,ocon,0.0,13.0
+2024,Mexico City Grand Prix,bottas,15.0,14.0
+2024,Mexico City Grand Prix,zhou,19.0,15.0
+2024,Mexico City Grand Prix,lawson,12.0,16.0
+2024,Mexico City Grand Prix,perez,18.0,17.0
+2024,Mexico City Grand Prix,alonso,13.0,18.0
+2024,Mexico City Grand Prix,albon,9.0,19.0
+2024,Mexico City Grand Prix,tsunoda,11.0,20.0
+2024,São Paulo Grand Prix,max_verstappen,17.0,1.0
+2024,São Paulo Grand Prix,ocon,4.0,2.0
+2024,São Paulo Grand Prix,gasly,13.0,3.0
+2024,São Paulo Grand Prix,russell,2.0,4.0
+2024,São Paulo Grand Prix,leclerc,6.0,5.0
+2024,São Paulo Grand Prix,norris,1.0,6.0
+2024,São Paulo Grand Prix,tsunoda,3.0,7.0
+2024,São Paulo Grand Prix,piastri,8.0,8.0
+2024,São Paulo Grand Prix,lawson,5.0,9.0
+2024,São Paulo Grand Prix,hamilton,14.0,10.0
+2024,São Paulo Grand Prix,perez,12.0,11.0
+2024,São Paulo Grand Prix,bearman,15.0,12.0
+2024,São Paulo Grand Prix,bottas,11.0,13.0
+2024,São Paulo Grand Prix,alonso,9.0,14.0
+2024,São Paulo Grand Prix,zhou,19.0,15.0
+2024,São Paulo Grand Prix,sainz,20.0,16.0
+2024,São Paulo Grand Prix,colapinto,16.0,17.0
+2024,São Paulo Grand Prix,albon,7.0,18.0
+2024,São Paulo Grand Prix,stroll,10.0,19.0
+2024,São Paulo Grand Prix,hulkenberg,18.0,20.0
+2024,Las Vegas Grand Prix,russell,1.0,1.0
+2024,Las Vegas Grand Prix,hamilton,10.0,2.0
+2024,Las Vegas Grand Prix,sainz,2.0,3.0
+2024,Las Vegas Grand Prix,leclerc,4.0,4.0
+2024,Las Vegas Grand Prix,max_verstappen,5.0,5.0
+2024,Las Vegas Grand Prix,norris,6.0,6.0
+2024,Las Vegas Grand Prix,piastri,8.0,7.0
+2024,Las Vegas Grand Prix,hulkenberg,9.0,8.0
+2024,Las Vegas Grand Prix,tsunoda,7.0,9.0
+2024,Las Vegas Grand Prix,perez,15.0,10.0
+2024,Las Vegas Grand Prix,alonso,16.0,11.0
+2024,Las Vegas Grand Prix,kevin_magnussen,12.0,12.0
+2024,Las Vegas Grand Prix,zhou,13.0,13.0
+2024,Las Vegas Grand Prix,colapinto,20.0,14.0
+2024,Las Vegas Grand Prix,stroll,18.0,15.0
+2024,Las Vegas Grand Prix,lawson,14.0,16.0
+2024,Las Vegas Grand Prix,ocon,11.0,17.0
+2024,Las Vegas Grand Prix,bottas,19.0,18.0
+2024,Las Vegas Grand Prix,albon,17.0,19.0
+2024,Las Vegas Grand Prix,gasly,3.0,20.0
+2024,Qatar Grand Prix,max_verstappen,2.0,1.0
+2024,Qatar Grand Prix,leclerc,5.0,2.0
+2024,Qatar Grand Prix,piastri,4.0,3.0
+2024,Qatar Grand Prix,russell,1.0,4.0
+2024,Qatar Grand Prix,gasly,11.0,5.0
+2024,Qatar Grand Prix,sainz,7.0,6.0
+2024,Qatar Grand Prix,alonso,8.0,7.0
+2024,Qatar Grand Prix,zhou,12.0,8.0
+2024,Qatar Grand Prix,kevin_magnussen,10.0,9.0
+2024,Qatar Grand Prix,norris,3.0,10.0
+2024,Qatar Grand Prix,bottas,13.0,11.0
+2024,Qatar Grand Prix,hamilton,6.0,12.0
+2024,Qatar Grand Prix,tsunoda,14.0,13.0
+2024,Qatar Grand Prix,lawson,17.0,14.0
+2024,Qatar Grand Prix,albon,16.0,15.0
+2024,Qatar Grand Prix,hulkenberg,18.0,16.0
+2024,Qatar Grand Prix,perez,9.0,17.0
+2024,Qatar Grand Prix,stroll,15.0,18.0
+2024,Qatar Grand Prix,colapinto,19.0,19.0
+2024,Qatar Grand Prix,ocon,20.0,20.0
+2024,Abu Dhabi Grand Prix,norris,1.0,1.0
+2024,Abu Dhabi Grand Prix,sainz,3.0,2.0
+2024,Abu Dhabi Grand Prix,leclerc,19.0,3.0
+2024,Abu Dhabi Grand Prix,hamilton,16.0,4.0
+2024,Abu Dhabi Grand Prix,russell,6.0,5.0
+2024,Abu Dhabi Grand Prix,max_verstappen,4.0,6.0
+2024,Abu Dhabi Grand Prix,gasly,5.0,7.0
+2024,Abu Dhabi Grand Prix,hulkenberg,7.0,8.0
+2024,Abu Dhabi Grand Prix,alonso,8.0,9.0
+2024,Abu Dhabi Grand Prix,piastri,2.0,10.0
+2024,Abu Dhabi Grand Prix,albon,18.0,11.0
+2024,Abu Dhabi Grand Prix,tsunoda,11.0,12.0
+2024,Abu Dhabi Grand Prix,zhou,15.0,13.0
+2024,Abu Dhabi Grand Prix,stroll,13.0,14.0
+2024,Abu Dhabi Grand Prix,doohan,17.0,15.0
+2024,Abu Dhabi Grand Prix,kevin_magnussen,14.0,16.0
+2024,Abu Dhabi Grand Prix,lawson,12.0,17.0
+2024,Abu Dhabi Grand Prix,bottas,9.0,18.0
+2024,Abu Dhabi Grand Prix,colapinto,20.0,19.0
+2024,Abu Dhabi Grand Prix,perez,10.0,20.0

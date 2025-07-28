@@ -1,24 +1,4 @@
 Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap
-2021,Pre-Season Test,ricciardo,95.345,109.99202631578947
-2021,Pre-Season Test,norris,94.945,107.6913448275862
-2021,Pre-Season Test,vettel,95.851,106.81894117647057
-2021,Pre-Season Test,latifi,96.118,109.43285
-2021,Pre-Season Test,raikkonen,96.062,112.15159090909091
-2021,Pre-Season Test,mazepin,97.344,113.304
-2021,Pre-Season Test,gasly,95.398,109.07248717948718
-2021,Pre-Season Test,perez,94.701,111.12127906976744
-2021,Pre-Season Test,alonso,96.376,107.17487096774192
-2021,Pre-Season Test,leclerc,95.343,112.06360975609756
-2021,Pre-Season Test,stroll,95.561,107.76348837209302
-2021,Pre-Season Test,tsunoda,96.572,107.96875675675676
-2021,Pre-Season Test,ocon,95.711,107.9306388888889
-2021,Pre-Season Test,max_verstappen,94.383,109.95294594594594
-2021,Pre-Season Test,hamilton,94.458,104.32282857142857
-2021,Pre-Season Test,mick_schumacher,96.671,114.81058974358974
-2021,Pre-Season Test,sainz,94.805,108.78687804878048
-2021,Pre-Season Test,russell,96.023,110.87618421052632
-2021,Pre-Season Test,bottas,94.874,111.31002702702702
-2021,Pre-Season Test,giovinazzi,96.138,109.85131578947369
 2021,Bahrain Grand Prix,ricciardo,91.23,108.37661363636363
 2021,Bahrain Grand Prix,norris,90.942,110.35045454545455
 2021,Bahrain Grand Prix,vettel,91.769,108.59950980392156
@@ -490,31 +470,6 @@ Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap
 2022,Pre-Season Track Session,albon,89.78,106.52046666666666
 2022,Pre-Season Track Session,ocon,89.552,105.80941935483871
 2022,Pre-Season Track Session,russell,88.426,103.91472727272726
-2022,Pre-Season Test,max_verstappen,95.825,107.36468181818182
-2022,Pre-Season Test,norris,97.449,110.78574545454546
-2022,Pre-Season Test,vettel,97.151,109.92824528301887
-2022,Pre-Season Test,gasly,97.29,111.17231372549018
-2022,Pre-Season Test,perez,96.397,108.63357777777779
-2022,Pre-Season Test,alonso,96.928,110.44709615384615
-2022,Pre-Season Test,stroll,97.215,110.24505660377359
-2022,Pre-Season Test,tsunoda,97.888,112.6798431372549
-2022,Pre-Season Test,albon,97.904,112.49082692307692
-2022,Pre-Season Test,zhou,98.276,108.9695641025641
-2022,Pre-Season Test,nan,99.911,108.31211111111111
-2022,Pre-Season Test,ocon,97.468,110.6618679245283
-2022,Pre-Season Test,nan,98.951,117.5292
-2022,Pre-Season Test,hamilton,96.401,106.85297727272727
-2022,Pre-Season Test,nan,100.325,115.50982352941176
-2022,Pre-Season Test,mick_schumacher,98.132,110.5292888888889
-2022,Pre-Season Test,sainz,96.271,107.47547169811321
-2022,Pre-Season Test,russell,97.064,111.26818181818182
-2022,Pre-Season Test,nan,100.175,110.89753333333333
-2022,Pre-Season Test,nan,103.063,122.40100000000001
-2022,Pre-Season Test,ricciardo,97.622,108.56576595744681
-2022,Pre-Season Test,latifi,98.028,112.77102941176472
-2022,Pre-Season Test,leclerc,96.145,106.29715000000002
-2022,Pre-Season Test,kevin_magnussen,97.519,109.44948648648648
-2022,Pre-Season Test,bottas,97.31,108.44293750000001
 2022,Bahrain Grand Prix,max_verstappen,91.936,106.11097777777778
 2022,Bahrain Grand Prix,ricciardo,94.166,108.83333333333333
 2022,Bahrain Grand Prix,norris,93.28,107.09798214285715
