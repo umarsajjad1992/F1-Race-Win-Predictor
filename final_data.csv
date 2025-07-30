@@ -19,26 +19,26 @@ Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap,Q1Time,Q2Time,Q3Time,Qual
 2021,Bahrain Grand Prix,russell,92.331,108.1444231,91.316,93.43,,15,15,14
 2021,Bahrain Grand Prix,bottas,91.218,107.4365714,91.2,90.186,89.586,3,3,3
 2021,Bahrain Grand Prix,giovinazzi,91.74,107.8212,90.998,90.708,,12,12,12
-2021,Emilia Romagna Grand Prix,hamilton,75.515,89.51419298,74.823,74.817,74.411,1,1,2
-2021,Emilia Romagna Grand Prix,perez,75.551,89.48780851,75.395,74.716,74.446,2,2,11
-2021,Emilia Romagna Grand Prix,max_verstappen,74.958,89.9925,75.109,74.884,74.498,3,3,1
-2021,Emilia Romagna Grand Prix,leclerc,75.367,92.98020408,75.413,74.808,74.74,4,4,4
-2021,Emilia Romagna Grand Prix,gasly,75.629,88.35733871,75.548,74.927,74.79,5,5,7
-2021,Emilia Romagna Grand Prix,ricciardo,76.253,89.99392308,75.669,75.033,74.826,6,6,6
-2021,Emilia Romagna Grand Prix,norris,75.414,88.7404186,75.009,74.718,74.875,7,7,3
-2021,Emilia Romagna Grand Prix,bottas,75.551,89.45276364,74.672,74.905,74.898,8,8,18
-2021,Emilia Romagna Grand Prix,ocon,76.228,87.08376786,75.385,75.117,75.21,9,9,9
-2021,Emilia Romagna Grand Prix,stroll,76.245,89.29378431,75.522,75.138,,10,10,8
-2021,Emilia Romagna Grand Prix,sainz,75.834,92.04265625,75.406,75.199,,11,11,5
-2021,Emilia Romagna Grand Prix,russell,76.427,91.13614286,75.826,75.261,,12,12,19
-2021,Emilia Romagna Grand Prix,vettel,76.389,87.75021053,75.459,75.394,,13,20,15
-2021,Emilia Romagna Grand Prix,latifi,76.537,90.01596429,75.653,75.593,,14,13,20
-2021,Emilia Romagna Grand Prix,alonso,76.186,91.93744068,75.832,75.593,,15,14,10
-2021,Emilia Romagna Grand Prix,raikkonen,76.775,90.11756604,75.974,,,16,15,13
-2021,Emilia Romagna Grand Prix,giovinazzi,76.513,91.46069492,76.122,,,17,16,14
-2021,Emilia Romagna Grand Prix,mick_schumacher,76.448,89.17176271,76.279,,,18,17,16
-2021,Emilia Romagna Grand Prix,mazepin,76.793,92.59289362,76.797,,,19,18,17
-2021,Emilia Romagna Grand Prix,tsunoda,76.23,90.85287234,,,,20,19,12
+2021,Emilia Romagna Grand Prix,ricciardo,76.253,89.99392308,75.669,75.033,74.826,6,6,2
+2021,Emilia Romagna Grand Prix,norris,75.414,88.7404186,75.009,74.718,74.875,7,7,11
+2021,Emilia Romagna Grand Prix,vettel,76.389,87.75021053,75.459,75.394,,13,20,1
+2021,Emilia Romagna Grand Prix,latifi,76.537,90.01596429,75.653,75.593,,14,13,4
+2021,Emilia Romagna Grand Prix,raikkonen,76.775,90.11756604,75.974,,,16,15,7
+2021,Emilia Romagna Grand Prix,mazepin,76.793,92.59289362,76.797,,,19,18,6
+2021,Emilia Romagna Grand Prix,gasly,75.629,88.35733871,75.548,74.927,74.79,5,5,3
+2021,Emilia Romagna Grand Prix,perez,75.551,89.48780851,75.395,74.716,74.446,2,2,18
+2021,Emilia Romagna Grand Prix,alonso,76.186,91.93744068,75.832,75.593,,15,14,9
+2021,Emilia Romagna Grand Prix,leclerc,75.367,92.98020408,75.413,74.808,74.74,4,4,8
+2021,Emilia Romagna Grand Prix,stroll,76.245,89.29378431,75.522,75.138,,10,10,5
+2021,Emilia Romagna Grand Prix,tsunoda,76.23,90.85287234,,,,20,19,19
+2021,Emilia Romagna Grand Prix,ocon,76.228,87.08376786,75.385,75.117,75.21,9,9,15
+2021,Emilia Romagna Grand Prix,max_verstappen,74.958,89.9925,75.109,74.884,74.498,3,3,20
+2021,Emilia Romagna Grand Prix,hamilton,75.515,89.51419298,74.823,74.817,74.411,1,1,10
+2021,Emilia Romagna Grand Prix,mick_schumacher,76.448,89.17176271,76.279,,,18,18,13
+2021,Emilia Romagna Grand Prix,sainz,75.834,92.04265625,75.406,75.199,,11,11,14
+2021,Emilia Romagna Grand Prix,russell,76.427,91.13614286,75.826,75.261,,12,12,16
+2021,Emilia Romagna Grand Prix,bottas,75.551,89.45276364,74.672,74.905,74.898,8,8,17
+2021,Emilia Romagna Grand Prix,giovinazzi,76.513,91.46069492,76.122,,,17,17,12
 2021,Portuguese Grand Prix,ricciardo,79.582,92.20684722,79.839,,,16,16,9
 2021,Portuguese Grand Prix,norris,79.272,93.42580952,78.794,78.481,79.116,7,7,5
 2021,Portuguese Grand Prix,vettel,80.129,91.5734,79.403,78.97,79.659,10,10,13
@@ -273,21 +273,21 @@ Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap,Q1Time,Q2Time,Q3Time,Qual
 2021,Italian Grand Prix,norris,81.202,94.3834898,80.916,80.059,79.989,4,3,2
 2021,Italian Grand Prix,vettel,81.824,95.7718,81.394,80.913,,11,11,12
 2021,Italian Grand Prix,latifi,83.442,94.38667391,81.925,,,16,13,11
-2021,Italian Grand Prix,mazepin,83.445,93.38092105,82.716,,,20,16,16
-2021,Italian Grand Prix,gasly,81.719,94.75231915,81.44,80.556,80.26,6,20,19
+2021,Italian Grand Prix,mazepin,83.445,93.38092105,82.716,,,20,15,16
+2021,Italian Grand Prix,gasly,81.719,94.75231915,81.44,80.556,80.26,6,19,19
 2021,Italian Grand Prix,perez,82.039,91.04221739,81.308,80.882,80.611,9,8,5
 2021,Italian Grand Prix,alonso,81.926,90.48747059,81.487,81.069,,13,10,8
 2021,Italian Grand Prix,leclerc,81.802,93.79620513,81.219,80.767,80.51,8,5,4
 2021,Italian Grand Prix,stroll,81.676,93.80280952,81.415,81.02,,12,9,7
-2021,Italian Grand Prix,tsunoda,82.53,93.31024561,81.973,,,17,15,20
+2021,Italian Grand Prix,tsunoda,82.53,93.31024561,81.973,,,17,20,20
 2021,Italian Grand Prix,ocon,82.534,92.69768293,81.5,81.103,,14,12,10
 2021,Italian Grand Prix,max_verstappen,81.378,90.27184211,81.035,80.229,79.966,3,1,18
 2021,Italian Grand Prix,hamilton,80.926,93.6618913,80.543,79.936,79.651,2,4,17
-2021,Italian Grand Prix,mick_schumacher,83.551,92.6834359,82.248,,,18,18,15
+2021,Italian Grand Prix,mick_schumacher,83.551,92.6834359,82.248,,,18,17,15
 2021,Italian Grand Prix,sainz,81.914,95.59620588,81.118,80.75,80.462,7,6,6
 2021,Italian Grand Prix,russell,83.092,93.19339583,81.89,81.392,,15,14,9
-2021,Italian Grand Prix,bottas,81.451,94.14482979,80.685,80.032,79.555,1,19,3
-2021,Italian Grand Prix,kubica,83.009,96.90239216,82.53,,,19,17,14
+2021,Italian Grand Prix,bottas,81.451,94.14482979,80.685,80.032,79.555,1,18,3
+2021,Italian Grand Prix,kubica,83.009,96.90239216,82.53,,,19,16,14
 2021,Italian Grand Prix,giovinazzi,82.27,93.764,81.197,80.726,80.808,10,7,13
 2021,Russian Grand Prix,ricciardo,95.63,111.2529259,108.345,106.361,104.156,5,5,4
 2021,Russian Grand Prix,norris,94.154,111.3892857,107.238,105.827,101.993,1,1,7
@@ -550,26 +550,26 @@ Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap,Q1Time,Q2Time,Q3Time,Qual
 2022,Emilia Romagna Grand Prix,sainz,80.258,93.60565306,79.305,78.99,,10,4,20
 2022,Emilia Romagna Grand Prix,russell,79.457,94.15968182,80.383,80.757,,11,11,4
 2022,Emilia Romagna Grand Prix,bottas,94.615,104.98475,80.419,80.192,90.439,8,7,5
-2022,Miami Grand Prix,leclerc,90.044,107.85348,89.474,89.13,88.796,1,1,2
-2022,Miami Grand Prix,sainz,90.964,111.7344773,90.079,89.729,88.986,2,2,3
 2022,Miami Grand Prix,max_verstappen,90.649,106.9728929,89.836,89.202,88.991,3,3,1
-2022,Miami Grand Prix,perez,90.15,111.9683846,90.055,89.673,89.036,4,4,4
-2022,Miami Grand Prix,bottas,91.885,105.1248125,90.845,89.751,89.475,5,5,7
-2022,Miami Grand Prix,hamilton,90.179,107.4583415,90.388,89.797,89.625,6,6,6
-2022,Miami Grand Prix,gasly,90.547,107.4010545,90.779,90.128,89.69,7,7,18
-2022,Miami Grand Prix,norris,90.535,107.9542885,90.761,89.634,89.75,8,8,19
-2022,Miami Grand Prix,tsunoda,91.26,108.2317705,90.485,90.031,89.932,9,9,12
-2022,Miami Grand Prix,alonso,90.372,107.6485614,90.407,90.16,,11,10,11
-2022,Miami Grand Prix,russell,89.938,108.7484783,90.49,90.173,,12,11,5
 2022,Miami Grand Prix,ricciardo,91.208,107.30144,90.583,90.31,,14,12,13
-2022,Miami Grand Prix,mick_schumacher,91.05,107.9554348,90.645,90.423,,15,13,15
-2022,Miami Grand Prix,kevin_magnussen,90.921,104.304766,90.975,,,16,14,16
-2022,Miami Grand Prix,zhou,90.86,111.0076538,91.02,,,17,15,20
-2022,Miami Grand Prix,albon,91.501,109.2830227,91.266,,,18,16,9
-2022,Miami Grand Prix,latifi,92.376,110.2098936,91.325,,,19,17,14
-2022,Miami Grand Prix,ocon,90.861,109.5158293,,,,20,18,8
-2022,Miami Grand Prix,stroll,91.631,115.2022264,90.441,89.996,90.676,10,19,10
+2022,Miami Grand Prix,norris,90.535,107.9542885,90.761,89.634,89.75,8,8,19
 2022,Miami Grand Prix,vettel,91.049,111.9100345,90.677,90.214,,13,20,17
+2022,Miami Grand Prix,latifi,92.376,110.2098936,91.325,,,19,17,14
+2022,Miami Grand Prix,gasly,90.547,107.4010545,90.779,90.128,89.69,7,7,18
+2022,Miami Grand Prix,perez,90.15,111.9683846,90.055,89.673,89.036,4,4,4
+2022,Miami Grand Prix,alonso,90.372,107.6485614,90.407,90.16,,11,10,11
+2022,Miami Grand Prix,leclerc,90.044,107.85348,89.474,89.13,88.796,1,1,2
+2022,Miami Grand Prix,stroll,91.631,115.2022264,90.441,89.996,90.676,10,19,10
+2022,Miami Grand Prix,kevin_magnussen,90.921,104.304766,90.975,,,16,14,16
+2022,Miami Grand Prix,tsunoda,91.26,108.2317705,90.485,90.031,89.932,9,9,12
+2022,Miami Grand Prix,albon,91.501,109.2830227,91.266,,,18,16,9
+2022,Miami Grand Prix,zhou,90.86,111.0076538,91.02,,,17,15,20
+2022,Miami Grand Prix,ocon,90.861,109.5158293,,,,20,18,8
+2022,Miami Grand Prix,hamilton,90.179,107.4583415,90.388,89.797,89.625,6,6,6
+2022,Miami Grand Prix,mick_schumacher,91.05,107.9554348,90.645,90.423,,15,13,15
+2022,Miami Grand Prix,sainz,90.964,111.7344773,90.079,89.729,88.986,2,2,3
+2022,Miami Grand Prix,russell,89.938,108.7484783,90.49,90.173,,12,11,5
+2022,Miami Grand Prix,bottas,91.885,105.1248125,90.845,89.751,89.475,5,5,7
 2022,Spanish Grand Prix,max_verstappen,79.844,96.00466667,80.091,79.219,79.073,2,2,1
 2022,Spanish Grand Prix,ricciardo,80.91,98.13207843,80.549,80.287,80.297,9,9,12
 2022,Spanish Grand Prix,norris,80.403,98.00958974,80.838,80.471,,11,11,8
@@ -736,26 +736,27 @@ Season,Race,DriverID,FastestPracticeLap,AvgPracticeLap,Q1Time,Q2Time,Q3Time,Qual
 2022,Hungarian Grand Prix,russell,79.355,99.72478571,78.407,78.154,77.377,1,1,3
 2022,Hungarian Grand Prix,,81.179,101.5755,,,,,,
 2022,Hungarian Grand Prix,bottas,79.411,103.4238333,78.935,78.445,78.157,8,8,20
-2022,Belgian Grand Prix,sainz,105.824,117.1184643,105.05,105.418,104.297,2,1,3
-2022,Belgian Grand Prix,perez,105.047,119.8077586,105.377,104.794,104.462,3,2,2
-2022,Belgian Grand Prix,alonso,106.061,121.7087714,106.075,105.552,105.368,6,3,5
-2022,Belgian Grand Prix,hamilton,106.769,119.2111875,105.736,105.42,105.503,7,4,20
-2022,Belgian Grand Prix,russell,106.071,119.5312162,105.65,105.461,105.776,8,5,4
-2022,Belgian Grand Prix,albon,106.836,120.7646667,105.672,105.675,105.837,9,6,10
-2022,Belgian Grand Prix,ricciardo,106.646,119.1077742,106.212,105.767,,11,7,15
-2022,Belgian Grand Prix,stroll,106.635,119.5877692,106.256,106.611,,14,8,11
-2022,Belgian Grand Prix,vettel,106.166,119.9229643,106.344,,,16,9,8
-2022,Belgian Grand Prix,latifi,106.811,122.4145,106.401,,,17,10,18
-2022,Belgian Grand Prix,kevin_magnussen,106.982,120.5284348,106.557,,,18,11,16
-2022,Belgian Grand Prix,bottas,106.881,122.5691154,107.866,,,20,12,19
-2022,Belgian Grand Prix,max_verstappen,105.184,115.7910667,104.581,104.723,103.665,1,13,1
-2022,Belgian Grand Prix,leclerc,106.12,118.4373929,105.572,104.551,104.553,4,14,6
-2022,Belgian Grand Prix,ocon,106.601,118.5077632,106.039,105.475,105.18,5,15,7
-2022,Belgian Grand Prix,norris,105.965,118.9448621,105.745,105.603,106.178,10,16,12
-2022,Belgian Grand Prix,zhou,107.089,124.2854324,106.178,106.085,,13,17,14
-2022,Belgian Grand Prix,mick_schumacher,109.941,123.2308667,106.342,107.718,,15,18,17
-2022,Belgian Grand Prix,gasly,106.604,120.28056,106.183,105.827,,12,19,9
-2022,Belgian Grand Prix,tsunoda,107.035,120.9001351,106.692,,,19,20,13
+2022,Belgian Grand Prix,max_verstappen,105.184,115.7910667,104.581,104.723,103.665,1,13,3
+2022,Belgian Grand Prix,ricciardo,106.646,119.1077742,106.212,105.767,,11,7,2
+2022,Belgian Grand Prix,norris,105.965,118.9448621,105.745,105.603,106.178,10,16,5
+2022,Belgian Grand Prix,vettel,106.166,119.9229643,106.344,,,16,9,20
+2022,Belgian Grand Prix,latifi,106.811,122.4145,106.401,,,17,10,4
+2022,Belgian Grand Prix,perez,105.047,119.8077586,105.377,104.794,104.462,3,2,10
+2022,Belgian Grand Prix,alonso,106.061,121.7087714,106.075,105.552,105.368,6,3,15
+2022,Belgian Grand Prix,leclerc,106.12,118.4373929,105.572,104.551,104.553,4,14,11
+2022,Belgian Grand Prix,stroll,106.635,119.5877692,106.256,106.611,,14,8,8
+2022,Belgian Grand Prix,kevin_magnussen,106.982,120.5284348,106.557,,,18,11,18
+2022,Belgian Grand Prix,tsunoda,107.035,120.9001351,106.692,,,19,20,16
+2022,Belgian Grand Prix,albon,106.836,120.7646667,105.672,105.675,105.837,9,6,19
+2022,Belgian Grand Prix,zhou,107.089,124.2854324,106.178,106.085,,13,17,1
+2022,Belgian Grand Prix,ocon,106.601,118.5077632,106.039,105.475,105.18,5,15,6
+2022,Belgian Grand Prix,,112.065,118.5239091,,,,,,
+2022,Belgian Grand Prix,hamilton,106.769,119.2111875,105.736,105.42,105.503,7,4,7
+2022,Belgian Grand Prix,mick_schumacher,109.941,123.2308667,106.342,107.718,,15,18,12
+2022,Belgian Grand Prix,sainz,105.824,117.1184643,105.05,105.418,104.297,2,1,14
+2022,Belgian Grand Prix,russell,106.071,119.5312162,105.65,105.461,105.776,8,5,17
+2022,Belgian Grand Prix,bottas,106.881,122.5691154,107.866,,,20,12,9
+2022,Belgian Grand Prix,gasly,106.604,120.28056,106.183,105.827,,12,19,13
 2022,Dutch Grand Prix,max_verstappen,71.793,87.27036585,71.317,70.927,70.342,1,1,1
 2022,Dutch Grand Prix,ricciardo,73.077,87.42175472,72.081,,,17,17,17
 2022,Dutch Grand Prix,norris,72.448,86.85167742,71.556,71.116,71.174,7,7,7
